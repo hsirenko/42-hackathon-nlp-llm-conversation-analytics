@@ -224,71 +224,92 @@ This table shows that all models perform well at topic labeling, with GPT-4 achi
 
 # Step 3: Show the results
 
-### Main Task
+## Main Task - Conversation Clustering Results
 
 <details>
-<summary><strong>Conversation Clustering Results</strong></summary>
+<summary><strong>📄 Model Output Format</strong></summary>
 
-<br/>
+  <br/>
 
-Results will be stored as `metrics_conversations_[community_name].csv` in your community's folder.
+  Results will be stored as `metrics_conversations_[community_name].csv` in your community's folder.
 
-For example, for the Cere Network community: `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
+  For example, for the Cere Network community: `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
 
-### Model Output Format
-The model generates a CSV file following the naming convention:
-`data/groups/<community_name>/labels_<YYYYMMDD>_<HHMMSS>_mistral7b_<community_name>.csv`
+  The model generates a CSV file following the naming convention:
+  `data/groups/<community_name>/labels_<YYYYMMDD>_<HHMMSS>_mistral7b_<community_name>.csv`
 
-For example, if you're evaluating the Cere Network community (thisiscere) and run the script on February 25, 2025 at 20:22:30, the output file will be:
-`data/groups/thisiscere/labels_20250225_202230_mistral7b_thisiscere.csv`
+  For example, if you're evaluating the Cere Network community (thisiscere) and run the script on February 25, 2025 at 20:22:30, the output file will be:
+  `data/groups/thisiscere/labels_20250225_202230_mistral7b_thisiscere.csv`
 
-The file will have the following format (and for readability, we've only included a sample of the data):
-```csv
-message_id,conversation_id,topic,timestamp,labeler_id,confidence
-36598,1,Token Discussion,2021-07-14T14:26:50Z,mistral7b,0.85
-36635,2,Project Updates,2025-01-15T02:52:44Z,mistral7b,0.82
-36638,0,Spam Message,2025-01-15T04:31:48Z,mistral7b,0.95
-```
+  The file will have the following format (and for readability, we've only included a sample of the data):
+  ```csv
+  message_id,conversation_id,topic,timestamp,labeler_id,confidence
+  36598,1,Token Discussion,2021-07-14T14:26:50Z,mistral7b,0.85
+  36635,2,Project Updates,2025-01-15T02:52:44Z,mistral7b,0.82
+  36638,0,Spam Message,2025-01-15T04:31:48Z,mistral7b,0.95
+  ```
 
-Which translates to this more readable table:
+  Which translates to this more readable table:
 
-| Message ID | Conversation ID | Topic | Timestamp | Labeler ID | Confidence |
-|------------|----------------|--------|-----------|------------|------------|
-| 36598 | 1 | Token Discussion | 2021-07-14T14:26:50Z | mistral7b | 0.85 |
-| 36635 | 2 | Project Updates | 2025-01-15T02:52:44Z | mistral7b | 0.82 |
-| 36638 | 0 | Spam Message | 2025-01-15T04:31:48Z | mistral7b | 0.95 |
+  | Message ID | Conversation ID | Topic | Timestamp | Labeler ID | Confidence |
+  |------------|----------------|--------|-----------|------------|------------|
+  | 36598 | 1 | Token Discussion | 2021-07-14T14:26:50Z | mistral7b | 0.85 |
+  | 36635 | 2 | Project Updates | 2025-01-15T02:52:44Z | mistral7b | 0.82 |
+  | 36638 | 0 | Spam Message | 2025-01-15T04:31:48Z | mistral7b | 0.95 |
 
-### Performance Metrics
-
-| Model | ARI Score (-1 to 1) | Messages Processed | Notes |
-|-------|-------------------|-------------------|-------|
-| GPT-4 | 0.583 | 49 | Moderate conversation grouping accuracy |
-| Mistral 7B | 0.865 | 67 | Strong conversation grouping, processed more messages |
-| Claude 3.5 | 0.568 | 49 | Moderate conversation grouping accuracy |
-
-
-To visualize or further analyze these results, you can:
-1. Load the CSV files into your preferred data analysis tool (Python pandas, Excel, etc.)
-2. Create comparative visualizations of model performance
-3. Analyze trends across different evaluation aspects
-4. Export metrics for integration with other monitoring tools
-
-The standardized CSV format makes it easy to:
-- Compare performance across different models
-- Track improvements over time
-- Identify specific areas where models excel or need improvement
-- Generate custom reports and visualizations
-
-Remember: The examples shown above are from the Cere Network community evaluation. When you run the evaluations on a different community, the file paths and content will reflect that community's name and data.
+  You might be wondering - how well did the model perform? Is it good? Is it bad? To answer this question, we need to look at the performance metrics.
 
 </details>
 
-### Additional Tasks
+<details>
+<summary><strong>📊 Performance Metrics</strong></summary>
+
+  <br/>
+
+  If you want to see what the performance metrics are for the model predictions you've just generated, you can run the following command:
+
+  ```bash
+  python conversation_metrics.py data/groups/thisiscere
+  ```
+
+  This will generate a CSV file with the performance metrics for the model predictions. It will take into account several reference models that have been already evaluated on the same data (GPT-4o, Claude 3.5, DeepSeek V3), as well as the model you've just run (Mistral 7B). 
+  
+  To calculate the metrics, the script "looks at":
+  * what labels all the models generated (in the directory associated with the community), for example:
+    - `data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
+    - `data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
+    - `data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
+    - `data/groups/thisiscere/labels_20250225_202230_mistral7b_thisiscere.csv`
+  * what the labels are for the ground truth (manually labelled by a human):
+    - `data/groups/thisiscere/GT_conversations_thisiscere.csv`
+  
+  and then calculates the metrics based on that.
+  
+  The big picture understanding you need to have is, the closer the model labels are to the ground truth, the better the model is. The perfect score is 1, and the worst score is -1.
+  
+  If you want to understand this evaluation on a deeper level, you can read more about the metrics in the [Knowledge Base](#useful-links).
+
+  | Model | ARI Score (-1 to 1) | Messages Processed | Notes |
+  |-------|-------------------|-------------------|-------|
+  | GPT-4 | 0.583 | 49 | Moderate conversation grouping accuracy |
+  | DeepSeek V3 | 0.865 | 67 | Best performance, processed most messages |
+  | Claude 3.5 | 0.568 | 49 | Moderate conversation grouping accuracy |
+  | Mistral 7B | 0.219 | 27 | Lower accuracy, processed fewer messages |
+
+
+  **Now you can see how the open source, locally deployed model performs against the big players 🏆 (GPT-4o, Claude 3.5, DeepSeek V3). As you can see, there's quite a performance gap - the ARI score for the smaller model is 0.219, while the big players are around 0.865 (with 1 being the perfect score).**
+
+  **Your focus and core task is to try to close this gap 🎯 by experimenting with different models, different parameters, different system prompts, etc.**
+  
+  **Now that you understand this context, you can start experimenting! Feel free to jump straight into step number 4, referenced here: [Step 4: Experiment with different models](#step-4-experiment-with-different-models)**
+
+</details>
+
+## Additional Tasks
 
 <details>
 <summary><strong>Spam Detection Results (Optional ⭐)</strong></summary>
 
-<br/>
 
 Results will be stored as `metrics_spam_detection_[community_name].csv` in your community's folder.
 
@@ -322,8 +343,6 @@ This table shows that while all models achieve perfect recall (catching all spam
 <details>
 <summary><strong>Topic Labeling Results (Optional ⭐)</strong></summary>
 
-<br/>
-
 Results will be stored as `metrics_topics_[community_name].csv` in your community's folder.
 
 For example, for the Cere Network community: `data/groups/thisiscere/metrics_topics_thisiscere.csv`
@@ -354,7 +373,7 @@ Which translates to this more readable table:
 This table shows that all models perform well at topic labeling, with GPT-4 achieving the highest scores across all metrics. GPT-4 particularly excels in information density and redundancy reduction, while Claude 3.5 maintains strong performance across all categories. DeepSeek V3 shows good results but has slightly lower scores in information density and efficiency.
 </details>
 
-### Useful links
+## Useful links
 
 <details>
 <summary><strong>🖥️ Frontend Visualization - Interactive Results Explorer</strong></summary>
