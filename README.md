@@ -582,6 +582,12 @@ The standardized CSV format makes it easy to:
 
 Remember: The examples shown above are from the Cere Network community evaluation. When you run the evaluations on a different community, the file paths and content will reflect that community's name and data.
 
+### See the results in the Frontend Visualization (Optional)
+
+For a more interactive experience with a graphical user interface, you can access the results through our web application:
+- Frontend Application URL: https://conversation-detection.stage.cere.io/
+<br/><br/>
+
 # Step 4: 🎯 Your First Challenge - Hot swap different models
 
 ## Open Source Examples
