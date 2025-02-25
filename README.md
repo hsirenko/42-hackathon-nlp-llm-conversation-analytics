@@ -583,56 +583,80 @@ The evaluation emphasizes high precision to avoid disrupting legitimate conversa
 
 # Step 4: Your First Challenge - Experiment with Different Models
 
-Now that you've run the evaluation with Mistral 7B, it's time to experiment with other models! Ollama provides access to various open-source models that you can try.
+In Step 2, we used a script specifically designed for Mistral 7B (`open_source_examples/mistral.py`). Now, we'll use a more flexible, general-purpose script (`model_playground.py`) that can work with any model available through Ollama. This script is designed to be configurable through a YAML file, allowing you to easily experiment with different models, parameters, and system prompts without changing the code.
 
 <details>
 <summary><strong>🔧 Practical Guide: How to Experiment with Different Models</strong></summary>
 
 <br/>
 
-1. First, see what models are available:
+1. First, check if Ollama is running and start it if needed:
 ```bash
-ollama list
+# Check if Ollama is running
+ollama serve
+
+# If you see "address already in use", Ollama is already running
+# If not running, the command above will start the server
 ```
 
-2. Pull additional models you want to try. Here are some suggestions:
+2. Pull the model you want to experiment with:
 ```bash
-# Try the latest Llama2 model
+# Try different models available in Ollama
 ollama pull llama2
-
-# Or experiment with CodeLlama
 ollama pull codellama
-
-# Or try Phi-2
 ollama pull phi
 ```
 
-3. Modify the example script to work with your chosen model:
-- Copy `open_source_examples/mistral.py` to create your own version
-- Update the model name and any model-specific parameters
-- Run your evaluation with the new model
-- Compare the results with Mistral 7B's performance
+3. Configure your experiment in `open_source_examples/model_config.yaml`:
+```yaml
+# Update the model configuration
+model:
+  name: "llama2"  # Change to your chosen model
+  temperature: 0.7  # Adjust temperature (higher = more creative, lower = more focused)
+  max_tokens: 1000  # Adjust based on your needs
+  top_p: 0.9  # Adjust sampling parameters
 
-### Research Questions to Explore
+# Other configurations (prompt, output, processing) can also be modified
+```
 
-As you experiment with different models, consider these questions:
-- How do different model sizes affect the conversation clustering accuracy?
-- What's the trade-off between model size and performance?
-- Which models are better at specific aspects (topic labeling, spam detection)?
-- Can you find a model that performs better than Mistral 7B for your specific use case?
+4. Run your experiment:
+```bash
+# Use the general-purpose script with your config
+python model_playground.py data/groups/thisiscere/messages_thisiscere.csv --config open_source_examples/model_config.yaml
+```
 
-### Tips for Model Experimentation
+5. Compare results:
+```bash
+# Generate metrics for your experiment
+python conversation_metrics.py data/groups/thisiscere
+```
 
-- Start with smaller models first to understand the evaluation process
-- Keep track of your results in a systematic way
-- Consider factors like:
-  * Model size vs. performance
-  * Processing speed
-  * Resource requirements
-  * Quality of topic labels
-  * Accuracy of conversation grouping
+### Key Areas for Experimentation
 
-Remember to check the [Ollama model library](https://ollama.ai/library) for the latest available models and their specific capabilities.
+1. **Model Selection**
+   - Try different model sizes and architectures
+   - Compare specialized models (e.g., CodeLlama) with general models
+   - Test latest models from the [Ollama model library](https://ollama.ai/library)
+
+2. **Parameter Tuning**
+   - Adjust temperature for creativity vs. precision
+   - Modify max_tokens for different output lengths
+   - Fine-tune top_p for different sampling strategies
+
+3. **Processing Configuration**
+   - Experiment with batch_size for different processing speeds
+   - Adjust max_context_messages for different context windows
+   - Try different confidence thresholds
+
+### Tips for Systematic Experimentation
+
+- Keep a log of your experiments and their results
+- Change one parameter at a time to understand its impact
+- Monitor both performance metrics and resource usage
+- Consider trade-offs between accuracy and processing speed
+- Document any interesting findings or patterns you discover
+
+Remember: The goal is to improve upon the baseline Mistral 7B performance (ARI score of 0.219) by finding the right combination of model and parameters for optimal conversation clustering.
 </details>
 
 <br/>
