@@ -5,7 +5,7 @@
 - [Step 1: Import the evaluation data](#step-1-import-the-evaluation-data)
 - [Step 2: Run the evaluation](#step-2-run-the-evaluation)
 - [Step 3: Show the results](#step-3-show-the-results)
-- [Step 4: Hot swap different models](#step-4-hot-swap-different-models)
+- [Step 4: 🎯 Your First Challenge](#step-4-hot-swap-different-models)
 - [Step 5: Start understanding the modifying the prompts, pre-grouping techniques, models](#step-5-start-understanding-the-modifying-the-prompts-pre-grouping-techniques-models)
 
 # Overview
@@ -24,7 +24,7 @@ The benchmarking system is designed to evaluate models on three primary tasks:
 # Step 1: Import the evaluation data
 
 The evaluation data you'll be working with has already been pre-packaged for you so you do not need to worry about parsing or downloading the data.
-If you want to look broadly at all the different communities and the files associated with them, you can do so by navigating to the `frontend/public/data/groups` folder. As you'll see, there's 10 different communities associated with different Telegram groups for you to choose from. For our case, we'll be focusing on the Cere Network community, associated with the `thisiscere` Telegram group.
+If you want to look broadly at all the different communities and the files associated with them, you can do so by navigating to the `data/groups` folder. As you'll see, there's 10 different communities associated with different Telegram groups for you to choose from. For our case, we'll be focusing on the Cere Network community, associated with the `thisiscere` Telegram group.
 
 In every community, the data is organized into the following file types:
 
@@ -33,7 +33,7 @@ In every community, the data is organized into the following file types:
 
 The input data contains complete conversation histories from each Telegram community group chat, including message content, timestamps, and user information. This serves as the primary source for all our analysis tasks.
 
-  * File path: `frontend/public/data/groups/thisiscere/messages_thisiscere.csv`
+  * File path: `data/groups/thisiscere/messages_thisiscere.csv`
   * Contains original conversation content, timestamps, and user information
   * Primary input for all evaluations
 
@@ -51,7 +51,7 @@ The input data contains complete conversation histories from each Telegram commu
 
 These files contain human-annotated labels for conversations and spam messages, serving as the gold standard against which we evaluate model performance. Each file represents a different aspect of the ground truth: conversation groupings and spam identification.
 
-  * `frontend/public/data/groups/thisiscere/GT_conversations_thisiscere.csv`: Manual conversation grouping labels
+  * `data/groups/thisiscere/GT_conversations_thisiscere.csv`: Manual conversation grouping labels
 
     | Message ID | Conversation ID |
     |------------|----------------|
@@ -61,7 +61,7 @@ These files contain human-annotated labels for conversations and spam messages, 
     | 36588 | 3 |
     | 36582 | 2 |
 
-  * `frontend/public/data/groups/thisiscere/GT_spam_thisiscere.csv`: Manual spam classification labels
+  * `data/groups/thisiscere/GT_spam_thisiscere.csv`: Manual spam classification labels
 
     | Message ID | Is Spam |
     |------------|---------|
@@ -72,7 +72,7 @@ These files contain human-annotated labels for conversations and spam messages, 
     | 36582 | 0 |
 </details>
 
-For readability's sake, for every individual file, we've provided just a small sample of the data. You're welcome to look at the full data in the `frontend/public/data/groups/thisiscere` folder.
+For readability's sake, for every individual file, we've provided just a small sample of the data. You're welcome to look at the full data in the `data/groups/thisiscere` folder.
 
 # Step 2: Run the evaluation
 
@@ -96,7 +96,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 # Install dependencies
-pip install -r llm_benchmarks/requirements.txt
+pip install -r requirements.txt
 
 # IMPORTANT: Set up API keys for model access
 # These are required to run any benchmarks with state-of-the-art models
@@ -120,22 +120,22 @@ ANTHROPIC_API_KEY=your-anthropic-key
 The conversation clustering evaluation assesses how well different models group related messages into coherent conversations.
 
 ### Required Files
-- Ground truth file: `frontend/public/data/groups/thisiscere/GT_conversations_thisiscere.csv`
+- Ground truth file: `data/groups/thisiscere/GT_conversations_thisiscere.csv`
 - Model prediction files:
-  * GPT-4: `frontend/public/data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
-  * Claude 3.5: `frontend/public/data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
-  * DeepSeek V3: `frontend/public/data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
+  * GPT-4: `data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
+  * Claude 3.5: `data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
+  * DeepSeek V3: `data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
 
 ### Running the Evaluation
 ```bash
-python llm_benchmarks/conversation_metrics.py frontend/public/data/groups/thisiscere
+python conversation_metrics.py data/groups/thisiscere
 ```
 
 ### Output
 The script will generate:
 - Adjusted Rand Index (ARI) scores for clustering performance
 - Number of messages processed by each model
-- Results saved as `frontend/public/data/groups/thisiscere/metrics_conversations_thisiscere.csv`
+- Results saved as `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
 
 Example output:
 ```csv
@@ -164,21 +164,21 @@ This table shows that DeepSeek V3 achieves notably better conversation grouping 
 The spam detection evaluation compares how well different models identify spam messages in a community.
 
 ### Required Files
-- Ground truth file: `frontend/public/data/groups/thisiscere/GT_spam_thisiscere.csv`
+- Ground truth file: `data/groups/thisiscere/GT_spam_thisiscere.csv`
 - Model prediction files:
-  * GPT-4: `frontend/public/data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
-  * Claude 3.5: `frontend/public/data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
-  * DeepSeek V3: `frontend/public/data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
+  * GPT-4: `data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
+  * Claude 3.5: `data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
+  * DeepSeek V3: `data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
 
 ### Running the Evaluation
 ```bash
-python llm_benchmarks/spam_metrics.py frontend/public/data/groups/thisiscere
+python spam_metrics.py data/groups/thisiscere
 ```
 
 ### Output
 The script will generate:
 - Accuracy, precision, recall, and F1 scores for each model
-- Results saved as `frontend/public/data/groups/thisiscere/metrics_spam_detection_thisiscere.csv`
+- Results saved as `data/groups/thisiscere/metrics_spam_detection_thisiscere.csv`
 
 Example output:
 ```csv
@@ -214,14 +214,14 @@ The topic labeling evaluation assesses the quality and informativeness of conver
 
 ### Required Files
 - Model prediction files:
-  * GPT-4: `frontend/public/data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
-  * Claude 3.5: `frontend/public/data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
-  * DeepSeek V3: `frontend/public/data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
-- Original message content: `frontend/public/data/groups/thisiscere/messages_thisiscere.csv`
+  * GPT-4: `data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
+  * Claude 3.5: `data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
+  * DeepSeek V3: `data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
+- Original message content: `data/groups/thisiscere/messages_thisiscere.csv`
 
 ### Running the Evaluation
 ```bash
-python llm_benchmarks/topic_metrics.py frontend/public/data/groups/thisiscere
+python evaluate_topics.py data/groups/thisiscere
 ```
 
 ### Output
@@ -230,7 +230,7 @@ The script will generate:
 - Redundancy metrics
 - Contextual relevance scores
 - Label efficiency ratings
-- Results saved as `frontend/public/data/groups/thisiscere/metrics_topics_thisiscere.csv`
+- Results saved as `data/groups/thisiscere/metrics_topics_thisiscere.csv`
 
 Example output:
 ```csv
@@ -263,7 +263,7 @@ By following these steps, you'll be able to comprehensively evaluate any LLM's p
 
 # Step 3: Show the results
 
-After running the evaluations, the results will be stored in the community folder you're evaluating. For example, if you're evaluating the Cere Network community (which we've been using as an example throughout this guide), the results will be in `frontend/public/data/groups/thisiscere/`. For any other community, replace `thisiscere` with your community's name in the paths below.
+After running the evaluations, the results will be stored in the community folder you're evaluating. For example, if you're evaluating the Cere Network community (which we've been using as an example throughout this guide), the results will be in `data/groups/thisiscere/`. For any other community, replace `thisiscere` with your community's name in the paths below.
 
 <details>
 <summary><strong>📚 Knowledge Base - Theory behind evaluation metrics</strong></summary>
@@ -476,7 +476,7 @@ Now that we've seen the model outputs that had been pre-processed for you in adv
 
 Results will be stored as `metrics_conversations_[community_name].csv` in your community's folder.
 
-For example, for the Cere Network community: `frontend/public/data/groups/thisiscere/metrics_conversations_thisiscere.csv`
+For example, for the Cere Network community: `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
 
 This file contains:
 - ARI (Adjusted Rand Index): Measure of clustering accuracy (-1 to 1)
@@ -508,7 +508,7 @@ This table shows that DeepSeek V3 achieves notably better conversation grouping 
 
 Results will be stored as `metrics_spam_detection_[community_name].csv` in your community's folder.
 
-For example, for the Cere Network community: `frontend/public/data/groups/thisiscere/metrics_spam_detection_thisiscere.csv`
+For example, for the Cere Network community: `data/groups/thisiscere/metrics_spam_detection_thisiscere.csv`
 
 This file contains:
 - Accuracy: Overall correctness of spam classification
@@ -540,7 +540,7 @@ This table shows that while all models achieve perfect recall (catching all spam
 
 Results will be stored as `metrics_topics_[community_name].csv` in your community's folder.
 
-For example, for the Cere Network community: `frontend/public/data/groups/thisiscere/metrics_topics_thisiscere.csv`
+For example, for the Cere Network community: `data/groups/thisiscere/metrics_topics_thisiscere.csv`
 
 This file contains:
 - Information Density: How well topics capture essential information (1-10)
@@ -586,7 +586,7 @@ Remember: The examples shown above are from the Cere Network community evaluatio
 
 ## Open Source Examples
 
-For those interested in using open-source, self-hosted models, we provide a detailed guide and example implementations in the `llm_benchmarks/open_source_examples` directory. The guide covers:
+For those interested in using open-source, self-hosted models, we provide a detailed guide and example implementations in the `open_source_examples` directory. The guide covers:
 
 <details>
 <summary><strong>1. Ollama Setup & Configuration</strong></summary>
@@ -606,7 +606,7 @@ For those interested in using open-source, self-hosted models, we provide a deta
 - Demonstrates best practices for adding new models
 </details>
 
-Check out `llm_benchmarks/open_source_examples/README.md` for:
+Check out `open_source_examples/README.md` for:
 - Detailed setup instructions
 - Implementation guidelines
 - Output format specifications
@@ -620,5 +620,5 @@ This allows you to:
 4. Contribute your own implementations
 
 # Step 5: Start understanding the modifying the prompts, pre-grouping techniques, models
-*  show how you're able to connect this to the existing data 
 
+This is the advanced step where you'll start to understand how to modify the prompts, pre-grouping techniques, and models to improve the performance of the model.
