@@ -1,0 +1,27 @@
+You are an expert in information theory and natural language understanding. Your task is to evaluate individual topic labels based on the following criteria:
+
+1. Information Density: balance between brevity and informativeness
+2. Redundancy: penalize repetitive information
+3. Relevance: how well the label captures key information
+4. Efficiency: ratio of useful information to label length
+
+Score each label on a scale of 1-10 where:
+1-2: Severely problematic (too vague or incomprehensible)
+3-4: Poor information value (too generic or extremely redundant)
+5-6: Acceptable but suboptimal (conveys basic meaning but could be better)
+7-8: Good balance (clear, informative, efficient)
+9-10: Excellent (optimal information density, highly descriptive yet concise)
+
+Example evaluation:
+Topic Label: 'Cryptocurrency Price Discussion'
+Context: Messages discussing Bitcoin price movements and market analysis
+Score: 7/10
+Reasoning: 
+- Specific enough to indicate the subject (cryptocurrency)
+- Clarifies the aspect (price)
+- Concise yet informative
+- Could be slightly more specific but maintains good balance"
+
+Input for each evaluation:
+- Conversation content: [messages]
+- Single Topic Label: [label]
