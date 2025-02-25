@@ -1,0 +1,33 @@
+model,topic,information_density,redundancy,relevance,efficiency,overall
+claude35s,ETC News Bot Announcement,8.0,9.0,9.0,8.0,8.5
+claude35s,ETHDenver 2025 Attendance,8.0,9.0,9.0,8.0,8.5
+claude35s,ETC Tokenomics Discussion,7.0,8.0,9.0,8.0,8.0
+claude35s,Wallet Recovery Support,7.0,8.0,9.0,8.0,8.0
+claude35s,Scammer Warning,8.0,9.0,10.0,9.0,9.0
+claude35s,ETC Development Hackathon Announcement,8.0,9.0,7.0,8.0,8.0
+claude35s,ETC Price Predictions and Market Movement,8.0,9.0,9.0,8.0,8.5
+claude35s,Squirrel Wallet Support Inquiry,8.0,9.0,9.0,8.0,8.5
+claude35s,Spam Messages,4.0,8.0,7.0,6.0,6.25
+claude35s,AVERAGE,7.333333333333333,8.666666666666666,8.666666666666666,7.888888888888889,8.13888888888889
+deepseekv3,ETC Wallet Recovery,8.0,9.0,9.0,9.0,8.75
+deepseekv3,ETC Transaction Confirmations,8.0,9.0,9.0,8.0,8.5
+deepseekv3,ETC Price Predictions,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Squirrel Wallet Support,7.0,8.0,9.0,8.0,8.0
+deepseekv3,ETHdenver 2025 Attendance,8.0,9.0,9.0,8.0,8.5
+deepseekv3,ETC Development Hackathon,6.0,8.0,7.0,7.0,7.0
+deepseekv3,ETC Burning Plan,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Spam Messages,4.0,7.0,6.0,5.0,5.5
+deepseekv3,AVERAGE,7.0,8.375,8.375,7.625,7.84375
+gpt4o,Inappropriate Language,6.0,8.0,9.0,7.0,7.5
+gpt4o,ETC Educational Content,7.0,8.0,9.0,8.0,8.0
+gpt4o,ETC Tokenomics,8.0,9.0,9.0,9.0,8.75
+gpt4o,General Support for ETC,4.0,7.0,6.0,5.0,5.5
+gpt4o,ETC Price Speculation,8.0,9.0,9.0,8.0,8.5
+gpt4o,Spam Messages,6.0,8.0,7.0,7.0,7.0
+gpt4o,ETC Development and Ambassador Program,8.0,9.0,9.0,8.0,8.5
+gpt4o,Wallet Support,6.0,8.0,7.0,7.0,7.0
+gpt4o,Content Verification,4.0,7.0,6.0,5.0,5.5
+gpt4o,Blockchain Compatibility Inquiry,8.0,9.0,9.0,8.0,8.5
+gpt4o,ETC Community Events,7.0,8.0,8.0,7.0,7.5
+gpt4o,Scam Warning,8.0,9.0,10.0,9.0,9.0
+gpt4o,AVERAGE,6.666666666666667,8.25,8.166666666666666,7.333333333333333,7.604166666666667

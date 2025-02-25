@@ -1,0 +1,68 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,Recovering Scammed Coins,2024-02-06T10:55:00Z,1,0.95
+2,1,Recovering Scammed Coins,2024-02-06T10:57:00Z,1,0.95
+3,1,Recovering Scammed Coins,2024-02-06T10:57:00Z,1,0.95
+4,1,Recovering Scammed Coins,2024-02-06T10:59:00Z,1,0.95
+5,1,Recovering Scammed Coins,2024-02-06T10:59:00Z,1,0.95
+6,1,Recovering Scammed Coins,2024-02-06T10:59:00Z,1,0.95
+7,1,Recovering Scammed Coins,2024-02-06T11:01:00Z,1,0.95
+8,1,Recovering Scammed Coins,2024-02-06T11:01:00Z,1,0.95
+9,1,Recovering Scammed Coins,2024-02-06T11:01:00Z,1,0.95
+10,1,Recovering Scammed Coins,2024-02-06T11:01:00Z,1,0.95
+11,1,Recovering Scammed Coins,2024-02-06T11:01:00Z,1,0.95
+12,1,Recovering Scammed Coins,2024-02-06T11:03:00Z,1,0.95
+13,0,Spam Messages,2024-02-06T11:03:00Z,1,0.95
+14,0,Spam Messages,2024-02-06T11:04:00Z,1,0.95
+15,1,Recovering Scammed Coins,2024-02-06T11:04:00Z,1,0.95
+16,1,Recovering Scammed Coins,2024-02-06T11:04:00Z,1,0.95
+17,0,Spam Messages,2024-02-06T11:04:00Z,1,0.95
+18,1,Recovering Scammed Coins,2024-02-06T11:05:00Z,1,0.95
+19,1,Recovering Scammed Coins,2024-02-06T11:05:00Z,1,0.95
+20,1,Recovering Scammed Coins,2024-02-06T11:05:00Z,1,0.95
+21,1,Recovering Scammed Coins,2024-02-06T11:06:00Z,1,0.95
+22,1,Recovering Scammed Coins,2024-02-06T11:07:00Z,1,0.95
+23,2,Financial Loss in Trading,2024-02-06T11:08:00Z,1,0.95
+24,0,Spam Messages,2024-02-06T11:08:00Z,1,0.95
+25,0,Spam Messages,2024-02-06T11:09:00Z,1,0.95
+26,1,Recovering Scammed Coins,2024-02-06T11:09:00Z,1,0.95
+27,1,Recovering Scammed Coins,2024-02-06T11:09:00Z,1,0.95
+28,2,Financial Loss in Trading,2024-02-06T11:09:00Z,1,0.95
+29,2,Financial Loss in Trading,2024-02-06T11:10:00Z,1,0.95
+30,0,Spam Messages,2024-02-06T11:14:00Z,1,0.95
+31,2,Financial Loss in Trading,2024-02-06T11:14:00Z,1,0.95
+32,2,Financial Loss in Trading,2024-02-06T11:14:00Z,1,0.95
+33,1,Recovering Scammed Coins,2024-02-06T11:14:00Z,1,0.95
+34,1,Recovering Scammed Coins,2024-02-06T11:15:00Z,1,0.95
+35,1,Recovering Scammed Coins,2024-02-06T11:16:00Z,1,0.95
+36,1,Recovering Scammed Coins,2024-02-06T11:16:00Z,1,0.95
+37,0,Spam Messages,2024-02-06T11:16:00Z,1,0.95
+38,2,Financial Loss in Trading,2024-02-06T11:17:00Z,1,0.95
+39,2,Financial Loss in Trading,2024-02-06T11:17:00Z,1,0.95
+40,2,Financial Loss in Trading,2024-02-06T11:17:00Z,1,0.95
+41,1,Recovering Scammed Coins,2024-02-06T11:17:00Z,1,0.95
+42,1,Recovering Scammed Coins,2024-02-06T11:17:00Z,1,0.95
+43,1,Recovering Scammed Coins,2024-02-06T11:17:00Z,1,0.95
+44,0,Spam Messages,2024-02-06T11:17:00Z,1,0.95
+45,3,Crypto Price Inquiry,2024-02-06T11:18:00Z,1,0.95
+46,3,Crypto Price Inquiry,2024-02-06T11:18:00Z,1,0.95
+47,1,Recovering Scammed Coins,2024-02-06T11:18:00Z,1,0.95
+48,1,Recovering Scammed Coins,2024-02-06T11:18:00Z,1,0.95
+49,0,Spam Messages,2024-02-06T11:18:00Z,1,0.95
+50,1,Recovering Scammed Coins,2024-02-06T11:18:00Z,1,0.95
+51,0,Spam Messages,2024-02-06T11:18:00Z,1,0.95
+52,0,Spam Messages,2024-02-06T11:18:00Z,1,0.95
+53,3,Crypto Price Inquiry,2024-02-06T11:18:00Z,1,0.95
+54,0,Spam Messages,2024-02-06T11:18:00Z,1,0.95
+55,3,Crypto Price Inquiry,2024-02-06T11:18:00Z,1,0.95
+56,3,Crypto Price Inquiry,2024-02-06T11:19:00Z,1,0.95
+57,0,Spam Messages,2024-02-06T11:21:00Z,1,0.95
+58,2,Financial Loss in Trading,2024-02-06T11:21:00Z,1,0.95
+59,2,Financial Loss in Trading,2024-02-06T11:21:00Z,1,0.95
+60,3,Crypto Price Inquiry,2024-02-06T11:28:00Z,1,0.95
+61,3,Crypto Price Inquiry,2024-02-06T11:28:00Z,1,0.95
+62,3,Crypto Price Inquiry,2024-02-06T11:30:00Z,1,0.95
+63,3,Crypto Price Inquiry,2024-02-06T11:30:00Z,1,0.95
+64,2,Financial Loss in Trading,2024-02-06T11:30:00Z,1,0.95
+65,3,Crypto Price Inquiry,2024-02-06T11:30:00Z,1,0.95
+66,3,Crypto Price Inquiry,2024-02-06T11:30:00Z,1,0.95
+67,0,Spam Messages,2024-02-06T11:30:00Z,1,0.95

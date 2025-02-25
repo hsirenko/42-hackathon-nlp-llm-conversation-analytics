@@ -1,0 +1,94 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,TV Commercial Discussion,2024-03-05T19:46:00Z,system,0.7
+2,2,DKG vs ChatGPT Information Verification,2024-03-05T23:27:00Z,system,0.9
+3,2,DKG vs ChatGPT Information Verification,2024-03-05T23:58:00Z,system,0.9
+4,2,DKG vs ChatGPT Information Verification,2024-03-06T00:03:00Z,system,0.9
+5,2,DKG vs ChatGPT Information Verification,2024-03-06T00:04:00Z,system,0.9
+6,2,DKG vs ChatGPT Information Verification,2024-03-06T00:04:00Z,system,0.9
+7,2,DKG vs ChatGPT Information Verification,2024-03-06T00:05:00Z,system,0.9
+8,2,DKG vs ChatGPT Information Verification,2024-03-06T00:05:00Z,system,0.9
+9,2,DKG vs ChatGPT Information Verification,2024-03-06T00:05:00Z,system,0.9
+10,1,TV Commercial Discussion,2024-03-06T00:20:00Z,system,0.9
+11,1,TV Commercial Discussion,2024-03-06T00:41:00Z,system,0.9
+12,1,TV Commercial Discussion,2024-03-06T00:51:00Z,system,0.9
+13,1,TV Commercial Discussion,2024-03-06T00:53:00Z,system,0.9
+14,1,TV Commercial Discussion,2024-03-06T01:05:00Z,system,0.9
+15,1,TV Commercial Discussion,2024-03-06T01:05:00Z,system,0.9
+16,2,DKG vs ChatGPT Information Verification,2024-03-06T02:35:00Z,system,0.9
+17,2,DKG vs ChatGPT Information Verification,2024-03-06T02:47:00Z,system,0.9
+18,0,Spam Messages,2024-03-06T04:42:00Z,system,1.0
+19,0,Spam Messages,2024-03-06T04:50:00Z,system,1.0
+20,3,Partnership Inquiry,2024-03-06T09:33:00Z,system,0.9
+21,3,Partnership Inquiry,2024-03-06T08:36:00Z,system,0.9
+22,3,Partnership Inquiry,2024-03-06T08:51:00Z,system,0.9
+23,4,OriginTrail Use Cases Discussion,2024-03-06T10:42:00Z,system,0.9
+24,5,Basic Token Information Inquiry,2024-03-06T11:44:00Z,system,0.9
+25,5,Basic Token Information Inquiry,2024-03-06T11:47:00Z,system,0.9
+26,4,OriginTrail Use Cases Discussion,2024-03-06T11:53:00Z,system,0.9
+27,4,OriginTrail Use Cases Discussion,2024-03-06T11:59:00Z,system,0.9
+28,5,Basic Token Information Inquiry,2024-03-06T12:06:00Z,system,0.9
+29,5,Basic Token Information Inquiry,2024-03-06T12:06:00Z,system,0.9
+30,5,Basic Token Information Inquiry,2024-03-06T12:08:00Z,system,0.9
+31,6,BSI Partnership Query,2024-03-06T12:09:00Z,system,0.9
+51,1,OriginTrail Paranets Announcement,2024-03-06T16:20:00Z,system,0.9
+52,2,Unspecified Bug Discussion,2024-03-06T16:53:00Z,system,0.6
+53,1,OriginTrail Protocol Revenue Update,2024-03-06T16:55:00Z,system,0.9
+54,1,Protocol Revenue Discussion,2024-03-06T17:11:00Z,system,0.8
+55,3,TRAC Historical Price Discussion,2024-03-06T17:26:00Z,system,0.9
+56,3,TRAC ICO Price Discussion,2024-03-06T17:39:00Z,system,0.9
+57,3,TRAC ICO Investment Confirmation,2024-03-06T17:48:00Z,system,0.9
+58,4,NVIDIA GTC Event Planning,2024-03-06T17:58:00Z,system,0.8
+59,3,TRAC ICO Investment Query,2024-03-06T19:38:00Z,system,0.9
+60,1,OriginTrail Podcast Announcement,2024-03-06T19:39:00Z,system,0.9
+61,3,TRAC Historical Price Quote,2024-03-06T19:41:00Z,system,0.9
+62,3,TRAC Presale Price Information,2024-03-06T19:41:00Z,system,0.9
+63,3,ICO Join Date Discussion,2024-03-06T19:42:00Z,system,0.9
+64,3,Chat History Check Question,2024-03-06T19:42:00Z,system,0.9
+65,3,Chat History Check Response,2024-03-06T19:42:00Z,system,0.9
+66,3,TRAC-ETH Price History,2024-03-06T19:43:00Z,system,0.9
+67,3,TRAC-ETH Current Price,2024-03-06T19:44:00Z,system,0.9
+68,3,Historical ETH Price Context,2024-03-06T19:45:00Z,system,0.9
+69,3,TRAC vs ETH Performance,2024-03-06T19:46:00Z,system,0.9
+70,3,TRAC Ticker History,2024-03-06T19:48:00Z,system,0.9
+71,3,TRACE Token History,2024-03-06T19:48:00Z,system,0.9
+72,5,Scam Alert Discussion,2024-03-06T19:49:00Z,system,0.8
+73,5,Scam Confirmation,2024-03-06T19:58:00Z,system,0.9
+74,5,Scam Warning,2024-03-06T20:04:00Z,system,0.9
+75,6,Bull Market Comment,2024-03-06T20:09:00Z,system,0.8
+76,3,ICO Investment Background Story,2024-03-06T20:40:00Z,system,0.9
+77,0,Spam Messages,2024-03-06T21:43:00Z,system,0.9
+78,7,Binance Listing Discussion,2024-03-06T22:20:00Z,system,0.9
+79,7,Price Discussion Channel Reminder,2024-03-06T22:20:00Z,system,0.9
+80,8,Teleport Issue Support,2024-03-06T22:21:00Z,system,0.9
+81,8,Teleport Issue Query,2024-03-06T22:21:00Z,system,0.9
+101,1,Crypto Market Value Display Issue,2024-03-07T03:28:00Z,system,0.7
+102,2,OriginTrail IPO Announcement,2024-03-28T19:06:00Z,system,0.9
+103,2,OriginTrail Global Expansion Updates,2024-05-07T13:47:00Z,system,0.9
+104,3,TRAC Token Visibility Discussion,2024-05-09T16:05:00Z,system,0.8
+105,4,ChatAnalyst DKG Integration Discussion,2024-08-14T06:20:00Z,system,0.9
+106,4,ChatAnalyst DKG Integration Discussion,2024-08-14T06:20:00Z,system,0.9
+107,4,DKG Public vs Private Data Value,2024-08-14T08:10:00Z,system,0.9
+108,5,OriginTrail Podcast Announcement,2024-11-05T16:18:00Z,system,0.8
+109,6,Screenshot Share,2024-12-09T16:14:00Z,system,0.6
+110,7,V8 Edge Node Architecture Discussion,2024-12-19T19:01:00Z,system,0.9
+111,7,V8 Edge Node Architecture Discussion,2024-12-19T19:53:00Z,system,0.8
+112,8,Coinbase Trading Spread Discussion,2025-01-21T11:36:00Z,system,0.9
+113,9,V8 Implementation Status Discussion,2025-02-10T17:33:00Z,system,0.95
+114,9,V8 Implementation Status Discussion,2025-02-10T18:00:00Z,system,0.95
+115,9,V8 Implementation Status Discussion,2025-02-10T19:58:00Z,system,0.95
+116,9,V8 Implementation Status Discussion,2025-02-10T19:59:00Z,system,0.95
+117,9,V8 Implementation Status Discussion,2025-02-10T20:24:00Z,system,0.95
+118,9,V8 Implementation Status Discussion,2025-02-10T21:24:00Z,system,0.95
+119,9,V8 Implementation Status Discussion,2025-02-10T21:24:00Z,system,0.95
+120,10,Human-Centric AI Event Discussion,2025-02-11T15:03:00Z,system,0.9
+121,0,Spam Messages,2025-02-11T15:10:00Z,system,0.8
+122,0,Spam Messages,2025-02-11T15:29:00Z,system,0.8
+123,10,Human-Centric AI Event Discussion,2025-02-11T16:02:00Z,system,0.9
+124,10,Human-Centric AI Event Discussion,2025-02-11T16:46:00Z,system,0.9
+125,10,Human-Centric AI Event Discussion,2025-02-11T16:56:00Z,system,0.9
+126,10,Human-Centric AI Event Discussion,2025-02-11T16:56:00Z,system,0.9
+127,10,Human-Centric AI Event Discussion,2025-02-11T16:56:00Z,system,0.9
+128,10,Human-Centric AI Event Discussion,2025-02-11T17:04:00Z,system,0.9
+129,10,Human-Centric AI Event Discussion,2025-02-11T17:18:00Z,system,0.9
+130,11,Community Group Invitation,2025-02-11T01:17:00Z,system,0.8
+131,9,V8 Implementation Status Discussion,2025-02-11T01:03:33Z,system,0.0

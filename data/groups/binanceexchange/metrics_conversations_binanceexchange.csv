@@ -1,0 +1,4 @@
+model,label_file,ari,n_messages
+claude35s,labels_20250206_claude35s_binanceexchange.csv,0.619555972666217,48
+gpt4o,labels_20250206_gpt4o_binanceexchange.csv,0.37722419928825623,50
+deepseekv3,labels_20250206_deepseek_binanceexchange.csv,0.7010208676329337,67

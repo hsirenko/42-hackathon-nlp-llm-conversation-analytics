@@ -1,0 +1,96 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,Bybit Mobile App Deep Linking Question,2025-02-10T06:30:00Z,system,0.9
+2,1,Bybit Mobile App Deep Linking Question,2025-02-10T06:30:00Z,system,0.9
+3,2,B3 Token Launch Announcement,2025-02-10T07:21:00Z,system,1.0
+4,2,B3 Token Launch Announcement,2025-02-10T07:21:00Z,system,1.0
+5,3,Customer Support Discussion,2025-02-10T07:41:00Z,system,1.0
+6,3,Customer Support Discussion,2025-02-10T07:41:00Z,system,1.0
+7,3,Customer Support Discussion,2025-02-10T07:41:00Z,system,1.0
+8,3,Customer Support Discussion,2025-02-10T07:41:00Z,system,1.0
+9,3,Customer Support Discussion,2025-02-10T07:42:00Z,system,0.9
+10,3,Customer Support Discussion,2025-02-10T07:42:00Z,system,1.0
+11,3,Customer Support Discussion,2025-02-10T07:42:00Z,system,1.0
+12,3,Customer Support Discussion,2025-02-10T07:42:00Z,system,1.0
+13,3,Customer Support Discussion,2025-02-10T07:42:00Z,system,1.0
+14,3,Customer Support Discussion,2025-02-10T07:43:00Z,system,1.0
+15,3,Customer Support Discussion,2025-02-10T07:46:00Z,system,1.0
+16,3,Customer Support Discussion,2025-02-10T07:46:00Z,system,1.0
+17,3,Customer Support Discussion,2025-02-10T07:46:00Z,system,1.0
+18,4,General Greetings and Trading Discussion,2025-02-10T07:46:00Z,system,0.8
+19,4,General Greetings and Trading Discussion,2025-02-10T07:48:00Z,system,0.8
+20,4,General Greetings and Trading Discussion,2025-02-10T07:49:00Z,system,0.8
+21,4,General Greetings and Trading Discussion,2025-02-10T07:49:00Z,system,0.9
+22,5,USDT Trading Discussion,2025-02-10T07:50:00Z,system,1.0
+23,5,USDT Trading Discussion,2025-02-10T07:53:00Z,system,1.0
+24,5,USDT Trading Discussion,2025-02-10T07:53:00Z,system,1.0
+25,4,General Greetings and Trading Discussion,2025-02-10T08:08:00Z,system,0.8
+26,6,IDR to USDT Conversion Query,2025-02-10T08:08:00Z,system,1.0
+27,2,B3 Token Launch Announcement,2025-02-10T08:12:00Z,system,1.0
+28,6,IDR to USDT Conversion Query,2025-02-10T08:13:00Z,system,1.0
+29,6,IDR to USDT Conversion Query,2025-02-10T08:13:00Z,system,1.0
+30,0,Spam Messages,2025-02-10T08:19:00Z,system,0.9
+31,0,Spam Messages,2025-02-10T08:19:00Z,system,0.9
+32,4,General Greetings and Trading Discussion,2025-02-10T08:29:00Z,system,0.8
+51,1,Sonic AMA Announcement,2025-02-10T09:13:00Z,system,0.95
+52,2,New User Memecoin Campaign,2025-02-10T09:13:00Z,system,0.95
+53,3,Solv Protocol AMA Announcement,2025-02-10T09:13:00Z,system,0.95
+54,4,Bybit Links Request,2025-02-10T09:19:00Z,system,0.95
+55,4,Bybit Links Request,2025-02-10T09:19:00Z,system,0.95
+56,4,Bybit Links Request,2025-02-10T09:19:00Z,system,0.95
+57,5,Merchant Inquiry Discussion,2025-02-10T09:20:00Z,system,0.9
+58,0,Spam Messages,2025-02-10T09:20:00Z,system,0.95
+59,5,Merchant Inquiry Discussion,2025-02-10T09:21:00Z,system,0.9
+60,5,Merchant Inquiry Discussion,2025-02-10T09:21:00Z,system,0.9
+61,5,Merchant Inquiry Discussion,2025-02-10T09:21:00Z,system,0.9
+62,0,Spam Messages,2025-02-10T09:22:00Z,system,0.95
+63,6,Security Notice,2025-02-10T09:28:00Z,system,0.95
+64,6,Security Notice,2025-02-10T09:28:00Z,system,0.95
+65,0,Spam Messages,2025-02-10T09:32:00Z,system,0.95
+66,7,Reward Distribution Inquiry,2025-02-10T09:32:00Z,system,0.9
+67,7,Reward Distribution Inquiry,2025-02-10T09:33:00Z,system,0.9
+68,8,Hot Wallet Listing Query,2025-02-10T09:34:00Z,system,0.9
+69,7,Reward Distribution Inquiry,2025-02-10T09:35:00Z,system,0.9
+70,7,Reward Distribution Inquiry,2025-02-10T09:35:00Z,system,0.9
+71,8,Hot Wallet Listing Query,2025-02-10T09:35:00Z,system,0.9
+72,7,Reward Distribution Inquiry,2025-02-10T09:37:00Z,system,0.9
+73,7,Reward Distribution Inquiry,2025-02-10T09:38:00Z,system,0.9
+74,7,Reward Distribution Inquiry,2025-02-10T09:38:00Z,system,0.9
+75,7,Reward Distribution Inquiry,2025-02-10T09:38:00Z,system,0.9
+76,0,Spam Messages,2025-02-10T09:41:00Z,system,0.95
+77,0,Spam Messages,2025-02-10T09:42:00Z,system,0.95
+78,0,Spam Messages,2025-02-10T09:42:00Z,system,0.95
+79,0,Spam Messages,2025-02-10T09:43:00Z,system,0.95
+80,0,Spam Messages,2025-02-10T09:48:00Z,system,0.95
+81,9,Price Chart Discussion,2025-02-10T09:54:00Z,system,0.85
+82,9,Price Chart Discussion,2025-02-10T09:56:00Z,system,0.85
+83,10,JELLYJELLY Trading Signal,2025-02-10T10:01:00Z,system,0.95
+101,1,BTC-USDT Value Discussion,2025-02-10T10:31:00Z,SYSTEM,0.9
+102,1,BTC-USDT Value Discussion,2025-02-10T10:32:00Z,SYSTEM,0.9
+103,1,BTC-USDT Value Discussion,2025-02-10T10:32:00Z,SYSTEM,0.9
+104,1,BTC-USDT Value Discussion,2025-02-10T10:33:00Z,SYSTEM,0.9
+105,2,Arabic Greetings Exchange,2025-02-10T10:34:00Z,SYSTEM,0.9
+106,2,Arabic Greetings Exchange,2025-02-10T10:35:00Z,SYSTEM,0.9
+107,0,Spam Messages,2025-02-10T10:35:00Z,SYSTEM,0.8
+108,1,BTC-USDT Value Discussion,2025-02-10T10:35:00Z,SYSTEM,0.9
+109,0,Spam Messages,2025-02-10T10:36:00Z,SYSTEM,0.8
+110,1,BTC-USDT Value Discussion,2025-02-10T10:37:00Z,SYSTEM,0.9
+111,1,BTC-USDT Value Discussion,2025-02-10T10:37:00Z,SYSTEM,0.9
+112,3,Bybit Support Inquiry,2025-02-10T10:37:00Z,SYSTEM,0.9
+113,3,Bybit Support Inquiry,2025-02-10T10:37:00Z,SYSTEM,0.9
+114,0,Spam Messages,2025-02-10T10:38:00Z,SYSTEM,0.8
+115,1,BTC-USDT Value Discussion,2025-02-10T10:39:00Z,SYSTEM,0.9
+116,1,BTC-USDT Value Discussion,2025-02-10T10:44:00Z,SYSTEM,0.9
+117,0,Spam Messages,2025-02-10T10:47:00Z,SYSTEM,0.9
+118,4,Bybit Reddit Promotion,2025-02-10T10:50:00Z,SYSTEM,0.9
+119,3,Bybit Support Inquiry,2025-02-10T10:53:00Z,SYSTEM,0.9
+120,3,Bybit Support Inquiry,2025-02-10T10:53:00Z,SYSTEM,0.9
+121,5,Bybit India Availability,2025-02-10T10:53:00Z,SYSTEM,0.9
+122,1,BTC-USDT Value Discussion,2025-02-10T10:53:00Z,SYSTEM,0.9
+123,5,Bybit India Availability,2025-02-10T10:53:00Z,SYSTEM,0.9
+124,5,Bybit India Availability,2025-02-10T10:53:00Z,SYSTEM,0.9
+125,6,TAO Token Discussion,2025-02-10T11:05:00Z,SYSTEM,0.8
+126,6,TAO Token Discussion,2025-02-10T11:05:00Z,SYSTEM,0.8
+127,0,Spam Messages,2025-02-10T11:12:00Z,SYSTEM,0.8
+128,1,BTC-USDT Value Discussion,2025-02-10T11:14:00Z,SYSTEM,0.9
+129,7,Bybit Web3 Wallet Issue,2025-02-10T11:16:00Z,SYSTEM,0.9
+130,1,BTC-USDT Value Discussion,2025-02-10T11:16:00Z,SYSTEM,0.9

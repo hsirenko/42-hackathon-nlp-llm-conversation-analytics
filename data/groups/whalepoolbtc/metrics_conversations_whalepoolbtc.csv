@@ -1,0 +1,4 @@
+model,label_file,ari,n_messages
+gpt4o,labels_20250131_143327_gpt4o_whalepoolbtc.csv,0.24341934826847522,110
+claude35s,labels_20250202_202317_claude35s_whalepoolbtc.csv,0.4606958753868268,101
+deepseekv3,labels_20250131_143327_deepseekv3_whalepoolbtc.csv,0.21076721537457946,162

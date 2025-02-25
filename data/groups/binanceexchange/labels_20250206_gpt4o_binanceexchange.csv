@@ -1,0 +1,51 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,"""Recovering Scammed Coins""",2024-02-06T10:55:00Z,1,0.95
+2,1,"""Recovering Scammed Coins""",2024-02-06T10:57:00Z,1,0.95
+3,1,"""Recovering Scammed Coins""",2024-02-06T10:57:00Z,1,0.95
+4,1,"""Recovering Scammed Coins""",2024-02-06T10:59:00Z,1,0.95
+5,1,"""Recovering Scammed Coins""",2024-02-06T10:59:00Z,1,0.95
+6,1,"""Recovering Scammed Coins""",2024-02-06T10:59:00Z,1,0.95
+7,1,"""Recovering Scammed Coins""",2024-02-06T11:01:00Z,1,0.95
+8,1,"""Recovering Scammed Coins""",2024-02-06T11:01:00Z,1,0.95
+9,1,"""Recovering Scammed Coins""",2024-02-06T11:01:00Z,1,0.95
+10,1,"""Recovering Scammed Coins""",2024-02-06T11:01:00Z,1,0.95
+11,1,"""Recovering Scammed Coins""",2024-02-06T11:01:00Z,1,0.95
+12,1,"""Recovering Scammed Coins""",2024-02-06T11:03:00Z,1,0.95
+13,2,"""General Thanks""",2024-02-06T11:03:00Z,1,0.8
+14,3,"""Online Security Warning""",2024-02-06T11:04:00Z,1,0.99
+15,1,"""Recovering Scammed Coins""",2024-02-06T11:04:00Z,1,0.95
+16,4,"""Rabbits and Advice""",2024-02-06T11:04:00Z,1,0.9
+17,4,"""Rabbits and Advice""",2024-02-06T11:05:00Z,1,0.9
+18,1,"""Recovering Scammed Coins""",2024-02-06T11:05:00Z,1,0.95
+19,1,"""Recovering Scammed Coins""",2024-02-06T11:05:00Z,1,0.95
+20,1,"""Recovering Scammed Coins""",2024-02-06T11:05:00Z,1,0.95
+21,1,"""Recovering Scammed Coins""",2024-02-06T11:06:00Z,1,0.95
+22,1,"""Recovering Scammed Coins""",2024-02-06T11:07:00Z,1,0.95
+23,5,"""Request for Financial Help""",2024-02-06T11:08:00Z,1,0.85
+24,0,"""Spam Messages""",2024-02-06T11:08:00Z,1,1.0
+25,6,"""Greeting""",2024-02-06T11:09:00Z,1,0.7
+26,1,"""Recovering Scammed Coins""",2024-02-06T11:09:00Z,1,0.95
+27,1,"""Recovering Scammed Coins""",2024-02-06T11:09:00Z,1,0.95
+28,5,"""Request for Financial Help""",2024-02-06T11:09:00Z,1,0.85
+29,5,"""Request for Financial Help""",2024-02-06T11:10:00Z,1,0.85
+30,0,"""Spam Messages""",2024-02-06T11:14:00Z,1,1.0
+31,5,"""Request for Financial Help""",2024-02-06T11:14:00Z,1,0.85
+32,5,"""Request for Financial Help""",2024-02-06T11:14:00Z,1,0.85
+33,4,"""Rabbits and Advice""",2024-02-06T11:14:00Z,1,0.9
+51,0,Spam Messages,2024-02-06T11:18:00Z,system,1.0
+52,0,Spam Messages,2024-02-06T11:18:00Z,system,1.0
+53,1,Bitcoin Price Inquiry,2024-02-06T11:18:00Z,system,1.0
+54,0,Spam Messages,2024-02-06T11:18:00Z,system,1.0
+55,1,Bitcoin Price Inquiry,2024-02-06T11:18:00Z,system,1.0
+56,1,Bitcoin Price Discussion,2024-02-06T11:19:00Z,system,0.95
+57,2,DOGE Price Analysis,2024-02-06T11:21:00Z,system,1.0
+58,3,Trading Advice,2024-02-06T11:21:00Z,system,1.0
+59,3,Trading Advice Response,2024-02-06T11:21:00Z,system,1.0
+60,1,Bitcoin Price Inquiry,2024-02-06T11:28:00Z,system,1.0
+61,1,Bitcoin Price Inquiry,2024-02-06T11:28:00Z,system,1.0
+62,1,Bitcoin Price Inquiry,2024-02-06T11:30:00Z,system,1.0
+63,1,Bitcoin Price Inquiry,2024-02-06T11:30:00Z,system,1.0
+64,3,Advice on Gambling Addiction,2024-02-06T11:30:00Z,system,1.0
+65,1,Bitcoin Price Inquiry,2024-02-06T11:30:00Z,system,1.0
+66,1,Bitcoin Price Reaction,2024-02-06T11:30:00Z,system,0.95
+67,0,Spam Messages,2024-02-06T11:30:00Z,system,1.0

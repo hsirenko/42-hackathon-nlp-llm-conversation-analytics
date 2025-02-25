@@ -1,0 +1,49 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T10:55:00Z,system,0.95
+2,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T10:57:00Z,system,0.95
+3,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T10:57:00Z,system,0.95
+4,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T10:59:00Z,system,0.95
+5,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T10:59:00Z,system,0.95
+6,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T10:59:00Z,system,0.95
+7,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:01:00Z,system,0.95
+8,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:01:00Z,system,0.95
+9,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:01:00Z,system,0.95
+10,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:01:00Z,system,0.95
+11,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:01:00Z,system,0.95
+12,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:03:00Z,system,0.95
+13,0,Spam Messages,2024-02-06T11:03:00Z,system,0.9
+14,2,Security Warning Message,2024-02-06T11:04:00Z,system,0.95
+15,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:04:00Z,system,0.95
+16,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:04:00Z,system,0.9
+17,0,Spam Messages,2024-02-06T11:04:00Z,system,0.9
+18,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:05:00Z,system,0.95
+19,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:05:00Z,system,0.95
+20,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:05:00Z,system,0.9
+21,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:06:00Z,system,0.95
+22,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:07:00Z,system,0.95
+23,3,Futures Trading Loss Discussion,2024-02-06T11:08:00Z,system,0.95
+24,0,Spam Messages,2024-02-06T11:08:00Z,system,0.9
+25,0,Spam Messages,2024-02-06T11:09:00Z,system,0.9
+26,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:09:00Z,system,0.95
+27,1,Cryptocurrency Scam Recovery Discussion,2024-02-06T11:09:00Z,system,0.95
+28,3,Futures Trading Loss Discussion,2024-02-06T11:09:00Z,system,0.95
+29,3,Futures Trading Loss Discussion,2024-02-06T11:10:00Z,system,0.95
+30,0,Spam Messages,2024-02-06T11:14:00Z,system,0.9
+31,3,Futures Trading Loss Discussion,2024-02-06T11:14:00Z,system,0.95
+51,1,XP/Reputation System Interaction,2024-02-06T11:18:00Z,system,0.9
+52,1,XP/Reputation System Interaction,2024-02-06T11:18:00Z,system,0.9
+53,2,Bitcoin Price Tracking,2024-02-06T11:18:00Z,system,1.0
+54,1,XP/Reputation System Interaction,2024-02-06T11:18:00Z,system,0.9
+55,2,Bitcoin Price Tracking,2024-02-06T11:18:00Z,system,1.0
+56,2,Bitcoin Price Tracking,2024-02-06T11:19:00Z,system,0.9
+57,3,Dogecoin Market Analysis,2024-02-06T11:21:00Z,system,1.0
+58,4,Trading Advice Discussion,2024-02-06T11:21:00Z,system,0.9
+59,4,Trading Advice Discussion,2024-02-06T11:21:00Z,system,0.9
+60,2,Bitcoin Price Tracking,2024-02-06T11:28:00Z,system,1.0
+61,2,Bitcoin Price Tracking,2024-02-06T11:28:00Z,system,1.0
+62,2,Bitcoin Price Tracking,2024-02-06T11:30:00Z,system,1.0
+63,2,Bitcoin Price Tracking,2024-02-06T11:30:00Z,system,1.0
+64,4,Trading Advice Discussion,2024-02-06T11:30:00Z,system,0.9
+65,2,Bitcoin Price Tracking,2024-02-06T11:30:00Z,system,1.0
+66,2,Bitcoin Price Tracking,2024-02-06T11:30:00Z,system,0.8
+67,5,Binance Market Research Report,2024-02-06T11:30:00Z,system,1.0

@@ -1,0 +1,258 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,"Blockchain and Treasury Transparency",2025-02-06T04:06:00Z,1,0.95
+2,0,"Spam Messages",2025-02-06T05:03:00Z,1,0.99
+3,2,"MegaETH Fundraising via NFT",2025-02-06T05:03:00Z,1,0.95
+4,2,"MegaETH Fundraising via NFT",2025-02-06T05:06:00Z,1,0.95
+5,2,"MegaETH Fundraising via NFT",2025-02-06T05:09:00Z,1,0.95
+6,2,"MegaETH Fundraising via NFT",2025-02-06T05:09:00Z,1,0.95
+7,2,"MegaETH Fundraising via NFT",2025-02-06T05:12:00Z,1,0.95
+8,2,"MegaETH Fundraising via NFT",2025-02-06T05:12:00Z,1,0.95
+9,2,"MegaETH Fundraising via NFT",2025-02-06T09:22:00Z,1,0.95
+10,2,"MegaETH Fundraising via NFT",2025-02-06T09:45:00Z,1,0.95
+11,2,"MegaETH Fundraising via NFT",2025-02-06T09:45:00Z,1,0.95
+12,2,"MegaETH Fundraising via NFT",2025-02-06T09:45:00Z,1,0.95
+13,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+14,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+15,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+16,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+17,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+18,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+19,2,"MegaETH Fundraising via NFT",2025-02-06T09:46:00Z,1,0.95
+20,2,"MegaETH Fundraising via NFT",2025-02-06T09:47:00Z,1,0.95
+21,2,"MegaETH Fundraising via NFT",2025-02-06T09:47:00Z,1,0.95
+22,2,"MegaETH Fundraising via NFT",2025-02-06T09:47:00Z,1,0.95
+23,2,"MegaETH Fundraising via NFT",2025-02-06T09:47:00Z,1,0.95
+24,2,"MegaETH Fundraising via NFT",2025-02-06T09:47:00Z,1,0.95
+25,2,"MegaETH Fundraising via NFT",2025-02-06T09:47:00Z,1,0.95
+26,2,"MegaETH Fundraising via NFT",2025-02-06T09:48:00Z,1,0.95
+27,3,"NFT Creation and Selling",2025-02-06T09:48:00Z,1,0.95
+28,2,"MegaETH Fundraising via NFT",2025-02-06T09:48:00Z,1,0.95
+29,2,"MegaETH Fundraising via NFT",2025-02-06T09:49:00Z,1,0.95
+30,2,"MegaETH Fundraising via NFT",2025-02-06T09:49:00Z,1,0.95
+31,2,"MegaETH Fundraising via NFT",2025-02-06T09:49:00Z,1,0.95
+32,2,"MegaETH Fundraising via NFT",2025-02-06T09:49:00Z,1,0.95
+33,2,"MegaETH Fundraising via NFT",2025-02-06T09:49:00Z,1,0.95
+34,3,"NFT Creation and Selling",2025-02-06T09:50:00Z,1,0.95
+35,0,"Spam Messages",2025-02-06T09:51:00Z,1,0.99
+36,2,"MegaETH Fundraising via NFT",2025-02-06T09:51:00Z,1,0.95
+37,2,"MegaETH Fundraising via NFT",2025-02-06T09:52:00Z,1,0.95
+38,2,"MegaETH Fundraising via NFT",2025-02-06T09:52:00Z,1,0.95
+39,2,"MegaETH Fundraising via NFT",2025-02-06T09:53:00Z,1,0.95
+40,2,"MegaETH Fundraising via NFT",2025-02-06T09:53:00Z,1,0.95
+41,2,"MegaETH Fundraising via NFT",2025-02-06T09:53:00Z,1,0.95
+42,2,"MegaETH Fundraising via NFT",2025-02-06T09:53:00Z,1,0.95
+43,2,"MegaETH Fundraising via NFT",2025-02-06T09:54:00Z,1,0.95
+44,2,"MegaETH Fundraising via NFT",2025-02-06T09:54:00Z,1,0.95
+45,2,"MegaETH Fundraising via NFT",2025-02-06T09:55:00Z,1,0.95
+46,2,"MegaETH Fundraising via NFT",2025-02-06T09:55:00Z,1,0.95
+47,2,"MegaETH Fundraising via NFT",2025-02-06T09:55:00Z,1,0.95
+48,2,"MegaETH Fundraising via NFT",2025-02-06T09:55:00Z,1,0.95
+49,2,"MegaETH Fundraising via NFT",2025-02-06T09:57:00Z,1,0.95
+50,3,"NFT Creation and Selling",2025-02-06T09:57:00Z,1,0.95
+51,2,"MegaETH Fundraising via NFT",2025-02-06T09:58:00Z,1,0.95
+52,2,"MegaETH Fundraising via NFT",2025-02-06T09:58:00Z,1,0.95
+53,2,"MegaETH Fundraising via NFT",2025-02-06T10:01:00Z,1,0.95
+54,2,"MegaETH Fundraising via NFT",2025-02-06T10:01:00Z,1,0.95
+55,2,"MegaETH Fundraising via NFT",2025-02-06T10:02:00Z,1,0.95
+56,2,"MegaETH Fundraising via NFT",2025-02-06T10:02:00Z,1,0.95
+57,2,"MegaETH Fundraising via NFT",2025-02-06T10:03:00Z,1,0.95
+58,2,"MegaETH Fundraising via NFT",2025-02-06T10:04:00Z,1,0.95
+59,2,"MegaETH Fundraising via NFT",2025-02-06T10:07:00Z,1,0.95
+60,2,"MegaETH Fundraising via NFT",2025-02-06T10:07:00Z,1,0.95
+61,2,"MegaETH Fundraising via NFT",2025-02-06T10:11:00Z,1,0.95
+62,2,"MegaETH Fundraising via NFT",2025-02-06T10:12:00Z,1,0.95
+63,2,"MegaETH Fundraising via NFT",2025-02-06T10:12:00Z,1,0.95
+64,2,"MegaETH Fundraising via NFT",2025-02-06T10:14:00Z,1,0.95
+65,2,"MegaETH Fundraising via NFT",2025-02-06T10:14:00Z,1,0.95
+66,2,"MegaETH Fundraising via NFT",2025-02-06T10:14:00Z,1,0.95
+67,2,"MegaETH Fundraising via NFT",2025-02-06T10:15:00Z,1,0.95
+68,2,"MegaETH Fundraising via NFT",2025-02-06T10:18:00Z,1,0.95
+69,4,"Safe Wallet and Keystone Support",2025-02-06T10:24:00Z,1,0.95
+70,0,"Spam Messages",2025-02-06T10:26:00Z,1,0.99
+71,5,"Ethereum Foundation and Market Sentiment",2025-02-06T10:26:00Z,1,0.95
+72,5,"Ethereum Foundation and Market Sentiment",2025-02-06T10:26:00Z,1,0.95
+73,6,"Arbitrum Sepolia Gas Issues",2025-02-06T11:47:00Z,1,0.95
+74,6,"Arbitrum Sepolia Gas Issues",2025-02-06T12:08:00Z,1,0.95
+75,0,"Spam Messages",2025-02-06T12:14:00Z,1,0.99
+76,7,"Token Unlocks and Vesting Schedules",2025-02-06T13:41:00Z,1,0.95
+77,7,"Token Unlocks and Vesting Schedules",2025-02-06T13:43:00Z,1,0.95
+78,7,"Token Unlocks and Vesting Schedules",2025-02-06T13:43:00Z,1,0.95
+79,7,"Token Unlocks and Vesting Schedules",2025-02-06T13:53:00Z,1,0.95
+80,7,"Token Unlocks and Vesting Schedules",2025-02-06T13:53:00Z,1,0.95
+81,7,"Token Unlocks and Vesting Schedules",2025-02-06T14:16:00Z,1,0.95
+82,7,"Token Unlocks and Vesting Schedules",2025-02-06T14:16:00Z,1,0.95
+83,7,"Token Unlocks and Vesting Schedules",2025-02-06T14:16:00Z,1,0.95
+84,7,"Token Unlocks and Vesting Schedules",2025-02-06T14:20:00Z,1,0.95
+85,0,"Spam Messages",2025-02-06T14:20:00Z,1,0.99
+86,7,"Token Unlocks and Vesting Schedules",2025-02-06T14:20:00Z,1,0.95
+87,7,"Token Unlocks and Vesting Schedules",2025-02-06T14:27:00Z,1,0.95
+88,0,"Spam Messages",2025-02-06T14:54:00Z,1,0.99
+89,0,"Spam Messages",2025-02-06T14:54:00Z,1,0.99
+90,0,"Spam Messages",2025-02-06T14:54:00Z,1,0.99
+91,0,"Spam Messages",2025-02-06T14:54:00Z,1,0.99
+92,7,"Token Unlocks and Vesting Schedules",2025-02-06T15:00:00Z,1,0.95
+93,7,"Token Unlocks and Vesting Schedules",2025-02-06T15:46:00Z,1,0.95
+94,8,"SAFE Multisig and Transaction Anonymity",2025-02-06T15:55:00Z,1,0.95
+95,8,"SAFE Multisig and Transaction Anonymity",2025-02-06T15:55:00Z,1,0.95
+96,8,"SAFE Multisig and Transaction Anonymity",2025-02-06T15:57:00Z,1,0.95
+97,8,"SAFE Multisig and Transaction Anonymity",2025-02-06T15:58:00Z,1,0.95
+98,8,"SAFE Multisig and Transaction Anonymity",2025-02-06T16:04:00Z,1,0.95
+99,0,"Spam Messages",2025-02-06T16:45:00Z,1,0.99
+100,9,"Legal News and Updates",2025-02-06T16:45:00Z,1,0.95
+101,9,"Legal News and Updates",2025-02-06T16:58:00Z,1,0.95
+102,9,"Legal News and Updates",2025-02-06T17:04:00Z,1,0.95
+103,9,"Legal News and Updates",2025-02-06T17:04:00Z,1,0.95
+104,9,"Legal News and Updates",2025-02-06T17:05:00Z,1,0.95
+105,0,"Spam Messages",2025-02-06T17:44:00Z,1,0.99
+106,10,"Ethereum Price and L2s",2025-02-06T17:44:00Z,1,0.95
+107,10,"Ethereum Price and L2s",2025-02-06T17:44:00Z,1,0.95
+108,0,"Spam Messages",2025-02-06T17:46:00Z,1,0.99
+109,0,"Spam Messages",2025-02-06T17:46:00Z,1,0.99
+110,11,"DeFi Ratings and BD Connections",2025-02-06T17:53:00Z,1,0.95
+111,0,"Spam Messages",2025-02-06T17:54:00Z,1,0.99
+112,9,"Legal News and Updates",2025-02-06T18:01:00Z,1,0.95
+113,9,"Legal News and Updates",2025-02-06T18:01:00Z,1,0.95
+114,0,"Spam Messages",2025-02-06T18:02:00Z,1,0.99
+115,9,"Legal News and Updates",2025-02-06T18:02:00Z,1,0.95
+116,0,"Spam Messages",2025-02-06T20:16:00Z,1,0.99
+117,0,"Spam Messages",2025-02-06T20:16:00Z,1,0.99
+118,0,"Spam Messages",2025-02-06T20:17:00Z,1,0.99
+119,12,"AAVE Price and Market Performance",2025-02-06T20:17:00Z,1,0.95
+120,12,"AAVE Price and Market Performance",2025-02-06T20:18:00Z,1,0.95
+121,12,"AAVE Price and Market Performance",2025-02-06T20:18:00Z,1,0.95
+122,12,"AAVE Price and Market Performance",2025-02-06T20:20:00Z,1,0.95
+123,12,"AAVE Price and Market Performance",2025-02-06T20:20:00Z,1,0.95
+124,12,"AAVE Price and Market Performance",2025-02-06T20:25:00Z,1,0.95
+125,12,"AAVE Price and Market Performance",2025-02-06T20:26:00Z,1,0.95
+126,12,"AAVE Price and Market Performance",2025-02-06T20:27:00Z,1,0.95
+127,13,"ETH Denver Attendance and Logistics",2025-02-06T20:28:00Z,1,0.95
+128,13,"ETH Denver Attendance and Logistics",2025-02-06T20:28:00Z,1,0.95
+129,13,"ETH Denver Attendance and Logistics",2025-02-06T20:28:00Z,1,0.95
+130,13,"ETH Denver Attendance and Logistics",2025-02-06T20:29:00Z,1,0.95
+131,13,"ETH Denver Attendance and Logistics",2025-02-06T20:29:00Z,1,0.95
+132,13,"ETH Denver Attendance and Logistics",2025-02-06T20:29:00Z,1,0.95
+133,13,"ETH Denver Attendance and Logistics",2025-02-06T20:30:00Z,1,0.95
+134,13,"ETH Denver Attendance and Logistics",2025-02-06T20:30:00Z,1,0.95
+135,13,"ETH Denver Attendance and Logistics",2025-02-06T20:30:00Z,1,0.95
+136,13,"ETH Denver Attendance and Logistics",2025-02-06T20:32:00Z,1,0.95
+137,0,"Spam Messages",2025-02-06T20:33:00Z,1,0.99
+138,0,"Spam Messages",2025-02-06T20:33:00Z,1,0.99
+139,0,"Spam Messages",2025-02-06T20:33:00Z,1,0.99
+140,14,"Berachain Bridge and Stargate",2025-02-06T20:39:00Z,1,0.95
+141,14,"Berachain Bridge and Stargate",2025-02-06T20:39:00Z,1,0.95
+142,14,"Berachain Bridge and Stargate",2025-02-06T20:39:00Z,1,0.95
+143,14,"Berachain Bridge and Stargate",2025-02-06T20:41:00Z,1,0.95
+144,14,"Berachain Bridge and Stargate",2025-02-06T20:41:00Z,1,0.95
+145,14,"Berachain Bridge and Stargate",2025-02-06T20:46:00Z,1,0.95
+146,15,"Moonpay Contact Inquiry",2025-02-06T22:34:00Z,1,0.95
+147,0,"Spam Messages",2025-02-06T22:34:00Z,1,0.99
+148,16,"Ethereum and L2s Future",2025-02-06T22:35:00Z,1,0.95
+149,16,"Ethereum and L2s Future",2025-02-06T22:35:00Z,1,0.95
+150,16,"Ehereum and L2s Future",2025-02-06T22:35:00Z,1,0.95
+151,16,"Ethereum and L2s Future",2025-02-06T22:35:00Z,1,0.95
+152,16,"Ethereum and L2s Future",2025-02-06T22:35:00Z,1,0.95
+153,0,"Spam Messages",2025-02-06T22:36:00Z,1,0.99
+154,0,"Spam Messages",2025-02-06T03:12:00Z,1,0.99
+155,0,"Spam Messages",2025-02-06T03:12:00Z,1,0.99
+156,0,"Spam Messages",2025-02-06T03:12:00Z,1,0.99
+157,0,"Spam Messages",2025-02-06T03:13:00Z,1,0.99
+158,0,"Spam Messages",2025-02-06T03:30:00Z,1,0.99
+159,0,"Spam Messages",2025-02-06T08:52:00Z,1,0.99
+160,0,"Spam Messages",2025-02-06T08:52:00Z,1,0.99
+161,0,"Spam Messages",2025-02-06T08:52:00Z,1,0.99
+162,0,"Spam Messages",2025-02-06T09:32:00Z,1,0.99
+163,0,"Spam Messages",2025-02-06T09:32:00Z,1,0.99
+164,17,"DeFi User Metrics",2025-02-06T10:43:00Z,1,0.95
+165,0,"Spam Messages",2025-02-06T10:43:00Z,1,0.99
+166,17,"DeFi User Metrics",2025-02-06T10:46:00Z,1,0.95
+167,17,"DeFi User Metrics",2025-02-06T10:51:00Z,1,0.95
+168,17,"DeFi User Metrics",2025-02-06T10:52:00Z,1,0.95
+169,18,"Story L1/L2 Discussion",2025-02-06T11:36:00Z,1,0.95
+170,18,"Story L1/L2 Discussion",2025-02-06T11:38:00Z,1,0.95
+171,0,"Spam Messages",2025-02-06T11:38:00Z,1,0.99
+172,18,"Story L1/L2 Discussion",2025-02-06T11:38:00Z,1,0.95
+173,0,"Spam Messages",2025-02-06T11:38:00Z,1,0.99
+174,18,"Story L1/L2 Discussion",2025-02-06T11:40:00Z,1,0.95
+175,0,"Spam Messages",2025-02-06T11:40:00Z,1,0.99
+176,18,"Story L1/L2 Discussion",2025-02-06T11:40:00Z,1,0.95
+177,17,"DeFi User Metrics",2025-02-06T11:41:00Z,1,0.95
+178,18,"Story L1/L2 Discussion",2025-02-06T11:41:00Z,1,0.95
+179,18,"Story L1/L2 Discussion",2025-02-06T11:42:00Z,1,0.95
+180,18,"Story L1/L2 Discussion",2025-02-06T11:42:00Z,1,0.95
+181,18,"Story L1/L2 Discussion",2025-02-06T11:42:00Z,1,0.95
+182,18,"Story L1/L2 Discussion",2025-02-06T11:42:00Z,1,0.95
+183,0,"Spam Messages",2025-02-06T11:42:00Z,1,0.99
+184,17,"DeFi User Metrics",2025-02-06T11:43:00Z,1,0.95
+185,18,"Story L1/L2 Discussion",2025-02-06T11:43:00Z,1,0.95
+186,18,"Story L1/L2 Discussion",2025-02-06T11:43:00Z,1,0.95
+187,18,"Story L1/L2 Discussion",2025-02-06T11:43:00Z,1,0.95
+188,18,"Story L1/L2 Discussion",2025-02-06T11:43:00Z,1,0.95
+189,18,"Story L1/L2 Discussion",2025-02-06T11:44:00Z,1,0.95
+190,18,"Story L1/L2 Discussion",2025-02-06T11:44:00Z,1,0.95
+191,18,"Story L1/L2 Discussion",2025-02-06T11:44:00Z,1,0.95
+192,18,"Story L1/L2 Discussion",2025-02-06T11:44:00Z,1,0.95
+193,18,"Story L1/L2 Discussion",2025-02-06T11:45:00Z,1,0.95
+194,18,"Story L1/L2 Discussion",2025-02-06T11:45:00Z,1,0.95
+195,18,"Story L1/L2 Discussion",2025-02-06T11:45:00Z,1,0.95
+196,18,"Story L1/L2 Discussion",2025-02-06T11:45:00Z,1,0.95
+197,18,"Story L1/L2 Discussion",2025-02-06T11:45:00Z,1,0.95
+198,18,"Story L1/L2 Discussion",2025-02-06T11:45:00Z,1,0.95
+199,18,"Story L1/L2 Discussion",2025-02-06T11:46:00Z,1,0.95
+200,18,"Story L1/L2 Discussion",2025-02-06T11:46:00Z,1,0.95
+201,18,"Story L1/L2 Discussion",2025-02-06T11:47:00Z,1,0.95
+202,0,"Spam Messages",2025-02-06T11:47:00Z,1,0.99
+203,18,"Story L1/L2 Discussion",2025-02-06T11:47:00Z,1,0.95
+204,0,"Spam Messages",2025-02-06T11:54:00Z,1,0.99
+205,17,"DeFi User Metrics",2025-02-06T11:54:00Z,1
+205,17,"DeFi User Metrics",2025-02-06T11:54:00Z,1,0.95
+206,17,"DeFi User Metrics",2025-02-06T11:54:00Z,1,0.95
+207,0,"Spam Messages",2025-02-06T11:54:00Z,1,0.99
+208,17,"DeFi User Metrics",2025-02-06T11:57:00Z,1,0.95
+209,17,"DeFi User Metrics",2025-02-06T11:57:00Z,1,0.95
+210,17,"DeFi User Metrics",2025-02-06T12:03:00Z,1,0.95
+211,0,"Spam Messages",2025-02-06T12:15:00Z,1,0.99
+212,0,"Spam Messages",2025-02-06T12:16:00Z,1,0.99
+213,0,"Spam Messages",2025-02-06T12:16:00Z,1,0.99
+214,0,"Spam Messages",2025-02-06T12:21:00Z,1,0.99
+215,0,"Spam Messages",2025-02-06T12:21:00Z,1,0.99
+216,0,"Spam Messages",2025-02-06T12:21:00Z,1,0.99
+217,0,"Spam Messages",2025-02-06T12:21:00Z,1,0.99
+218,0,"Spam Messages",2025-02-06T12:23:00Z,1,0.99
+219,19,"DeFi Liquidity and Memecoins",2025-02-06T12:23:00Z,1,0.95
+220,19,"DeFi Liquidity and Memecoins",2025-02-06T12:23:00Z,1,0.95
+221,20,"Ethereum Gas Price Analysis",2025-02-06T12:27:00Z,1,0.95
+222,20,"Ethereum Gas Price Analysis",2025-02-06T12:28:00Z,1,0.95
+223,0,"Spam Messages",2025-02-06T12:28:00Z,1,0.99
+224,19,"DeFi Liquidity and Memecoins",2025-02-06T12:30:00Z,1,0.95
+225,19,"DeFi Liquidity and Memecoins",2025-02-06T12:30:00Z,1,0.95
+226,20,"Ethereum Gas Price Analysis",2025-02-06T13:16:00Z,1,0.95
+227,20,"Ethereum Gas Price Analysis",2025-02-06T13:16:00Z,1,0.95
+228,20,"Ethereum Gas Price Analysis",2025-02-06T13:17:00Z,1,0.95
+229,20,"Ethereum Gas Price Analysis",2025-02-06T13:17:00Z,1,0.95
+230,20,"Ethereum Gas Price Analysis",2025-02-06T13:18:00Z,1,0.95
+231,0,"Spam Messages",2025-02-06T13:18:00Z,1,0.99
+232,20,"Ethereum Gas Price Analysis",2025-02-06T13:20:00Z,1,0.95
+233,0,"Spam Messages",2025-02-06T14:00:00Z,1,0.99
+234,0,"Spam Messages",2025-02-06T14:00:00Z,1,0.99
+235,0,"Spam Messages",2025-02-06T14:42:00Z,1,0.99
+236,0,"Spam Messages",2025-02-06T14:42:00Z,1,0.99
+237,21,"Airdrop Eligibility Tools",2025-02-06T14:50:00Z,1,0.95
+238,21,"Airdrop Eligibility Tools",2025-02-06T15:01:00Z,1,0.95
+239,0,"Spam Messages",2025-02-06T15:01:00Z,1,0.99
+240,21,"Airdrop Eligibility Tools",2025-02-06T15:04:00Z,1,0.95
+241,0,"Spam Messages",2025-02-06T15:04:00Z,1,0.99
+242,21,"Airdrop Eligibility Tools",2025-02-06T15:09:00Z,1,0.95
+243,21,"Airdrop Eligibility Tools",2025-02-06T15:10:00Z,1,0.95
+244,0,"Spam Messages",2025-02-06T15:10:00Z,1,0.99
+245,14,"Berachain Bridge and Stargate",2025-02-06T15:32:00Z,1,0.95
+246,0,"Spam Messages",2025-02-06T15:32:00Z,1,0.99
+247,22,"AggLayer Mainnet Discussion",2025-02-06T15:56:00Z,1,0.95
+248,22,"AggLayer Mainnet Discussion",2025-02-06T15:56:00Z,1,0.95
+249,22,"AggLayer Mainnet Discussion",2025-02-06T15:56:00Z,1,0.95
+250,22,"AggLayer Mainnet Discussion",2025-02-06T16:02:00Z,1,0.95
+251,0,"Spam Messages",2025-02-06T16:06:00Z,1,0.99
+252,0,"Spam Messages",2025-02-06T16:06:00Z,1,0.99
+253,20,"Ethereum Gas Price Analysis",2025-02-06T16:11:00Z,1,0.95
+254,20,"Ethereum Gas Price Analysis",2025-02-06T16:11:00Z,1,0.95
+255,23,"NFT Security Concerns",2025-02-06T16:11:00Z,1,0.95
+256,23,"NFT Security Concerns",2025-02-06T16:34:00Z,1,0.95

@@ -1,0 +1,151 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,Elon Musk's proposal for blockchain treasury transparency,2025-02-06T04:06:00Z,system,0.9
+2,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:03:00Z,system,0.9
+3,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:03:00Z,system,0.9
+4,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:06:00Z,system,0.9
+5,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:09:00Z,system,0.9
+6,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:09:00Z,system,0.9
+7,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:12:00Z,system,0.9
+8,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T05:12:00Z,system,0.9
+9,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:22:00Z,system,0.9
+10,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:45:00Z,system,0.9
+11,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:45:00Z,system,0.9
+12,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:45:00Z,system,0.9
+13,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+14,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+15,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+16,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+17,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+18,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+19,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:46:00Z,system,0.9
+20,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:47:00Z,system,0.9
+21,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:47:00Z,system,0.9
+22,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:47:00Z,system,0.9
+23,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:47:00Z,system,0.9
+24,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:47:00Z,system,0.9
+25,2,MegaETH NFT fundraising discussion and valuation analysis,2025-02-06T09:47:00Z,system,0.9
+51,1,Starkware Series C Funding Discussion,2025-02-06T09:58:00Z,system,0.7
+52,1,Starkware Series C Funding Discussion,2025-02-06T09:58:00Z,system,0.8
+53,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:01:00Z,system,0.9
+54,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:01:00Z,system,0.9
+55,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:02:00Z,system,0.8
+56,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:02:00Z,system,0.8
+57,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:03:00Z,system,0.9
+58,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:04:00Z,system,0.9
+59,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:07:00Z,system,0.9
+60,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:07:00Z,system,0.9
+61,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:11:00Z,system,0.8
+62,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:12:00Z,system,0.8
+63,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:12:00Z,system,0.7
+64,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:14:00Z,system,0.8
+65,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:14:00Z,system,0.8
+66,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:14:00Z,system,0.8
+67,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:15:00Z,system,0.8
+68,2,Dragonfly Investment Discussion and Marketing Strategy,2025-02-06T10:18:00Z,system,0.9
+69,3,Safe Wallet Keystone Support Question,2025-02-06T10:24:00Z,system,0.9
+70,4,EF Discussion,2025-02-06T10:26:00Z,system,0.7
+71,4,EF Discussion,2025-02-06T10:26:00Z,system,0.8
+72,4,EF Discussion,2025-02-06T10:26:00Z,system,0.8
+73,5,Arbitrum Sepolia Gas Issues,2025-02-06T11:47:00Z,system,0.9
+74,5,Arbitrum Sepolia Gas Issues,2025-02-06T12:08:00Z,system,0.9
+75,0,Spam Messages,2025-02-06T12:14:00Z,system,0.9
+76,6,Token Unlock Strategies Discussion,2025-02-06T13:41:00Z,system,0.9
+77,6,Token Unlock Strategies Discussion,2025-02-06T13:43:00Z,system,0.9
+78,6,Token Unlock Strategies Discussion,2025-02-06T13:43:00Z,system,0.9
+79,6,Token Unlock Strategies Discussion,2025-02-06T13:53:00Z,system,0.9
+80,6,Token Unlock Strategies Discussion,2025-02-06T13:53:00Z,system,0.9
+101,1,Discussion about someone being freed,2025-02-06T16:58:00Z,system,0.8
+102,1,Discussion about someone being freed,2025-02-06T17:04:00Z,system,0.8
+103,1,Discussion about someone being freed,2025-02-06T17:04:00Z,system,0.8
+104,1,Discussion about someone being freed,2025-02-06T17:05:00Z,system,0.9
+105,2,Ethereum price and L2 scaling discussion,2025-02-06T17:44:00Z,system,0.9
+106,2,Ethereum price and L2 scaling discussion,2025-02-06T17:44:00Z,system,0.9
+107,2,Ethereum price and L2 scaling discussion,2025-02-06T17:44:00Z,system,0.9
+108,2,Ethereum price and L2 scaling discussion,2025-02-06T17:46:00Z,system,0.9
+109,2,Ethereum price and L2 scaling discussion,2025-02-06T17:46:00Z,system,0.9
+110,3,Business development connections request,2025-02-06T17:53:00Z,system,0.9
+111,4,Essay sharing about memeplex,2025-02-06T17:54:00Z,system,0.9
+112,1,Discussion about someone being freed,2025-02-06T18:01:00Z,system,0.9
+113,1,Discussion about someone being freed,2025-02-06T18:01:00Z,system,0.9
+114,0,Spam Messages,None,system,0.7
+115,1,Discussion about someone being freed,2025-02-06T18:02:00Z,system,0.9
+116,5,Discussion about Lemiscate's posts,2025-02-06T20:16:00Z,system,0.9
+117,5,Discussion about Lemiscate's posts,2025-02-06T20:16:00Z,system,0.9
+118,5,Discussion about Lemiscate's posts,2025-02-06T20:17:00Z,system,0.9
+119,6,AAVE price discussion and market conditions,2025-02-06T20:17:00Z,system,0.9
+120,6,AAVE price discussion and market conditions,2025-02-06T20:18:00Z,system,0.9
+121,6,AAVE price discussion and market conditions,2025-02-06T20:18:00Z,system,0.9
+122,6,AAVE price discussion and market conditions,2025-02-06T20:20:00Z,system,0.9
+123,6,AAVE price discussion and market conditions,2025-02-06T20:20:00Z,system,0.9
+124,6,AAVE price discussion and market conditions,2025-02-06T20:25:00Z,system,0.9
+125,6,AAVE price discussion and market conditions,2025-02-06T20:26:00Z,system,0.9
+126,7,ETH Denver conference discussion,2025-02-06T20:27:00Z,system,0.9
+127,7,ETH Denver conference discussion,2025-02-06T20:28:00Z,system,0.9
+128,7,ETH Denver conference discussion,2025-02-06T20:28:00Z,system,0.9
+129,7,ETH Denver conference discussion,2025-02-06T20:28:00Z,system,0.9
+130,7,ETH Denver conference discussion,2025-02-06T20:29:00Z,system,0.9
+131,7,ETH Denver conference discussion,2025-02-06T20:29:00Z,system,0.9
+154,1,Discussion about VC memecoin and Tapioca options airdrop,2025-02-06T03:12:00Z,system,0.9
+155,1,Discussion about VC memecoin and Tapioca options airdrop,2025-02-06T03:12:00Z,system,0.9
+156,1,Discussion about VC memecoin and Tapioca options airdrop,2025-02-06T03:12:00Z,system,0.9
+157,1,Discussion about VC memecoin and Tapioca options airdrop,2025-02-06T03:13:00Z,system,0.9
+158,1,Discussion about VC memecoin and Tapioca options airdrop,2025-02-06T03:30:00Z,system,0.8
+159,2,India's tax policy for crypto holdings,2025-02-06T08:52:00Z,system,0.9
+160,2,India's tax policy for crypto holdings,2025-02-06T08:52:00Z,system,0.9
+161,2,India's tax policy for crypto holdings,2025-02-06T08:52:00Z,system,0.8
+162,2,India's tax policy for crypto holdings,2025-02-06T09:32:00Z,system,0.7
+163,0,Spam Messages,2025-02-06T09:32:00Z,system,1.0
+164,3,DeFi user metrics and analytics data request,2025-02-06T10:43:00Z,system,0.9
+165,3,DeFi user metrics and analytics data request,2025-02-06T10:43:00Z,system,0.9
+166,3,DeFi user metrics and analytics data request,2025-02-06T10:46:00Z,system,0.9
+167,3,DeFi user metrics and analytics data request,2025-02-06T10:51:00Z,system,0.9
+168,3,DeFi user metrics and analytics data request,2025-02-06T10:52:00Z,system,0.9
+169,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:36:00Z,system,0.9
+170,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:38:00Z,system,0.9
+171,0,Spam Messages,2025-02-06T11:38:00Z,system,1.0
+172,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:38:00Z,system,0.9
+173,0,Spam Messages,2025-02-06T11:38:00Z,system,1.0
+174,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:40:00Z,system,0.9
+175,0,Spam Messages,2025-02-06T11:40:00Z,system,1.0
+176,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:40:00Z,system,0.9
+177,3,DeFi user metrics and analytics data request,2025-02-06T11:41:00Z,system,0.9
+178,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:41:00Z,system,0.9
+179,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:42:00Z,system,0.9
+180,4,Discussion about Story L1/L2 and new blockchain platforms,2025-02-06T11:42:00Z,system,0.9
+200,1,Discussion about L2 narratives,2025-02-06T11:46:00Z,system,0.9
+201,1,Discussion about L2 narratives,2025-02-06T11:47:00Z,system,0.9
+202,1,Discussion about L2 narratives,2025-02-06T11:47:00Z,system,0.8
+203,1,Discussion about L2 narratives,2025-02-06T11:47:00Z,system,0.9
+204,2,PACT and DeFi user statistics,2025-02-06T11:54:00Z,system,0.8
+205,2,PACT and DeFi user statistics,2025-02-06T11:54:00Z,system,0.9
+206,2,PACT and DeFi user statistics,2025-02-06T11:54:00Z,system,0.9
+207,2,PACT and DeFi user statistics,2025-02-06T11:54:00Z,system,0.7
+208,2,PACT and DeFi user statistics,2025-02-06T11:57:00Z,system,0.9
+209,2,PACT and DeFi user statistics,2025-02-06T11:57:00Z,system,0.9
+210,2,PACT and DeFi user statistics,2025-02-06T12:03:00Z,system,0.9
+211,3,ChatGPT joking conversation,2025-02-06T12:15:00Z,system,0.9
+212,3,ChatGPT joking conversation,2025-02-06T12:16:00Z,system,0.9
+213,3,ChatGPT joking conversation,2025-02-06T12:16:00Z,system,0.8
+214,3,ChatGPT joking conversation,2025-02-06T12:21:00Z,system,0.9
+215,3,ChatGPT joking conversation,2025-02-06T12:21:00Z,system,0.8
+216,3,ChatGPT joking conversation,2025-02-06T12:21:00Z,system,0.9
+217,3,ChatGPT joking conversation,2025-02-06T12:21:00Z,system,0.8
+218,3,ChatGPT joking conversation,2025-02-06T12:23:00Z,system,0.9
+219,4,Trump memecoin impact on DeFi liquidity,2025-02-06T12:23:00Z,system,0.9
+220,4,Trump memecoin impact on DeFi liquidity,2025-02-06T12:23:00Z,system,0.9
+221,5,Ethereum gas and transaction discussion,2025-02-06T12:27:00Z,system,0.9
+222,5,Ethereum gas and transaction discussion,2025-02-06T12:28:00Z,system,0.9
+223,5,Ethereum gas and transaction discussion,2025-02-06T12:28:00Z,system,0.8
+224,4,Trump memecoin impact on DeFi liquidity,2025-02-06T12:30:00Z,system,0.9
+225,4,Trump memecoin impact on DeFi liquidity,2025-02-06T12:30:00Z,system,0.9
+226,5,Ethereum gas and transaction discussion,2025-02-06T13:16:00Z,system,0.9
+227,5,Ethereum gas and transaction discussion,2025-02-06T13:16:00Z,system,0.8
+228,5,Ethereum gas and transaction discussion,2025-02-06T13:17:00Z,system,0.9
+229,5,Ethereum gas and transaction discussion,2025-02-06T13:17:00Z,system,0.0
+250,1,Sharing link about blockchain/crypto tech discussion,2025-02-06T16:02:00Z,system,0.7
+251,2,LayerMe platform or service discussion,2025-02-06T16:06:00Z,system,0.8
+252,2,LayerMe platform or service discussion,2025-02-06T16:06:00Z,system,0.8
+253,3,Gas price and transaction volume analysis,2025-02-06T16:11:00Z,system,0.9
+254,3,Gas price and transaction volume analysis,2025-02-06T16:11:00Z,system,0.9
+255,4,NFT offer security verification question,2025-02-06T16:11:00Z,system,1.0
+256,4,NFT offer security verification question,2025-02-06T16:34:00Z,system,1.0

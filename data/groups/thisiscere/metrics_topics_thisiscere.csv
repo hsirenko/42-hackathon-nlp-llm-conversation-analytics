@@ -1,0 +1,43 @@
+model,topic,information_density,redundancy,relevance,efficiency,overall
+gpt4o,Web3 Global Media Event Invitation,8.0,7.0,9.0,8.0,8.0
+gpt4o,Unidentified Topic,2.0,8.0,3.0,3.0,4.0
+gpt4o,Cryptocurrency Gas Fees Reimbursement,8.0,7.0,9.0,8.0,8.0
+gpt4o,Spam Messages,4.0,5.0,7.0,6.0,5.5
+gpt4o,Market Strategy Discussion,6.0,8.0,7.0,7.0,7.0
+gpt4o,Direct Communication,4.0,7.0,6.0,5.0,5.5
+gpt4o,Community Reminiscing,7.0,9.0,9.0,8.0,8.25
+gpt4o,Cryptocurrency Market Speculation,7.0,8.0,8.0,7.0,7.5
+gpt4o,Cryptocurrency Token Discussion,5.0,7.0,6.0,6.0,6.0
+gpt4o,Cryptocurrency Project Updates Inquiry,7.0,8.0,8.0,7.0,7.5
+gpt4o,Developer Services Offering,6.0,8.0,7.0,7.0,7.0
+gpt4o,Cryptocurrency Market Analysis,7.0,8.0,9.0,8.0,8.0
+gpt4o,Community Interaction,4.0,7.0,6.0,5.0,5.5
+gpt4o,AVERAGE,5.769230769230769,7.461538461538462,7.230769230769231,6.538461538461538,6.75
+deepseekv3,Developer offering services,6.0,8.0,7.0,7.0,7.0
+deepseekv3,Short days and NYSE opening,7.0,8.0,8.0,7.0,7.5
+deepseekv3,XRP meme coin and market opportunities,7.0,8.0,8.0,7.0,7.5
+deepseekv3,Web3 Global Media event invitation,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Spam Messages,4.0,5.0,7.0,6.0,5.5
+deepseekv3,Greeting,5.0,8.0,9.0,8.0,7.5
+deepseekv3,Cere Network price strategy,7.0,8.0,9.0,7.0,7.75
+deepseekv3,Bull run confirmation,6.0,8.0,7.0,7.0,7.0
+deepseekv3,Community nostalgia,8.0,9.0,9.0,9.0,8.75
+deepseekv3,Gas fee reimbursement,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Expectations from Cere Network,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Moderator role inquiry,8.0,9.0,9.0,8.0,8.5
+deepseekv3,$cere token supply and use case,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Cere Network announcements,5.0,7.0,8.0,6.0,6.5
+deepseekv3,Technical partnership inquiry,8.0,9.0,9.0,8.0,8.5
+deepseekv3,AVERAGE,6.733333333333333,8.066666666666666,8.4,7.466666666666667,7.666666666666667
+claude35s,Event Invitation Discussion,6.0,8.0,7.0,7.0,7.0
+claude35s,CERE Token Supply and Use Case Discussion,8.0,7.0,9.0,8.0,8.0
+claude35s,Spam Messages,5.0,6.0,8.0,7.0,6.5
+claude35s,Chat activity observation,6.0,8.0,7.0,7.0,7.0
+claude35s,Price defense strategies discussion,8.0,9.0,9.0,8.0,8.5
+claude35s,Attempting to get moderator attention,7.0,8.0,6.0,7.0,7.0
+claude35s,General Greetings,4.0,7.0,5.0,6.0,5.5
+claude35s,Market Sentiment Discussion,6.0,8.0,7.0,7.0,7.0
+claude35s,Reminiscing about 2020 COVID era,8.0,9.0,7.0,8.0,8.0
+claude35s,CERE Announcement Discussion,6.0,8.0,7.0,7.0,7.0
+claude35s,Gas Fees Discussion,6.0,8.0,7.0,7.0,7.0
+claude35s,AVERAGE,6.363636363636363,7.818181818181818,7.181818181818182,7.181818181818182,7.136363636363637

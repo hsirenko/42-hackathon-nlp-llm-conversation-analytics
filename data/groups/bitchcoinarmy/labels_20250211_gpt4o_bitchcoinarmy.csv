@@ -1,0 +1,109 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,0,Spam Messages,2025-02-09T22:24:00Z,1,1.0
+2,1,General Check-in,2025-02-09T22:24:00Z,1,0.95
+3,2,Sports/Game Watching,2025-02-09T22:28:00Z,1,0.95
+4,2,Sports/Game Watching,2025-02-09T22:29:00Z,1,0.95
+5,2,Sports/Game Watching,2025-02-09T22:32:00Z,1,0.95
+6,3,Crypto Market Update,2025-02-09T22:50:00Z,1,0.98
+7,4,New Member Introduction,2025-02-09T22:59:00Z,1,0.9
+8,4,New Member Introduction,2025-02-09T22:59:00Z,1,0.9
+9,4,New Member Introduction,2025-02-09T22:59:00Z,1,0.9
+10,4,New Member Introduction,2025-02-09T22:59:00Z,1,0.9
+11,4,New Member Introduction,2025-02-09T23:00:00Z,1,0.9
+12,4,New Member Introduction,2025-02-09T23:01:00Z,1,0.9
+13,4,New Member Introduction,2025-02-09T23:02:00Z,1,0.9
+14,4,New Member Introduction,2025-02-09T23:02:00Z,1,0.9
+15,4,New Member Introduction,2025-02-09T23:03:00Z,1,0.9
+16,0,Spam Messages,2025-02-09T23:21:00Z,1,1.0
+17,3,Crypto Market Update,2025-02-09T23:23:00Z,1,0.98
+18,3,Crypto Market Update,2025-02-09T23:25:00Z,1,0.98
+19,3,Crypto Market Update,2025-02-09T23:29:00Z,1,0.98
+20,3,Crypto Market Update,2025-02-09T23:31:00Z,1,0.98
+21,2,Sports/Game Watching,2025-02-10T00:42:00Z,1,0.95
+22,2,Sports/Game Watching,2025-02-10T00:43:00Z,1,0.95
+23,2,Sports/Game Watching,2025-02-10T01:19:00Z,1,0.95
+24,2,Sports/Game Watching,2025-02-10T01:52:00Z,1,0.95
+25,2,Sports/Game Watching,2025-02-10T02:24:00Z,1,0.95
+26,2,Sports/Game Watching,2025-02-10T04:32:00Z,1,0.95
+27,5,CoinMarketCap Post Promotion,2025-02-10T04:45:00Z,1,0.9
+28,5,CoinMarketCap Post Promotion,2025-02-10T04:53:00Z,1,0.9
+29,5,CoinMarketCap Post Promotion,2025-02-10T04:53:00Z,1,0.9
+30,5,CoinMarketCap Post Promotion,2025-02-10T04:53:00Z,1,0.9
+31,5,CoinMarketCap Post Promotion,2025-02-10T04:53:00Z,1,0.9
+32,5,CoinMarketCap Post Promotion,2025-02-10T04:53:00Z,1,0.9
+33,5,CoinMarketCap Post Promotion,2025-02-10T04:57:00Z,1,0.9
+34,0,Spam Messages,2025-02-10T05:00:00Z,1,1.0
+51,1,"""Work-related Contract""",2025-02-10T16:27:00Z,system,0.95
+52,2,"""General Morning Greetings""",2025-02-10T16:58:00Z,system,0.9
+53,2,"""General Morning Greetings""",2025-02-10T16:58:00Z,system,0.9
+54,2,"""General Morning Greetings""",2025-02-10T17:17:00Z,system,0.9
+55,2,"""General Morning Greetings""",2025-02-10T17:29:00Z,system,0.9
+56,2,"""General Morning Greetings""",2025-02-10T17:42:00Z,system,0.9
+57,3,"""Community Development""",2025-02-10T17:43:00Z,system,0.85
+58,4,"""Crypto Market Discussion""",2025-02-10T17:55:00Z,system,0.95
+59,2,"""General Morning Greetings""",2025-02-10T17:59:00Z,system,0.9
+60,5,"""Airdrop Inquiry""",2025-02-10T18:02:00Z,system,0.9
+61,3,"""Community Development""",2025-02-10T18:04:00Z,system,0.85
+62,4,"""Crypto Market Discussion""",2025-02-10T19:45:00Z,system,0.95
+63,6,"""Cryptocurrency Quest and Rewards""",2025-02-10T20:20:00Z,system,0.95
+64,4,"""Crypto Market Discussion""",2025-02-10T20:21:00Z,system,0.95
+65,7,"""Bitchcoin Community Engagement""",2025-02-10T20:23:00Z,system,0.8
+66,7,"""Bitchcoin Community Engagement""",2025-02-10T20:24:00Z,system,0.8
+67,7,"""Bitchcoin Community Engagement""",2025-02-10T01:04:00Z,system,0.8
+68,7,"""Bitchcoin Community Engagement""",2025-02-10T01:04:00Z,system,0.8
+69,7,"""Bitchcoin Community Engagement""",2025-02-10T01:08:00Z,system,0.8
+70,7,"""Bitchcoin Community Engagement""",2025-02-10T01:08:00Z,system,0.8
+71,7,"""Bitchcoin Community Engagement""",2025-02-10T01:09:00Z,system,0.8
+72,7,"""Bitchcoin Community Engagement""",2025-02-10T01:09:00Z,system,0.8
+73,7,"""Bitchcoin Community Engagement""",2025-02-10T01:09:00Z,system,0.8
+74,7,"""Bitchcoin Community Engagement""",2025-02-10T01:11:00Z,system,0.8
+75,7,"""Bitchcoin Community Engagement""",2025-02-10T01:11:00Z,system,0.8
+76,7,"""Bitchcoin Community Engagement""",2025-02-10T01:11:00Z,system,0.8
+77,7,"""Bitchcoin Community Engagement""",2025-02-10T01:11:00Z,system,0.8
+78,7,"""Bitchcoin Community Engagement""",2025-02-10T01:11:00Z,system,0.8
+79,7,"""Bitchcoin Community Engagement""",2025-02-10T01:12:00Z,system,0.8
+80,7,"""Bitchcoin Community Engagement""",2025-02-10T01:12:00Z,system,0.8
+81,7,"""Bitchcoin Community Engagement""",2025-02-10T01:12:00Z,system,0.8
+82,7,"""Bitchcoin Community Engagement""",2025-02-10T01:12:00Z,system,0.8
+83,7,"""Bitchcoin Community Engagement""",2025-02-10T01:13:00Z,system,0.8
+101,1,Cryptocurrency and Family,2025-02-10T01:20:00Z,system,0.95
+102,1,Cryptocurrency and Family,2025-02-10T01:21:00Z,system,0.95
+103,1,Cryptocurrency and Family,2025-02-10T01:21:00Z,system,0.95
+104,1,Cryptocurrency and Family,2025-02-10T01:21:00Z,system,0.95
+105,1,Cryptocurrency and Family,2025-02-10T01:24:00Z,system,0.95
+106,1,Cryptocurrency and Family,2025-02-10T01:24:00Z,system,0.95
+107,1,Cryptocurrency and Family,2025-02-10T01:25:00Z,system,0.95
+108,1,Cryptocurrency and Family,2025-02-10T01:25:00Z,system,0.95
+109,1,Cryptocurrency and Family,2025-02-10T01:25:00Z,system,0.95
+110,1,Cryptocurrency and Family,2025-02-10T01:26:00Z,system,0.95
+111,2,Marketing and Project Involvement,2025-02-10T01:27:00Z,system,0.9
+112,2,Marketing and Project Involvement,2025-02-10T01:27:00Z,system,0.9
+113,2,Marketing and Project Involvement,2025-02-10T01:27:00Z,system,0.9
+114,2,Marketing and Project Involvement,2025-02-10T01:28:00Z,system,0.9
+115,2,Marketing and Project Involvement,2025-02-10T01:28:00Z,system,0.9
+116,2,Marketing and Project Involvement,2025-02-10T01:28:00Z,system,0.9
+117,2,Marketing and Project Involvement,2025-02-10T01:29:00Z,system,0.9
+118,2,Marketing and Project Involvement,2025-02-10T01:30:00Z,system,0.9
+119,2,Marketing and Project Involvement,2025-02-10T01:30:00Z,system,0.9
+120,2,Marketing and Project Involvement,2025-02-10T01:31:00Z,system,0.9
+121,2,Marketing and Project Involvement,2025-02-10T01:31:00Z,system,0.9
+122,2,Marketing and Project Involvement,2025-02-10T01:32:00Z,system,0.9
+123,2,Marketing and Project Involvement,2025-02-10T01:32:00Z,system,0.9
+124,2,Marketing and Project Involvement,2025-02-10T01:32:00Z,system,0.9
+125,2,Marketing and Project Involvement,2025-02-10T01:32:00Z,system,0.9
+126,2,Marketing and Project Involvement,2025-02-10T01:35:00Z,system,0.9
+127,2,Marketing and Project Involvement,2025-02-10T01:35:00Z,system,0.9
+128,3,Group Activities and Memes,2025-02-10T01:35:00Z,system,0.85
+129,3,Group Activities and Memes,2025-02-10T01:35:00Z,system,0.85
+130,3,Group Activities and Memes,2025-02-10T01:36:00Z,system,0.85
+131,3,Group Activities and Memes,2025-02-10T01:36:00Z,system,0.85
+132,3,Group Activities and Memes,2025-02-10T01:36:00Z,system,0.85
+151,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:51:00Z,system,0.95
+152,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:53:00Z,system,0.95
+153,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:53:00Z,system,0.95
+154,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:58:00Z,system,0.95
+155,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:58:00Z,system,0.95
+156,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:58:00Z,system,0.95
+157,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:59:00Z,system,0.95
+158,1,"""Dog-themed Good Morning Greetings""",2025-02-10T16:59:00Z,system,0.95
+159,1,"""Dog-themed Good Morning Greetings""",2025-02-10T17:07:00Z,system,0.95

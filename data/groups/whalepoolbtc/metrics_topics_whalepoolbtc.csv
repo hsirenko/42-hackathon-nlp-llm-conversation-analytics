@@ -1,0 +1,121 @@
+model,topic,information_density,redundancy,relevance,efficiency,overall
+gpt4o,Defense Against Being a Bot,7.0,8.0,9.0,8.0,8.0
+gpt4o,App Availability News,7.0,8.0,8.0,8.0,7.75
+gpt4o,EU Policy News,6.0,8.0,7.0,7.0,7.0
+gpt4o,Financial News,4.0,8.0,5.0,6.0,5.75
+gpt4o,Bitcoin Price Tickers,7.0,8.0,9.0,8.0,8.0
+gpt4o,Nvidia Hardware Controversy,6.0,8.0,5.0,7.0,6.5
+gpt4o,"""Reaction to Overhyped Cryptocurrency Projects""",3.0,8.0,2.0,3.0,4.0
+gpt4o,"""Discussion on Money and Cryptocurrency""",6.0,7.0,8.0,7.0,7.0
+gpt4o,"""General Reaction to Cryptocurrency News""",4.0,7.0,3.0,4.0,4.5
+gpt4o,"""Binance Futures Trading Data""",7.0,8.0,9.0,8.0,8.0
+gpt4o,Openness to Learning,7.0,8.0,9.0,8.0,8.0
+gpt4o,Cryptocurrency Inquiry,4.0,8.0,3.0,5.0,5.0
+gpt4o,Endorsement of Bybit,7.0,8.0,8.0,8.0,7.75
+gpt4o,Pop Culture Reference,5.0,8.0,7.0,6.0,6.5
+gpt4o,Islamic Finance,6.0,8.0,7.0,7.0,7.0
+gpt4o,Mars Colonization,6.0,8.0,7.0,7.0,7.0
+gpt4o,Media Group's Fintech Brand,7.0,8.0,6.0,7.0,7.0
+gpt4o,Bitcoin Price Speculation,8.0,9.0,9.0,8.0,8.5
+gpt4o,Expression of Surprise,6.0,8.0,7.0,7.0,7.0
+gpt4o,"""Spam Messages""",6.0,8.0,9.0,7.0,7.5
+gpt4o,"""Discussion on Cryptocurrency Technology (Side Chains)""",7.0,8.0,9.0,7.0,7.75
+gpt4o,Blockchain Technology,3.0,7.0,2.0,4.0,4.0
+gpt4o,Cryptocurrency,3.0,8.0,4.0,3.0,4.5
+gpt4o,Clarification on Shariah Compliant Blockchain,8.0,7.0,9.0,7.0,7.75
+gpt4o,Comparison of Crypto Platforms,4.0,8.0,3.0,4.0,4.75
+gpt4o,Crypto Platforms,4.0,7.0,5.0,6.0,5.5
+gpt4o,"""Humor and Sarcasm in Cryptocurrency Community""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Cryptocurrency Mining Hardware""",7.0,8.0,9.0,8.0,8.0
+gpt4o,Binance Futures Trading Data,7.0,8.0,9.0,8.0,8.0
+gpt4o,Spam Messages,5.0,8.0,7.0,7.0,6.75
+gpt4o,Cultural Exchange,4.0,8.0,5.0,6.0,5.75
+gpt4o,Cryptocurrency Lending Rates,8.0,9.0,9.0,8.0,8.5
+gpt4o,Shariah Compliant Investments,8.0,9.0,10.0,9.0,9.0
+gpt4o,Greeting Exchange,5.0,8.0,7.0,6.0,6.5
+gpt4o,Light-hearted Response,6.0,8.0,7.0,7.0,7.0
+gpt4o,"""Elon Musk's Deal with Visa for X Money Account""",8.0,9.0,10.0,8.0,8.75
+gpt4o,"""Promotion of Cryptocurrency-Related Event""",8.0,9.0,7.0,8.0,8.0
+gpt4o,Financial Services Expansion,6.0,8.0,7.0,7.0,7.0
+gpt4o,"""Critique of Centralized Cryptocurrencies""",8.0,9.0,9.0,8.0,8.5
+gpt4o,Food Ingredients,5.0,8.0,7.0,6.0,6.5
+gpt4o,National Pride in Cryptocurrency,4.0,7.0,3.0,4.0,4.5
+gpt4o,Emotional Reaction,4.0,8.0,7.0,6.0,6.25
+gpt4o,"""Crypto(.).com Delisting Tether's USDT""",9.0,8.0,10.0,9.0,9.0
+gpt4o,"""Cryptocurrency Market Updates""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Universal Basic Income Coin Concept""",7.0,8.0,10.0,8.0,8.25
+gpt4o,Apology and Learning,4.0,7.0,5.0,5.0,5.25
+gpt4o,Speculation on Economic and Political Events Impact on Bitcoin Price,7.0,6.0,8.0,5.0,6.5
+gpt4o,"""Frustration or Disappointment in Cryptocurrency""",4.0,8.0,3.0,4.0,4.75
+gpt4o,Cryptocurrency Executive Critique,8.0,7.0,9.0,8.0,8.0
+gpt4o,Bitcoin Monthly Performance Analysis,8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Identity of Satoshi Nakamoto""",8.0,9.0,10.0,9.0,9.0
+gpt4o,Personal Insults,7.0,8.0,9.0,8.0,8.0
+gpt4o,Originality in Blockchain,4.0,7.0,3.0,4.0,4.5
+gpt4o,"""Cryptocurrency ETFs and Market Movements""",8.0,9.0,9.0,8.0,8.5
+gpt4o,Life-Changing Book Recommendation,7.0,8.0,9.0,8.0,8.0
+gpt4o,Emoji Reactions,6.0,8.0,9.0,7.0,7.5
+gpt4o,Dismissive Response,7.0,9.0,8.0,8.0,8.0
+gpt4o,Financial Allocation in Crypto,7.0,8.0,8.0,8.0,7.75
+gpt4o,Question about Blockchain Initiatives,4.0,7.0,3.0,5.0,4.75
+gpt4o,Technology and Space Exploration,6.0,8.0,7.0,7.0,7.0
+gpt4o,Conclusion of Announcement,5.0,8.0,7.0,6.0,6.5
+gpt4o,Iran's Blockchain Initiative,7.0,8.0,9.0,8.0,8.0
+gpt4o,AVERAGE,6.112903225806452,7.983870967741935,7.17741935483871,6.806451612903226,7.020161290322581
+claude35s,Discussion about Islamic/Shariah-compliant trading,8.0,9.0,9.0,8.0,8.5
+claude35s,Mars colonization and workforce demographics,8.0,9.0,9.0,8.0,8.5
+claude35s,Cryptocurrency price concerns,7.0,8.0,9.0,8.0,8.0
+claude35s,Crypto Market Data - Binance Futures Ratios,8.0,7.0,9.0,8.0,8.0
+claude35s,BTC Price Ticker Data,8.0,9.0,9.0,8.0,8.5
+claude35s,Discussion About Satoshi's Identity,7.0,8.0,9.0,7.0,7.75
+claude35s,Discussion about Crypto Executives,7.0,8.0,9.0,8.0,8.0
+claude35s,Bitcoin Layer 2 and Sidechains Discussion,8.0,9.0,9.0,8.0,8.5
+claude35s,Bitfinex Lending Rates Update,9.0,9.0,10.0,9.0,9.25
+claude35s,Spam Messages,6.0,8.0,9.0,7.0,7.5
+claude35s,Crypto ETF Filings Discussion,8.0,9.0,9.0,8.0,8.5
+claude35s,Binance Futures Trading Ratio Update,8.0,9.0,9.0,8.0,8.5
+claude35s,NVIDIA AI Hardware Sales Discussion,7.0,8.0,6.0,7.0,7.0
+claude35s,Digital Money and Banking Discussion,6.0,8.0,7.0,7.0,7.0
+claude35s,Book Recommendation Discussion,5.0,8.0,7.0,6.0,6.5
+claude35s,Altcoin Season Discussion,7.0,8.0,9.0,8.0,8.0
+claude35s,Crypto Market Data - Lending Rates,9.0,8.0,10.0,9.0,9.0
+claude35s,Trump Media financial news and updates,7.0,8.0,8.0,7.0,7.5
+claude35s,Crypto Mining Hardware Discussion,8.0,9.0,9.0,8.0,8.5
+claude35s,Crypto Market Data - BTC Price Ticker,8.0,7.0,9.0,8.0,8.0
+claude35s,Bitcoin Price Discussion and Predictions,8.0,7.0,9.0,8.0,8.0
+claude35s,Crypto.com USDT Delisting News,9.0,8.0,10.0,9.0,9.0
+claude35s,Elon Musk X Payment Platform News,8.0,7.0,9.0,8.0,8.0
+claude35s,AVERAGE,7.565217391304348,8.173913043478262,8.782608695652174,7.826086956521739,8.08695652173913
+deepseekv3,Powell Conference Poll,7.0,8.0,8.0,8.0,7.75
+deepseekv3,Book Recommendation,6.0,8.0,9.0,7.0,7.5
+deepseekv3,Consumer Confidence Data,7.0,8.0,8.0,8.0,7.75
+deepseekv3,Space Exploration Discussion,5.0,8.0,7.0,6.0,6.5
+deepseekv3,Crypto Prophecy Fulfillment,4.0,8.0,5.0,6.0,5.75
+deepseekv3,EU Competitiveness Strategy,7.0,9.0,8.0,8.0,8.0
+deepseekv3,Dogecoin ETF News,8.0,9.0,10.0,9.0,9.0
+deepseekv3,AI Model Competition,7.0,8.0,9.0,8.0,8.0
+deepseekv3,OpenAI Funding Discussion,6.0,8.0,7.0,7.0,7.0
+deepseekv3,Elon Musk Financial News,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Bitcoin Price Speculation,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Universal Basic Income Coin,8.0,9.0,10.0,9.0,9.0
+deepseekv3,Satoshi Identity Speculation,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Crypto Futures Data,7.0,8.0,8.0,8.0,7.75
+deepseekv3,Spam Messages,4.0,7.0,5.0,6.0,5.5
+deepseekv3,DeepSeek App Availability,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Crypto Sidechains Discussion,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Trump Media Financial News,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Solana ETF News,8.0,9.0,9.0,9.0,8.75
+deepseekv3,Islamic Blockchain Compliance,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Patriotic Crypto Commentary,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Crypto Chip Manufacturing,7.0,8.0,9.0,8.0,8.0
+deepseekv3,NVIDIA Hardware Controversy,6.0,8.0,5.0,7.0,6.5
+deepseekv3,Crypto Delisting News,7.0,8.0,8.0,8.0,7.75
+deepseekv3,Crypto Lending Rates,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Crypto Market Data,6.0,8.0,7.0,7.0,7.0
+deepseekv3,Crypto Executive Commentary,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Bitcoin Market Trends,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Crypto Market Speculation,8.0,9.0,8.0,9.0,8.5
+deepseekv3,Centralized Crypto Criticism,8.0,9.0,9.0,8.0,8.5
+deepseekv3,Binance Founder Investment,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Crypto and Money Discussion,6.0,7.0,8.0,7.0,7.0
+deepseekv3,AVERAGE,6.84375,8.21875,8.28125,7.78125,7.78125

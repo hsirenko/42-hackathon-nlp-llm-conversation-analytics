@@ -1,0 +1,41 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+40001,1,Unknown Crypto Token Issue,2025-01-31T13:21:00Z,system,0.8
+40002,2,DeepSeek Discussion,2025-01-31T13:21:00Z,system,0.9
+40003,3,Telegram Bot Development Job,2025-01-31T13:22:00Z,system,0.9
+40004,4,Crypto Trading Education Request,2025-01-31T13:24:00Z,system,0.9
+40005,3,Telegram Bot Development Job,2025-01-31T13:25:00Z,system,0.8
+40006,4,Crypto Trading Education Request,2025-01-31T13:29:00Z,system,0.9
+40007,4,Crypto Trading Education Request,2025-01-31T13:30:00Z,system,0.9
+40008,4,Crypto Trading Education Request,2025-01-31T13:32:00Z,system,0.9
+40009,4,Crypto Trading Education Request,2025-01-31T13:32:00Z,system,0.9
+40010,4,Crypto Trading Education Request,2025-01-31T13:33:00Z,system,0.9
+40011,4,Crypto Trading Education Request,2025-01-31T13:34:00Z,system,0.9
+40012,4,Crypto Trading Education Request,2025-01-31T13:36:00Z,system,0.9
+40013,4,Crypto Trading Education Request,2025-01-31T13:36:00Z,system,0.9
+40014,0,Spam Messages,2025-01-31T14:48:00Z,system,0.9
+40015,0,Spam Messages,2025-01-31T14:48:00Z,system,0.9
+40016,5,Reconnecting with Old Project Partners,2025-01-31T15:36:00Z,system,0.9
+40017,0,Spam Messages,2025-01-31T15:55:00Z,system,0.9
+40018,0,Spam Messages,2025-01-31T16:32:00Z,system,0.9
+40019,0,Spam Messages,2025-01-31T16:39:00Z,system,0.9
+40020,6,Cypherium Blockchain Discussion,2025-01-31T18:42:00Z,system,0.9
+40021,0,Spam Messages,2025-01-31T18:46:00Z,system,0.8
+40022,0,Spam Messages,2025-01-31T18:47:00Z,system,0.8
+40023,6,Cypherium Blockchain Discussion,2025-01-31T18:51:00Z,system,0.9
+40024,0,Spam Messages,2025-01-31T19:02:00Z,system,0.9
+40025,0,Spam Messages,2025-01-31T21:31:00Z,system,0.9
+40026,4,Crypto Trading Education Request,2025-01-31T21:46:00Z,system,0.8
+40027,0,Spam Messages,2025-01-31T22:28:00Z,system,0.9
+40028,0,labels_20250131_182908_claude35s_web3global.csv Messages,2025-01-31T23:13:00Z,system,0.9
+40029,0,Spam Messages,2025-02-01T00:19:00Z,system,0.9
+40030,0,Spam Messages,2025-02-01T07:06:00Z,system,0.9
+40031,7,General Greetings,2025-02-01T07:25:00Z,system,0.8
+40032,0,Spam Messages,2025-02-01T07:53:00Z,system,0.9
+40051,1,Unclear/Isolated Affirmative Response,2025-02-01T14:20:00Z,system,0.6
+40052,0,Spam Messages,2025-02-01T14:26:00Z,system,0.9
+40053,0,Spam Messages,2025-02-01T14:26:00Z,system,0.9
+40054,0,Spam Messages,2025-02-01T14:26:00Z,system,0.8
+40055,0,Spam Messages,2025-02-01T14:50:00Z,system,0.9
+40056,0,Spam Messages,2025-02-01T14:50:00Z,system,0.9
+40057,0,Spam Messages,2025-02-01T14:57:00Z,system,0.9
+40058,0,Spam Messages,2025-02-01T14:57:00Z,system,0.8

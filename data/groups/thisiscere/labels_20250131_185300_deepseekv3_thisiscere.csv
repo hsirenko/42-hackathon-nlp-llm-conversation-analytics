@@ -1,0 +1,68 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36564,0,Spam Messages,2025-01-14T01:06:16Z,1,1.0
+36566,0,Spam Messages,2025-01-14T01:17:41Z,1,1.0
+36568,0,Spam Messages,2025-01-14T01:22:12Z,1,1.0
+36569,1,$cere token supply and use case,2025-01-14T01:22:56Z,1,0.9
+36570,1,$cere token supply and use case,2025-01-14T01:25:40Z,1,0.9
+36571,0,Spam Messages,2025-01-14T01:36:57Z,1,1.0
+36573,0,Spam Messages,2025-01-14T01:55:42Z,1,1.0
+36574,0,Spam Messages,2025-01-14T02:05:49Z,1,1.0
+36575,0,Spam Messages,2025-01-14T02:22:38Z,1,1.0
+36576,0,Spam Messages,2025-01-14T02:30:26Z,1,1.0
+36578,0,Spam Messages,2025-01-14T05:17:33Z,1,1.0
+36580,0,Spam Messages,2025-01-14T06:46:59Z,1,1.0
+36582,2,Bull run confirmation,2025-01-14T09:21:02Z,1,0.8
+36583,2,Bull run confirmation,2025-01-14T09:35:58Z,1,0.8
+36587,3,Cere Network announcements,2025-01-14T09:40:36Z,1,0.9
+36588,3,Cere Network announcements,2025-01-14T09:42:06Z,1,0.9
+36589,3,Cere Network announcements,2025-01-14T10:03:49Z,1,0.9
+36590,4,Greeting,2025-01-14T10:11:01Z,1,0.7
+36592,5,XRP meme coin and market opportunities,2025-01-14T11:28:40Z,1,0.8
+36597,6,Developer offering services,2025-01-14T13:25:45Z,1,0.9
+36599,7,Short days and NYSE opening,2025-01-14T13:33:47Z,1,0.8
+36600,7,Short days and NYSE opening,2025-01-14T13:35:27Z,1,0.8
+36602,8,Greeting,2025-01-14T14:26:50Z,1,0.7
+36603,6,Developer offering services,2025-01-14T14:30:19Z,1,0.9
+36605,0,Spam Messages,2025-01-14T15:55:11Z,1,1.0
+36607,9,Web3 Global Media event invitation,2025-01-14T16:47:55Z,1,0.9
+36608,9,Web3 Global Media event invitation,2025-01-14T16:50:32Z,1,0.9
+36610,0,Spam Messages,2025-01-14T17:08:11Z,1,1.0
+36611,3,Cere Network announcements,2025-01-14T18:19:00Z,1,0.9
+36613,3,Cere Network announcements,2025-01-14T18:27:25Z,1,0.9
+36615,3,Cere Network announcements,2025-01-14T18:34:54Z,1,0.9
+36616,10,Gas fee reimbursement,2025-01-14T18:49:09Z,1,0.9
+36617,10,Gas fee reimbursement,2025-01-14T18:49:13Z,1,0.9
+36618,10,Gas fee reimbursement,2025-01-14T18:49:15Z,1,0.9
+36619,10,Gas fee reimbursement,2025-01-14T18:49:17Z,1,0.9
+36620,3,Cere Network announcements,2025-01-14T18:51:27Z,1,0.9
+36621,3,Cere Network announcements,2025-01-14T18:53:43Z,1,0.9
+36623,0,Spam Messages,2025-01-14T18:56:57Z,1,1.0
+36626,11,Moderator role inquiry,2025-01-14T21:23:47Z,1,0.9
+36627,0,Spam Messages,2025-01-14T22:02:01Z,1,1.0
+36628,0,Spam Messages,2025-01-14T22:05:40Z,1,1.0
+36630,11,Moderator role inquiry,2025-01-14T23:55:41Z,1,0.9
+36633,0,Spam Messages,2025-01-15T01:21:49Z,1,1.0
+36634,0,Spam Messages,2025-01-15T01:56:55Z,1,1.0
+36635,0,Spam Messages,2025-01-15T02:52:44Z,1,1.0
+36638,12,Technical partnership inquiry,2025-01-15T04:31:48Z,1,0.9
+36639,12,Technical partnership inquiry,2025-01-15T04:32:30Z,1,0.9
+36640,13,Expectations from Cere Network,2025-01-15T04:36:04Z,1,0.8
+36641,13,Expectations from Cere Network,2025-01-15T05:05:31Z,1,0.8
+36642,0,Spam Messages,2025-01-15T06:09:00Z,1,1.0
+36644,14,Cere Network price strategy,2025-01-15T07:26:01Z,1,0.9
+36646,14,Cere Network price strategy,2025-01-15T07:47:13Z,1,0.9
+36647,14,Cere Network price strategy,2025-01-15T08:16:34Z,1,0.9
+36648,14,Cere Network price strategy,2025-01-15T08:16:58Z,1,0.9
+36652,14,Cere Network price strategy,2025-01-15T11:38:50Z,1,0.9
+36653,14,Cere Network price strategy,2025-01-15T11:42:31Z,1,0.9
+36654,14,Cere Network price strategy,2025-01-15T11:43:19Z,1,0.9
+36655,14,Cere Network price strategy,2025-01-15T12:38:55Z,1,0.9
+36656,14,Cere Network price strategy,2025-01-15T13:15:46Z,1,0.9
+36657,14,Cere Network price strategy,2025-01-15T13:32:51Z,1,0.9
+36658,14,Cere Network price strategy,2025-01-15T13:39:05Z,1,0.9
+36659,14,Cere Network price strategy,2025-01-15T13:41:40Z,1,0.9
+36660,15,Community nostalgia,2025-01-15T13:43:43Z,1,0.8
+36661,15,Community nostalgia,2025-01-15T13:43:54Z,1,0.8
+36662,15,Community nostalgia,2025-01-15T13:44:28Z,1,0.8
+36663,15,Community nostalgia,2025-01-15T13:57:37Z,1,0.8
+36664,15,Community nostalgia,2025-01-15T13:59:11Z,1,0.8

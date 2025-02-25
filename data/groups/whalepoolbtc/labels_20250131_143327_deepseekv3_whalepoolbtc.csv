@@ -1,0 +1,164 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+40001,1,"Crypto Lending Rates","2025-01-28 04:00:00",1,0.95
+40002,0,"Spam Messages","2025-01-28 06:32:00",1,0.9
+40003,2,"Crypto Market Data","2025-01-28 07:00:00",1,0.95
+40004,3,"Crypto Futures Data","2025-01-28 08:00:00",1,0.95
+40005,4,"Bitcoin Market Trends","2025-01-28 09:07:00",1,0.95
+40006,0,"Spam Messages","2025-01-28 10:56:00",1,0.9
+40007,5,"Bitcoin Price Speculation","2025-01-28 11:00:00",1,0.95
+40008,6,"NVIDIA Hardware Controversy","2025-01-28 11:20:00",1,0.95
+40009,6,"NVIDIA Hardware Controversy","2025-01-28 11:20:00",1,0.95
+40010,0,"Spam Messages","2025-01-28 11:20:00",1,0.9
+40011,6,"NVIDIA Hardware Controversy","2025-01-28 11:21:00",1,0.95
+40012,6,"NVIDIA Hardware Controversy","2025-01-28 11:21:00",1,0.95
+40013,6,"NVIDIA Hardware Controversy","2025-01-28 11:21:00",1,0.95
+40014,6,"NVIDIA Hardware Controversy","2025-01-28 11:22:00",1,0.95
+40015,6,"NVIDIA Hardware Controversy","2025-01-28 11:22:00",1,0.95
+40016,6,"NVIDIA Hardware Controversy","2025-01-28 11:24:00",1,0.95
+40017,6,"NVIDIA Hardware Controversy","2025-01-28 11:24:00",1,0.95
+40018,6,"NVIDIA Hardware Controversy","2025-01-28 11:25:00",1,0.95
+40019,6,"NVIDIA Hardware Controversy","2025-01-28 11:26:00",1,0.95
+40020,6,"NVIDIA Hardware Controversy","2025-01-28 11:26:00",1,0.95
+40021,6,"NVIDIA Hardware Controversy","2025-01-28 11:28:00",1,0.95
+40022,0,"Spam Messages","2025-01-28 11:29:00",1,0.9
+40023,0,"Spam Messages","2025-01-28 11:29:00",1,0.9
+40024,0,"Spam Messages","2025-01-28 11:29:00",1,0.9
+40025,0,"Spam Messages","2025-01-28 11:30:00",1,0.9
+40026,7,"Crypto Executive Commentary","2025-01-28 12:17:00",1,0.95
+40027,0,"Spam Messages","2025-01-28 12:37:00",1,0.9
+40028,0,"Spam Messages","2025-01-28 12:38:00",1,0.9
+40029,0,"Spam Messages","2025-01-28 12:39:00",1,0.9
+40030,8,"Book Recommendation","2025-01-28 12:42:00",1,0.95
+40031,8,"Book Recommendation","2025-01-28 15:23:00",1,0.95
+40032,8,"Book Recommendation","2025-01-28 15:24:00",1,0.95
+40033,9,"Patriotic Crypto Commentary","2025-01-28 15:25:00",1,0.95
+40034,8,"Book Recommendation","2025-01-28 15:27:00",1,0.95
+40035,0,"Spam Messages","2025-01-28 15:48:00",1,0.9
+40036,1,"Crypto Lending Rates","2025-01-28 16:00:00",1,0.95
+40037,0,"Spam Messages","2025-01-28 16:00:00",1,0.9
+40038,10,"Consumer Confidence Data","2025-01-28 16:02:00",1,0.95
+40039,10,"Consumer Confidence Data","2025-01-28 16:03:00",1,0.95
+40040,0,"Spam Messages","2025-01-28 16:16:00",1,0.9
+40041,11,"OpenAI Funding Discussion","2025-01-28 16:55:00",1,0.95
+40042,11,"OpenAI Funding Discussion","2025-01-28 16:55:00",1,0.95
+40043,0,"Spam Messages","2025-01-28 16:56:00",1,0.9
+40044,12,"Binance Founder Investment","2025-01-28 16:32:00",1,0.95
+40045,12,"Binance Founder Investment","2025-01-28 16:32:00",1,0.95
+40046,12,"Binance Founder Investment","2025-01-28 16:32:00",1,0.95
+40047,0,"Spam Messages","2025-01-28 18:33:00",1,0.9
+40048,0,"Spam Messages","2025-01-28 18:33:00",1,0.9
+40049,0,"Spam Messages","2025-01-28 18:33:00",1,0.9
+40050,0,"Spam Messages","2025-01-28 18:37:00",1,0.9
+40051,2,"Crypto Market Data","2025-01-28 19:00:00",1,0.95
+40052,0,"Spam Messages","2025-01-28 20:08:00",1,0.9
+40053,0,"Spam Messages","2025-01-28 20:10:00",1,0.9
+40054,13,"Satoshi Identity Speculation","2025-01-28 20:11:00",1,0.95
+40055,0,"Spam Messages","2025-01-28 20:20:00",1,0.9
+40056,14,"Crypto Sidechains Discussion","2025-01-28 20:22:00",1,0.95
+40057,14,"Crypto Sidechains Discussion","2025-01-28 20:23:00",1,0.95
+40058,14,"Crypto Sidechains Discussion","2025-01-28 20:23:00",1,0.95
+40059,14,"Crypto Sidechains Discussion","2025-01-28 20:24:00",1,0.95
+40060,15,"Elon Musk Financial News","2025-01-28 20:25:00",1,0.95
+40061,6,"NVIDIA Hardware Controversy","2025-01-28 20:32:00",1,0.95
+40062,16,"Crypto Delisting News","2025-01-28 20:58:00",1,0.95
+40063,17,"Crypto and Money Discussion","2025-01-28 21:00:00",1,0.95
+40064,17,"Crypto and Money Discussion","2025-01-28 21:00:00",1,0.95
+40065,18,"Universal Basic Income Coin","2025-01-28 21:12:00",1,0.95
+40066,19,"Centralized Crypto Criticism","2025-01-28 21:44:00",1,0.95
+40067,20,"Crypto Prophecy Fulfillment","2025-01-28 22:22:00",1,0.95
+40068,21,"Dogecoin ETF News","2025-01-28 22:22:00",1,0.95
+40069,21,"Dogecoin ETF News","2025-01-28 22:23:00",1,0.95
+40070,22,"Solana ETF News","2025-01-28 22:37:00",1,0.95
+40071,0,"Spam Messages","2025-01-29 00:11:00",1,0.9
+40072,0,"Spam Messages","2025-01-29 00:13:00",1,0.9
+40073,23,"Crypto Chip Manufacturing","2025-01-29 00:35:00",1,0.95
+40074,23,"Crypto Chip Manufacturing","2025-01-29 00:36:00",1,0.95
+40075,23,"Crypto Chip Manufacturing","2025-01-29 00:40:00",1,0.95
+40076,23,"Crypto Chip Manufacturing","2025-01-29 00:41:00",1,0.95
+40077,0,"Spam Messages","2025-01-29 03:28:00",1,0.9
+40078,1,"Crypto Lending Rates","2025-01-29 04:00:00",1,0.95
+40079,0,"Spam Messages","2025-01-29 04:38:00",1,0.9
+40080,2,"Crypto Market Data","2025-01-29 07:00:00",1,0.95
+40081,3,"Crypto Futures Data","2025-01-29 08:00:00",1,0.95
+40082,0,"Spam Messages","2025-01-29 08:37:00",1,0.9
+40083,0,"Spam Messages","2025-01-29 08:49:00",1,0.9
+40084,24,"AI Model Competition","2025-01-29 10:05:00",1,0.95
+40085,0,"Spam Messages","2025-01-29 10:22:00",1,0.9
+40086,0,"Spam Messages","2025-01-29 10:23:00",1,0.9
+40087,0,"Spam Messages","2025-01-29 10:23:00",1,0.9
+40088,0,"Spam Messages","2025-01-29 11:12:00",1,0.9
+40089,25,"Powell Conference Poll","2025-01-29 12:09:00",1,0.95
+40090,26,"Islamic Blockchain Compliance","2025-01-29 12:12:00",1,0.95
+40091,0,"Spam Messages","2025-01-29 12:20:00",1,0.9
+40092,0,"Spam Messages","2025-01-29 12:21:00",1,0.9
+40093,0,"Spam Messages","2025-01-29 12:22:00",1,0.9
+40094,26,"Islamic Blockchain Compliance","2025-01-29 12:23:00",1,0.95
+40095,0,"Spam Messages","2025-01-29 12:23:00",1,0.9
+40096,26,"Islamic Blockchain Compliance","2025-01-29 12:24:00",1,0.95
+40097,26,"Islamic Blockchain Compliance","2025-01-29 12:24:00",1,0.95
+40098,0,"Spam Messages","2025-01-29 12:25:00",1,0.9
+40099,0,"Spam Messages","2025-01-29 12:25:00",1,0.9
+40100,26,"Islamic Blockchain Compliance","2025-01-29 12:25:00",1,0.95
+40101,0,"Spam Messages","2025-01-29 12:25:00",1,0.9
+40102,26,"Islamic Blockchain Compliance","2025-01-29 12:25:00",1,0.95
+40103,26,"Islamic Blockchain Compliance","2025-01-29 12:26:00",1,0.95
+40104,26,"Islamic Blockchain Compliance","2025-01-29 12:26:00",1,0.95
+40105,0,"Spam Messages","2025-01-29 12:26:00",1,0.9
+40106,26,"Islamic Blockchain Compliance","2025-01-29 12:26:00",1,0.95
+40107,0,"Spam Messages","2025-01-29 12:26:00",1,0.9
+40108,0,"Spam Messages","2025-01-29 12:27:00",1,0.9
+40109,26,"Islamic Blockchain Compliance","2025-01-29 12:27:00",1,0.95
+40110,26,"Islamic Blockchain Compliance","2025-01-29 12:33:00",1,0.95
+40111,26,"Islamic Blockchain Compliance","2025-01-29 12:34:00",1,0.95
+40112,26,"Islamic Blockchain Compliance","2025-01-29 12:37:00",1,0.95
+40113,26,"Islamic Blockchain Compliance","2025-01-29 12:40:00",1,0.95
+40114,0,"Spam Messages","2025-01-29 12:40:00",1,0.9
+40115,0,"Spam Messages","2025-01-29 12:49:00",1,0.9
+40116,26,"Islamic Blockchain Compliance","2025-01-29 13:18:00",1,0.95
+40117,26,"Islamic Blockchain Compliance","2025-01-29 13:36:00",1,0.95
+40118,0,"Spam Messages","2025-01-29 13:38:00",1,0.9
+40119,26,"Islamic Blockchain Compliance","2025-01-29 13:38:00",1,0.95
+40120,26,"Islamic Blockchain Compliance","2025-01-29 13:40:00",1,0.95
+40121,26,"Islamic Blockchain Compliance","2025-01-29 13:41:00",1,0.95
+40122,26,"Islamic Blockchain Compliance","2025-01-29 13:44:00",1,0.95
+40123,26,"Islamic Blockchain Compliance","2025-01-29 13:48:00",1,0.95
+40124,27,"Trump Media Financial News","2025-01-29 14:32:00",1,0.95
+40125,27,"Trump Media Financial News","2025-01-29 14:33:00",1,0.95
+40126,27,"Trump Media Financial News","2025-01-29 14:34:00",1,0.95
+40127,28,"DeepSeek App Availability","2025-01-29 14:36:00",1,0.95
+40128,0,"Spam Messages","2025-01-29 14:39:00",1,0.9
+40129,0,"Spam Messages","2025-01-29 14:41:00",1,0.9
+40130,29,"EU Competitiveness Strategy","2025-01-29 14:42:00",1,0.95
+40131,0,"Spam Messages","2025-01-29 14:47:00",1,0.9
+40132,0,"Spam Messages","2025-01-29 14:47:00",1,0.9
+40133,27,"Trump Media Financial News","2025-01-29 14:49:00",1,0.95
+40134,0,"Spam Messages","2025-01-29 14:50:00",1,0.9
+40135,9,"Patriotic Crypto Commentary","2025-01-29 14:51:00",1,0.95
+40136,9,"Patriotic Crypto Commentary","2025-01-29 15:01:00",1,0.95
+40137,0,"Spam Messages","2025-01-29 15:01:00",1,0.9
+40138,9,"Patriotic Crypto Commentary","2025-01-29 15:01:00",1,0.95
+40139,0,"Spam Messages","2025-01-29 15:01:00",1,0.9
+40140,0,"Spam Messages","2025-01-29 15:01:00",1,0.9
+40141,0,"Spam Messages","2025-01-29 15:02:00",1,0.9
+40142,0,"Spam Messages","2025-01-29 15:02:00",1,0.9
+40143,0,"Spam Messages","2025-01-29 15:02:00",1,0.9
+40144,0,"Spam Messages","2025-01-29 15:02:00",1,0.9
+40145,0,"Spam Messages","2025-01-29 15:13:00",1,0.9
+40146,0,"Spam Messages","2025-01-29 15:13:00",1,0.9
+40147,30,"Space Exploration Discussion","2025-01-29 15:35:00",1,0.95
+40148,30,"Space Exploration Discussion","2025-01-29 15:35:00",1,0.95
+40149,30,"Space Exploration Discussion","2025-01-29 15:36:00",1,0.95
+40150,30,"Space Exploration Discussion","2025-01-29 15:36:00",1,0.95
+40151,30,"Space Exploration Discussion","2025-01-29 15:36:00",1,0.95
+40152,30,"Space Exploration Discussion","2025-01-29 15:37:00",1,0.95
+40153,30,"Space Exploration Discussion","2025-01-29 15:38:00",1,0.95
+40154,31,"Crypto Market Speculation","2025-01-29 15:38:00",1,0.95
+40155,30,"Space Exploration Discussion","2025-01-29 15:38:00",1,0.95
+40156,30,"Space Exploration Discussion","2025-01-29 15:38:00",1,0.95
+40157,30,"Space Exploration Discussion","2025-01-29 15:39:00",1,0.95
+40158,0,"Spam Messages","2025-01-29 15:39:00",1,0.9
+40159,0,"Spam Messages","2025-01-29 15:40:00",1,0.9
+40160,30,"Space Exploration Discussion","2025-01-29 15:41:00",1,0.95
+40161,30,"Space Exploration Discussion","2025-01-29 15:41:00",1,0.95
+40162,30,"Space Exploration Discussion","2025-01-29 15:41:00",1,0.95
+40163,30,"Space Exploration Discussion","2025-01-29 15:42:00",1,0.95

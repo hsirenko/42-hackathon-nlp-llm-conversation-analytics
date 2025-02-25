@@ -1,0 +1,112 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+40001,1,Cryptocurrency Lending Rates,2025-01-28 04:00:00,system,0.95
+40002,0,Spam Messages,2025-01-28 06:32:00,system,1.0
+40003,2,Bitcoin Price Tickers,2025-01-28 07:00:00,system,0.95
+40004,3,Binance Futures Trading Data,2025-01-28 08:00:00,system,0.95
+40005,4,Bitcoin Monthly Performance Analysis,2025-01-28 09:07:00,system,0.95
+40006,0,Spam Messages,2025-01-28 10:56:00,system,1.0
+40007,5,Bitcoin Price Speculation,2025-01-28 11:00:00,system,0.9
+40008,6,Nvidia Hardware Controversy,2025-01-28 11:20:00,system,0.9
+40009,7,Speculation on Economic and Political Events Impact on Bitcoin Price,2025-01-28 11:20:00,system,0.85
+40010,7,Speculation on Economic and Political Events Impact on Bitcoin Price,2025-01-28 11:20:00,system,0.85
+40011,6,Nvidia Hardware Controversy,2025-01-28 11:21:00,system,0.9
+40012,6,Nvidia Hardware Controversy,2025-01-28 11:21:00,system,0.9
+40013,6,Nvidia Hardware Controversy,2025-01-28 11:21:00,system,0.9
+40014,6,Nvidia Hardware Controversy,2025-01-28 11:22:00,system,0.9
+40015,6,Nvidia Hardware Controversy,2025-01-28 11:22:00,system,0.9
+40016,6,Nvidia Hardware Controversy,2025-01-28 11:24:00,system,0.9
+40017,6,Nvidia Hardware Controversy,2025-01-28 11:24:00,system,0.9
+40018,6,Nvidia Hardware Controversy,2025-01-28 11:25:00,system,0.9
+40019,6,Nvidia Hardware Controversy,2025-01-28 11:26:00,system,0.9
+40020,6,Nvidia Hardware Controversy,2025-01-28 11:26:00,system,0.9
+40021,6,Nvidia Hardware Controversy,2025-01-28 11:28:00,system,0.9
+40022,0,Spam Messages,2025-01-28 11:29:00,system,1.0
+40023,0,Spam Messages,2025-01-28 11:29:00,system,1.0
+40024,0,Spam Messages,2025-01-28 11:29:00,system,1.0
+40025,0,Spam Messages,2025-01-28 11:30:00,system,1.0
+40026,8,Cryptocurrency Executive Critique,2025-01-28 12:17:00,system,0.9
+40027,8,Cryptocurrency Executive Critique,2025-01-28 12:37:00,system,0.9
+40028,8,Cryptocurrency Executive Critique,2025-01-28 12:38:00,system,0.9
+40029,0,Spam Messages,2025-01-28 12:39:00,system,1.0
+40030,9,Life-Changing Book Recommendation,2025-01-28 12:42:00,system,0.85
+40031,9,Life-Changing Book Recommendation,2025-01-28 15:23:00,system,0.85
+40032,9,Life-Changing Book Recommendation,2025-01-28 15:24:00,system,0.85
+40033,0,Spam Messages,2025-01-28 15:25:00,system,1.0
+40051,1,"""Cryptocurrency Market Updates""",2025-01-28 19:00:00,1,0.95
+40052,2,"""General Reaction to Cryptocurrency News""",2025-01-28 20:08:00,1,0.8
+40053,2,"""General Reaction to Cryptocurrency News""",2025-01-28 20:10:00,1,0.8
+40054,3,"""Identity of Satoshi Nakamoto""",2025-01-28 20:11:00,1,0.9
+40055,4,"""Promotion of Cryptocurrency-Related Event""",2025-01-28 20:20:00,1,0.9
+40056,5,"""Discussion on Cryptocurrency Technology (Side Chains)""",2025-01-28 20:22:00,1,0.95
+40057,5,"""Discussion on Cryptocurrency Technology (Side Chains)""",2025-01-28 20:23:00,1,0.95
+40058,5,"""Discussion on Cryptocurrency Technology (Side Chains)""",2025-01-28 20:23:00,1,0.95
+40059,5,"""Discussion on Cryptocurrency Technology (Side Chains)""",2025-01-28 20:24:00,1,0.95
+40060,6,"""Elon Musk's Deal with Visa for X Money Account""",2025-01-28 20:25:00,1,0.95
+40061,7,"""Reaction to Overhyped Cryptocurrency Projects""",2025-01-28 20:32:00,1,0.85
+40062,8,"""Crypto(.).com Delisting Tether's USDT""",2025-01-28 20:58:00,1,0.95
+40063,9,"""Discussion on Money and Cryptocurrency""",2025-01-28 21:00:00,1,0.9
+40064,9,"""Discussion on Money and Cryptocurrency""",2025-01-28 21:00:00,1,0.9
+40065,10,"""Universal Basic Income Coin Concept""",2025-01-28 21:12:00,1,0.9
+40066,11,"""Critique of Centralized Cryptocurrencies""",2025-01-28 21:44:00,1,0.95
+40067,12,"""Cryptocurrency ETFs and Market Movements""",2025-01-28 22:22:00,1,0.95
+40068,12,"""Cryptocurrency ETFs and Market Movements""",2025-01-28 22:22:00,1,0.95
+40069,12,"""Cryptocurrency ETFs and Market Movements""",2025-01-28 22:23:00,1,0.95
+40070,12,"""Cryptocurrency ETFs and Market Movements""",2025-01-28 22:37:00,1,0.95
+40071,13,"""Frustration or Disappointment in Cryptocurrency""",2025-01-29 00:11:00,1,0.8
+40072,13,"""Frustration or Disappointment in Cryptocurrency""",2025-01-29 00:13:00,1,0.8
+40073,14,"""Cryptocurrency Mining Hardware""",2025-01-29 00:35:00,1,0.95
+40074,14,"""Cryptocurrency Mining Hardware""",2025-01-29 00:36:00,1,0.95
+40075,14,"""Cryptocurrency Mining Hardware""",2025-01-29 00:40:00,1,0.95
+40076,14,"""Cryptocurrency Mining Hardware""",2025-01-29 00:41:00,1,0.95
+40077,15,"""Spam Messages""",2025-01-29 03:28:00,1,1.0
+40078,1,"""Cryptocurrency Market Updates""",2025-01-29 04:00:00,1,0.95
+40079,16,"""Humor and Sarcasm in Cryptocurrency Community""",2025-01-29 04:38:00,1,0.85
+40080,1,"""Cryptocurrency Market Updates""",2025-01-29 07:00:00,1,0.95
+40081,17,"""Binance Futures Trading Data""",2025-01-29 08:00:00,1,0.95
+40101,1,Emoji Reactions,2025-01-29 12:25:00,1,0.95
+40102,1,Food Ingredients,2025-01-29 12:25:00,1,0.95
+40103,2,Blockchain Technology,2025-01-29 12:26:00,1,0.9
+40104,2,Iran's Blockchain Initiative,2025-01-29 12:26:00,1,0.95
+40105,3,Personal Insults,2025-01-29 12:26:00,1,0.8
+40106,2,Originality in Blockchain,2025-01-29 12:26:00,1,0.9
+40107,3,Dismissive Response,2025-01-29 12:26:00,1,0.8
+40108,3,Light-hearted Response,2025-01-29 12:27:00,1,0.8
+40109,2,Question about Blockchain Initiatives,2025-01-29 12:27:00,1,0.95
+40110,4,Apology and Learning,2025-01-29 12:33:00,1,0.95
+40111,4,Openness to Learning,2025-01-29 12:34:00,1,0.95
+40112,4,Greeting Exchange,2025-01-29 12:37:00,1,0.95
+40113,4,Cultural Exchange,2025-01-29 12:40:00,1,0.95
+40114,4,Pop Culture Reference,2025-01-29 12:40:00,1,0.95
+40115,4,Pop Culture Reference,2025-01-29 12:49:00,1,0.95
+40116,5,Islamic Finance,2025-01-29 13:18:00,1,0.95
+40117,6,Defense Against Being a Bot,2025-01-29 13:36:00,1,0.9
+40118,6,Expression of Surprise,2025-01-29 13:38:00,1,0.8
+40119,5,Endorsement of Bybit,2025-01-29 13:38:00,1,0.95
+40120,5,Shariah Compliant Investments,2025-01-29 13:40:00,1,0.95
+40121,5,Endorsement of Bybit,2025-01-29 13:41:00,1,0.95
+40122,5,Comparison of Crypto Platforms,2025-01-29 13:44:00,1,0.95
+40123,5,Clarification on Shariah Compliant Blockchain,2025-01-29 13:48:00,1,0.95
+40124,7,Financial News,2025-01-29 14:32:00,1,0.95
+40125,7,Financial Allocation in Crypto,2025-01-29 14:33:00,1,0.95
+40126,7,Media Group's Fintech Brand,2025-01-29 14:34:00,1,0.95
+40127,7,App Availability News,2025-01-29 14:36:00,1,0.95
+40128,8,Crypto Platforms,2025-01-29 14:39:00,1,0.9
+40129,8,Cryptocurrency Inquiry,2025-01-29 14:41:00,1,0.9
+40130,7,EU Policy News,2025-01-29 14:42:00,1,0.95
+40131,9,Emotional Reaction,2025-01-29 14:47:00,1,0.8
+40132,7,Conclusion of Announcement,2025-01-29 14:47:00,1,0.95
+40133,7,Financial Services Expansion,2025-01-29 14:49:00,1,0.95
+40134,8,National Pride in Cryptocurrency,2025-01-29 14:50:00,1,0.9
+40151,1,Mars Colonization,2025-01-29 15:36:00,system,0.95
+40152,1,Mars Colonization,2025-01-29 15:37:00,system,0.95
+40153,1,Mars Colonization,2025-01-29 15:38:00,system,0.95
+40154,2,Cryptocurrency,2025-01-29 15:38:00,system,0.9
+40155,3,Technology and Space Exploration,2025-01-29 15:38:00,system,0.85
+40156,3,Technology and Space Exploration,2025-01-29 15:38:00,system,0.85
+40157,2,Cryptocurrency,2025-01-29 15:39:00,system,0.9
+40158,3,Technology and Space Exploration,2025-01-29 15:39:00,system,0.85
+40159,3,Technology and Space Exploration,2025-01-29 15:40:00,system,0.85
+40160,1,Mars Colonization,2025-01-29 15:41:00,system,0.95
+40161,1,Mars Colonization,2025-01-29 15:41:00,system,0.95
+40162,1,Mars Colonization,2025-01-29 15:41:00,system,0.95
+40163,2,Cryptocurrency,2025-01-29 15:42:00,system,0.9

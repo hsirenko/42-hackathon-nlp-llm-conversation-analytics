@@ -1,0 +1,94 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,TV advertisement inquiry,2024-03-05T19:46:00Z,1,0.95
+2,2,Comparison of ChatGPT and ChatDKG regarding misinformation,2024-03-05T23:27:00Z,1,0.9
+3,2,Discussion on the nature of DKG and misinformation,2024-03-05T23:58:00Z,1,0.95
+4,2,Clarification on misinformation costs in DKG,2024-03-06T00:03:00Z,1,0.95
+5,2,Example of climate change studies and DKG's role,2024-03-06T00:04:00Z,1,0.9
+6,2,Trust in information sources and DKG,2024-03-06T00:04:00Z,1,0.9
+7,2,Functionality of DKG in information verification,2024-03-06T00:05:00Z,1,0.9
+8,2,Discussion on misinformation and token use in DKG,2024-03-06T00:05:00Z,1,0.9
+9,2,Filtering studies in DKG for unbiased information,2024-03-06T00:05:00Z,1,0.9
+10,1,Explanation of the TV ad related to DKG,2024-03-06T00:20:00Z,1,0.95
+11,1,User's anticipation of the product in the TV ad,2024-03-06T00:41:00Z,1,0.85
+12,1,Clarification on the product mentioned in the TV ad,2024-03-06T00:51:00Z,1,0.85
+13,1,Speculation on the product's relation to OriginTrail,2024-03-06T00:53:00Z,1,0.85
+14,1,Discussion on unpublicized use cases of the product,2024-03-06T01:05:00Z,1,0.85
+15,1,Identification of the product manufacturer,2024-03-06T01:05:00Z,1,0.85
+16,2,Discussion on filtering biased studies in DKG,2024-03-06T02:35:00Z,1,0.9
+17,2,The flexibility of data analysis in DKG,2024-03-06T02:47:00Z,1,0.9
+18,3,Generic greeting,2024-03-06T04:42:00Z,1,0.5
+19,3,Response to greeting,2024-03-06T04:50:00Z,1,0.5
+20,4,Ecosystem partnership discussion inquiry,2024-03-06T09:33:00Z,1,0.95
+21,4,Clarification on partnership discussion topic,2024-03-06T08:36:00Z,1,0.95
+22,4,Providing contact information for partnership discussion,2024-03-06T08:51:00Z,1,0.95
+23,5,Inquiry about favorite use case for OriginTrail,2024-03-06T10:42:00Z,1,0.95
+24,5,Questions about real use case and max supply,2024-03-06T11:44:00Z,1,0.9
+25,5,Recommendation to learn more about Trac,2024-03-06T11:47:00Z,1,0.9
+26,5,Discussion on real-world solutions and DKG use,2024-03-06T11:53:00Z,1,0.95
+27,5,Positive reaction to the discussion,2024-03-06T11:59:00Z,1,0.85
+28,5,Confirmation of reading the information,2024-03-06T12:06:00Z,1,0.85
+29,5,Request for max supply information,2024-03-06T12:06:00Z,1,0.85
+30,5,Providing max supply information for Trac,2024-03-06T12:08:00Z,1,0.95
+51,1,OriginTrail DKG and Paranets,2024-03-06T16:20:00Z,1,1.0
+52,0,Spam Messages,2024-03-06T16:53:00Z,1,1.0
+53,1,OriginTrail DKG and Paranets,2024-03-06T16:55:00Z,1,1.0
+54,0,Spam Messages,2024-03-06T17:11:00Z,1,1.0
+55,0,Spam Messages,2024-03-06T17:26:00Z,1,1.0
+56,2,OriginTrail ICO and Investment Discussion,2024-03-06T17:39:00Z,1,0.9
+57,2,OriginTrail ICO and Investment Discussion,2024-03-06T17:48:00Z,1,1.0
+58,0,Spam Messages,2024-03-06T17:58:00Z,1,1.0
+59,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:38:00Z,1,1.0
+60,1,OriginTrail DKG and Paranets,2024-03-06T19:39:00Z,1,1.0
+61,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:41:00Z,1,0.9
+62,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:41:00Z,1,1.0
+63,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:42:00Z,1,1.0
+64,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:42:00Z,1,0.8
+65,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:42:00Z,1,0.8
+66,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:43:00Z,1,1.0
+67,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:44:00Z,1,1.0
+68,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:45:00Z,1,1.0
+69,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:46:00Z,1,1.0
+70,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:48:00Z,1,1.0
+71,2,OriginTrail ICO and Investment Discussion,2024-03-06T19:48:00Z,1,1.0
+72,0,Spam Messages,2024-03-06T19:49:00Z,1,1.0
+73,0,Spam Messages,2024-03-06T19:58:00Z,1,1.0
+74,0,Spam Messages,2024-03-06T20:04:00Z,1,1.0
+75,0,Spam Messages,2024-03-06T20:09:00Z,1,1.0
+76,2,OriginTrail ICO and Investment Discussion,2024-03-06T21:43:00Z,1,1.0
+77,0,Spam Messages,2024-03-06T22:20:00Z,1,1.0
+78,2,OriginTrail ICO and Investment Discussion,2024-03-06T22:20:00Z,1,0.9
+79,0,Spam Messages,2024-03-06T22:20:00Z,1,1.0
+80,0,Spam Messages,2024-03-06T22:21:00Z,1,1.0
+81,0,Spam Messages,2024-03-06T22:21:00Z,1,1.0
+82,0,Spam Messages,2024-03-06T22:25:00Z,1,1.0
+83,0,Spam Messages,2024-03-06T23:08:00Z,1,1.0
+101,1,Cryptocurrency and Crypto Wallet Functionality,2024-03-07T03:28:00Z,1,0.95
+102,2,OriginTrail Announcements - IPOs and Decentralized AI,2024-03-28T19:06:00Z,1,0.98
+103,2,OriginTrail Announcements - Global Innovation Initiatives,2024-05-07T13:47:00Z,1,0.98
+104,3,OriginTrail Technical Discussion - EVM Data,2024-05-09T16:05:00Z,1,0.9
+105,4,Discussion on chatanalyst and DKG,2024-08-14T06:20:00Z,1,0.92
+106,4,Discussion on chatanalyst and DKG,2024-08-14T06:20:00Z,1,0.92
+107,4,Discussion on the Value of Public and Private Data in DKG,2024-08-14T08:10:00Z,1,0.95
+108,5,OriginTrail Podcast Discussion,2024-11-05T16:18:00Z,1,0.9
+109,6,General OriginTrail Network Discussion,2024-12-09T16:14:00Z,1,0.85
+110,7,OriginTrail V8 Edge Node Architecture Discussion,2024-12-19T19:01:00Z,1,0.95
+111,7,OriginTrail V8 Edge Node Architecture Discussion,2024-12-19T19:53:00Z,1,0.95
+112,8,Cryptocurrency Trading and Market Dynamics,2025-01-21T11:36:00Z,1,0.9
+113,9,OriginTrail V8 Update Inquiry,2025-02-10T17:33:00Z,1,0.93
+114,9,OriginTrail V8 Update Inquiry,2025-02-10T18:00:00Z,1,0.93
+115,9,OriginTrail V8 Update Inquiry,2025-02-10T19:58:00Z,1,0.93
+116,9,OriginTrail V8 Update Inquiry,2025-02-10T19:59:00Z,1,0.93
+117,9,OriginTrail V8 Update Inquiry,2025-02-10T20:24:00Z,1,0.93
+118,9,OriginTrail V8 Update Inquiry,2025-02-10T21:24:00Z,1,0.93
+119,9,OriginTrail V8 Update Inquiry,2025-02-10T21:24:00Z,1,0.93
+120,10,OriginTrail Human-Centric AI Event Announcement,2025-02-11T15:03:00Z,1,0.95
+121,11,Offering Development and Web3 Integration Services,2025-02-11T15:10:00Z,1,0.88
+122,11,Offering Development and Web3 Integration Services,2025-02-11T15:29:00Z,1,0.88
+123,10,OriginTrail Human-Centric AI Event Live Announcement,2025-02-11T16:02:00Z,1,0.95
+124,12,Discussion on OriginTrail Event and TRAC Token,2025-02-11T16:46:00Z,1,0.92
+125,12,Discussion on OriginTrail Event and TRAC Token,2025-02-11T16:56:00Z,1,0.92
+126,12,Discussion on OriginTrail Event and TRAC Token,2025-02-11T16:56:00Z,1,0.92
+127,12,Discussion on OriginTrail Event and TRAC Token,2025-02-11T16:56:00Z,1,0.92
+128,12,Discussion on OriginTrail Event and TRAC Token,2025-02-11T17:04:00Z,1,0.92
+129,12,Discussion on OriginTrail Event and TRAC Token,2025-02-11T17:18:00Z,1,0.92
+130,13,Invitation to Join OriginTrail Community Group,2025-02-11T01:17:00Z,1,0.85

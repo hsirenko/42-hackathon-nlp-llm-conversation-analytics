@@ -1,0 +1,4 @@
+model,label_file,ari,n_messages
+claude35s,labels_20250202_201043_claude35s_ethclassic.csv,0.5223231924140656,31
+deepseekv3,labels_20250131_140406_deepseekv3_ethclassic.csv,0.27280473585074894,48
+gpt4o,labels_20250202_200936_gpt4o_ethclassic.csv,0.7316636851520573,33

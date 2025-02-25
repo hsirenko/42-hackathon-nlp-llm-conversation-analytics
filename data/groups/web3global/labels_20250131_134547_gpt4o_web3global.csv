@@ -1,0 +1,35 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+40001,1,"""Confusion about receiving 'TRUMP' from a bot""",2025-01-31T13:21:00Z,1,0.95
+40002,2,"""Inquiry about DeepSeek's event""",2025-01-31T13:21:00Z,1,0.95
+40003,3,"""Telegram bot project proposal""",2025-01-31T13:22:00Z,1,0.95
+40004,4,"""Request for guidance on earning""",2025-01-31T13:24:00Z,1,0.9
+40005,4,"""Clarification on project name""",2025-01-31T13:25:00Z,1,0.9
+40006,4,"""Advice on cryptocurrency learning resources""",2025-01-31T13:29:00Z,1,0.95
+40007,4,"""Further details on cryptocurrency resources""",2025-01-31T13:30:00Z,1,0.95
+40008,4,"""Plea for personal coaching""",2025-01-31T13:32:00Z,1,0.9
+40009,4,"""Request for community link""",2025-01-31T13:32:00Z,1,0.95
+40010,4,"""Interest in improving cryptocurrency knowledge""",2025-01-31T13:33:00Z,1,0.95
+40011,4,"""Refusal to share link publicly""",2025-01-31T13:34:00Z,1,0.95
+40012,4,"""Suggestion to follow Jessica for updates""",2025-01-31T13:36:00Z,1,0.95
+40013,4,"""Offer to share community link via DM""",2025-01-31T13:36:00Z,1,0.95
+40014,5,"""Blockchain and Full-Stack Web Developer offering services""",2025-01-31T14:48:00Z,1,0.95
+40016,7,"""Search for old friends for a Bitcoin finance and 3D horse anatomy project""",2025-01-31T15:36:00Z,1,0.95
+40018,9,"""Offering various trading and sniping bots""",2025-01-31T16:32:00Z,1,0.95
+40019,10,"""Professional social media and community management service offer""",2025-01-31T16:39:00Z,1,0.95
+40020,11,"""Inquiry about Cypherium's consensus mechanisms""",2025-01-31T18:42:00Z,1,0.95
+40021,9,"""Follow-up on service interest""",2025-01-31T18:46:00Z,1,0.9
+40022,11,"""Offer to teach about Web3""",2025-01-31T18:47:00Z,1,0.9
+40023,11,"""Information about Cypherium's technology""",2025-01-31T18:51:00Z,1,0.9
+40024,12,"""Offering community chat activity service""",2025-01-31T19:02:00Z,1,0.95
+40025,13,"""Promotion of AI-powered tools and community""",2025-01-31T21:31:00Z,1,0.95
+40027,14,"""Developer introducing themselves and seeking job opportunities""",2025-01-31T22:28:00Z,1,0.95
+40028,0,"""Spam Messages""",2025-01-31T23:13:00Z,1,1.0
+40029,15,"""Invitation to share Web3 stories for a podcast""",2025-02-01T00:19:00Z,1,0.95
+40051,1,"""General Affirmation""",2025-02-01T14:20:00Z,1,0.8
+40052,0,"""Spam Messages""",2025-02-01T14:26:00Z,1,1.0
+40053,0,"""Spam Messages""",2025-02-01T14:26:00Z,1,1.0
+40054,2,"""Inquiry about Crypto Development""",2025-02-01T14:26:00Z,1,0.9
+40055,0,"""Spam Messages""",2025-02-01T14:50:00Z,1,1.0
+40056,0,"""Spam Messages""",2025-02-01T14:50:00Z,1,1.0
+40057,0,"""Spam Messages""",2025-02-01T14:57:00Z,1,1.0
+40058,2,"""Inquiry about Crypto Development""",2025-02-01T14:57:00Z,1,0.9

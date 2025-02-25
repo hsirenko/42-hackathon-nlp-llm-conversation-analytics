@@ -1,0 +1,48 @@
+model,topic,information_density,redundancy,relevance,efficiency,overall
+claude35s,Unclear/Isolated Affirmative Response,8.0,7.0,9.0,8.0,8.0
+claude35s,Reconnecting with Old Project Partners,7.0,8.0,9.0,8.0,8.0
+claude35s,DeepSeek Discussion,5.0,8.0,7.0,7.0,6.75
+claude35s,Telegram Bot Development Job,7.0,8.0,9.0,8.0,8.0
+claude35s,General Greetings,6.0,8.0,9.0,7.0,7.5
+claude35s,Spam Messages,4.0,5.0,8.0,6.0,5.75
+claude35s,Crypto Trading Education Request,8.0,9.0,9.0,8.0,8.5
+claude35s,Cypherium Blockchain Discussion,7.0,8.0,9.0,8.0,8.0
+claude35s,labels_20250131_182908_claude35s_web3global.csv Messages,2.0,3.0,1.0,2.0,2.0
+claude35s,Unknown Crypto Token Issue,8.0,9.0,9.0,8.0,8.5
+claude35s,AVERAGE,6.2,7.3,7.9,7.0,7.1
+deepseekv3,Cypherium blockchain discussion,7.0,8.0,9.0,8.0,8.0
+deepseekv3,Reconnecting with old friends,4.0,7.0,5.0,6.0,5.5
+deepseekv3,Spam Messages,4.0,5.0,8.0,6.0,5.75
+deepseekv3,Crypto earning advice,6.0,8.0,7.0,7.0,7.0
+deepseekv3,Trump bot message,6.0,8.0,7.0,7.0,7.0
+deepseekv3,DeepSeek discussion,6.0,8.0,7.0,7.0,7.0
+deepseekv3,AVERAGE,5.5,7.333333333333333,7.166666666666667,6.833333333333333,6.708333333333333
+gpt4o,"""Professional social media and community management service offer""",8.0,7.0,9.0,7.0,7.75
+gpt4o,"""Information about Cypherium's technology""",6.0,8.0,7.0,7.0,7.0
+gpt4o,"""Interest in improving cryptocurrency knowledge""",7.0,8.0,8.0,7.0,7.5
+gpt4o,"""Telegram bot project proposal""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Invitation to share Web3 stories for a podcast""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Clarification on project name""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Advice on cryptocurrency learning resources""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Request for community link""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Confusion about receiving 'TRUMP' from a bot""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Promotion of AI-powered tools and community""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Developer introducing themselves and seeking job opportunities""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Inquiry about Crypto Development""",3.0,8.0,2.0,4.0,4.25
+gpt4o,"""Request for guidance on earning""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Plea for personal coaching""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Offering community chat activity service""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Follow-up on service interest""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Further details on cryptocurrency resources""",6.0,7.0,5.0,6.0,6.0
+gpt4o,"""Blockchain and Full-Stack Web Developer offering services""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Inquiry about Cypherium's consensus mechanisms""",8.0,9.0,7.0,8.0,8.0
+gpt4o,"""General Affirmation""",6.0,8.0,7.0,8.0,7.25
+gpt4o,"""Offering various trading and sniping bots""",7.0,8.0,8.0,8.0,7.75
+gpt4o,"""Search for old friends for a Bitcoin finance and 3D horse anatomy project""",8.0,7.0,9.0,6.0,7.5
+gpt4o,"""Spam Messages""",6.0,7.0,9.0,8.0,7.5
+gpt4o,"""Inquiry about DeepSeek's event""",7.0,8.0,8.0,8.0,7.75
+gpt4o,"""Suggestion to follow Jessica for updates""",7.0,8.0,9.0,8.0,8.0
+gpt4o,"""Offer to teach about Web3""",3.0,8.0,2.0,4.0,4.25
+gpt4o,"""Offer to share community link via DM""",8.0,9.0,9.0,8.0,8.5
+gpt4o,"""Refusal to share link publicly""",6.0,8.0,4.0,7.0,6.25
+gpt4o,AVERAGE,6.892857142857143,8.142857142857142,7.857142857142857,7.428571428571429,7.580357142857143

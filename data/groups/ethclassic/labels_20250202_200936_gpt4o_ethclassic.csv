@@ -1,0 +1,34 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+40001,1,ETC Price Speculation,2025-01-08 01:36:00,1,0.95
+40002,1,ETC Price Speculation,2025-01-08 01:43:00,1,0.95
+40003,1,ETC Price Speculation,2025-01-08 01:43:00,1,0.9
+40004,1,ETC Price Speculation,2025-01-08 01:46:00,1,0.95
+40005,1,ETC Price Speculation,2025-01-08 04:52:00,1,0.95
+40006,1,ETC Price Speculation,2025-01-08 12:33:00,1,0.95
+40007,2,Scam Warning,2025-01-10 10:17:00,1,1.0
+40008,3,Inappropriate Language,2025-01-11 01:52:00,1,1.0
+40009,4,ETC Educational Content,2025-01-13 10:42:00,1,1.0
+40010,1,ETC Price Speculation,2025-01-16 16:24:00,1,0.95
+40011,1,ETC Price Speculation,2025-01-16 18:26:00,1,0.9
+40012,5,ETC Tokenomics,2025-01-16 21:15:00,1,0.95
+40013,5,ETC Tokenomics,2025-01-16 22:24:00,1,0.95
+40014,6,General Support for ETC,2025-01-17 23:21:00,1,0.9
+40015,7,Spam Messages,2025-01-18 05:47:00,1,1.0
+40016,6,General Support for ETC,2025-01-19 16:19:00,1,0.9
+40017,6,General Support for ETC,2025-01-20 13:22:00,1,0.9
+40018,6,General Support for ETC,2025-01-20 13:30:00,1,0.9
+40019,8,Wallet Support,2025-01-20 17:41:00,1,1.0
+40020,2,Scam Warning,2025-01-21 01:04:00,1,1.0
+40021,9,ETC Community Events,2025-01-21 03:28:00,1,0.95
+40022,8,Wallet Support,2025-01-21 15:21:00,1,1.0
+40023,10,Blockchain Compatibility Inquiry,2025-01-21 23:49:00,1,0.95
+40024,4,ETC Educational Content,2025-01-21 23:51:00,1,1.0
+40025,11,Content Verification,2025-01-25 01:08:00,1,0.9
+40026,11,Content Verification,2025-01-25 11:00:00,1,0.9
+40027,12,ETC Development and Ambassador Program,2025-01-25 17:21:00,1,0.95
+40028,12,ETC Development and Ambassador Program,2025-01-25 18:59:00,1,0.95
+40029,11,Content Verification,2025-01-25 19:00:00,1,0.9
+40030,12,ETC Development and Ambassador Program,2025-01-25 19:14:00,1,0.95
+40031,12,ETC Development and Ambassador Program,2025-01-26 14:11:00,1,0.95
+40032,12,ETC Development and Ambassador Program,2025-01-26 17:28:00,1,0.95
+40033,1,ETC Price Speculation,2025-01-26 19:06:00,1,0.95

@@ -1,0 +1,84 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,1,"Discussion on MKC CAP and OBOT",2025-02-11T22:27:00Z,1,0.9
+2,1,"Discussion on MKC CAP and OBOT",2025-02-11T22:28:00Z,1,0.9
+3,1,"Discussion on MKC CAP and OBOT",2025-02-11T22:28:00Z,1,0.9
+4,1,"Discussion on MKC CAP and OBOT",2025-02-11T22:28:00Z,1,0.9
+5,0,"Spam Messages",2025-02-11T22:29:00Z,1,0.8
+6,1,"Discussion on MKC CAP and OBOT",2025-02-11T22:30:00Z,1,0.9
+7,2,"Discussion on previous work",2025-02-11T22:30:00Z,1,0.8
+8,3,"Discussion on coin origin",2025-02-11T22:33:00Z,1,0.9
+9,4,"BTC Price Update",2025-02-11T22:33:00Z,1,0.9
+10,3,"Discussion on coin origin",2025-02-11T22:33:00Z,1,0.9
+11,3,"Discussion on coin origin",2025-02-11T22:33:00Z,1,0.9
+12,5,"Discussion on MEXC",2025-02-11T22:34:00Z,1,0.8
+13,5,"Discussion on MEXC",2025-02-11T22:35:00Z,1,0.8
+14,5,"Discussion on MEXC",2025-02-11T22:35:00Z,1,0.8
+15,6,"General Greetings",2025-02-11T22:35:00Z,1,0.7
+16,4,"BTC Price Update",2025-02-11T22:35:00Z,1,0.9
+17,5,"Discussion on MEXC",2025-02-11T22:35:00Z,1,0.8
+18,5,"Discussion on MEXC",2025-02-11T22:35:00Z,1,0.8
+19,0,"Spam Messages",2025-02-11T22:37:00Z,1,0.8
+20,7,"Discussion on channel creation",2025-02-11T22:43:00Z,1,0.8
+21,7,"Discussion on channel creation",2025-02-11T22:43:00Z,1,0.8
+22,8,"Discussion on buying bot",2025-02-11T22:44:00Z,1,0.8
+23,4,"BTC Price Update",2025-02-11T22:45:00Z,1,0.9
+24,8,"Discussion on buying bot",2025-02-11T22:45:00Z,1,0.8
+25,8,"Discussion on buying bot",2025-02-11T22:45:00Z,1,0.8
+26,6,"General Greetings",2025-02-11T23:01:00Z,1,0.7
+27,6,"General Greetings",2025-02-11T23:02:00Z,1,0.7
+28,6,"General Greetings",2025-02-11T23:02:00Z,1,0.7
+29,6,"General Greetings",2025-02-11T23:02:00Z,1,0.7
+30,6,"General Greetings",2025-02-11T23:02:00Z,1,0.7
+31,0,"Spam Messages",2025-02-11T23:02:00Z,1,0.8
+32,0,"Spam Messages",2025-02-11T23:13:00Z,1,0.8
+33,9,"Goodnight and week wishes",2025-02-11T23:14:00Z,1,0.8
+34,10,"Discussion on staking",2025-02-06T02:52:00Z,1,0.9
+35,10,"Discussion on staking",2025-02-06T02:52:00Z,1,0.9
+36,10,"Discussion on staking",2025-02-06T10:07:00Z,1,0.9
+37,10,"Discussion on staking",2025-02-06T10:07:00Z,1,0.9
+38,10,"Discussion on staking",2025-02-06T10:44:00Z,1,0.9
+39,0,"Spam Messages",2025-02-06T10:44:00Z,1,0.8
+40,10,"Discussion on staking",2025-02-06T11:06:00Z,1,0.9
+41,0,"Spam Messages",2025-02-06T11:06:00Z,1,0.8
+42,11,"Discussion on address issues",2025-02-06T04:21:00Z,1,0.8
+43,11,"Discussion on address issues",2025-02-06T04:23:00Z,1,0.8
+44,11,"Discussion on address issues",2025-02-06T04:23:00Z,1,0.8
+45,11,"Discussion on address issues",2025-02-06T04:24:00Z,1,0.8
+46,11,"Discussion on address issues",2025-02-06T04:25:00Z,1,0.8
+47,11,"Discussion on address issues",2025-02-06T04:25:00Z,1,0.8
+48,11,"Discussion on address issues",2025-02-06T04:26:00Z,1,0.8
+49,12,"Discussion on O Coin and OBOT",2025-02-09T11:01:00Z,1,0.9
+50,12,"Discussion on O Coin and OBOT",2025-02-09T11:01:00Z,1,0.9
+51,13,"Discussion on swap issues",2025-02-09T02:00:00Z,1,0.8
+52,13,"Discussion on swap issues",2025-02-09T02:00:00Z,1,0.8
+53,13,"Discussion on swap issues",2025-02-09T02:01:00Z,1,0.8
+54,13,"Discussion on swap issues",2025-02-10T13:44:00Z,1,0.8
+55,12,"Discussion on O Coin and OBOT",2025-02-10T13:44:00Z,1,0.9
+56,14,"Discussion on social media accounts",2025-02-10T18:18:00Z,1,0.7
+57,14,"Discussion on social media accounts",2025-02-10T18:18:00Z,1,0.7
+58,0,"Spam Messages",2025-02-10T19:27:00Z,1,0.8
+59,12,"Discussion on O Coin and OBOT",2025-02-10T23:18:00Z,1,0.9
+60,13,"Discussion on swap issues",2025-02-10T23:49:00Z,1,0.8
+61,13,"Discussion on swap issues",2025-02-10T23:56:00Z,1,0.8
+62,13,"Discussion on swap issues",2025-02-11T00:00:00Z,1,0.8
+63,13,"Discussion on swap issues",2025-02-11T00:34:00Z,1,0.8
+64,13,"Discussion on swap issues",2025-02-11T00:36:00Z,1,0.8
+65,13,"Discussion on swap issues",2025-02-11T00:41:00Z,1,0.8
+66,13,"Discussion on swap issues",2025-02-11T00:47:00Z,1,0.8
+67,0,"Spam Messages",2025-02-11T01:05:00Z,1,0.8
+68,15,"Discussion on current situation",2025-02-11T02:19:00Z,1,0.7
+69,0,"Spam Messages",2025-02-11T04:47:00Z,1,0.8
+70,16,"Discussion on timing",2025-02-11T05:01:00Z,1,0.7
+71,17,"Discussion on OBOT to OI burning",2025-02-11T10:41:00Z,1,0.8
+72,0,"Spam Messages",2025-02-11T10:43:00Z,1,0.8
+73,17,"Discussion on OBOT to OI burning",2025-02-11T10:55:00Z,1,0.8
+74,0,"Spam Messages",2025-02-11T11:26:00Z,1,0.8
+75,18,"Discussion on Elon Musk and OpenAI",2025-02-11T12:52:00Z,1,0.9
+76,0,"Spam Messages",2025-02-11T12:56:00Z,1,0.8
+77,17,"Discussion on OBOT to OI burning",2025-02-11T12:57:00Z,1,0.8
+78,18,"Discussion on Elon Musk and OpenAI",2025-02-11T13:01:00Z,1,0.9
+79,16,"Discussion on timing",2025-02-11T13:30:00Z,1,0.7
+80,0,"Spam Messages",2025-02-11T13:30:00Z,1,0.8
+81,19,"Discussion on group call success",2025-02-11T13:50:00Z,1,0.7
+82,17,"Discussion on OBOT to OI burning",2025-02-11T13:52:00Z,1,0.8
+83,17,"Discussion on OBOT to OI burning",2025-02-11T13:55:00Z,1,0.8

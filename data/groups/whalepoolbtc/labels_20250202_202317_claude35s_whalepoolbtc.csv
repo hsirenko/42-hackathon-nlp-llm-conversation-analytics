@@ -1,0 +1,103 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+40001,1,Crypto Market Data - Lending Rates,2025-01-28 04:00:00,SYSTEM,1.0
+40002,0,Spam Messages,2025-01-28 06:32:00,SYSTEM,0.9
+40003,1,Crypto Market Data - BTC Price Ticker,2025-01-28 07:00:00,SYSTEM,1.0
+40004,1,Crypto Market Data - Binance Futures Ratios,2025-01-28 08:00:00,SYSTEM,1.0
+40005,2,Bitcoin Price Discussion and Predictions,2025-01-28 09:07:00,SYSTEM,0.9
+40006,2,Bitcoin Price Discussion and Predictions,2025-01-28 10:56:00,SYSTEM,0.8
+40007,2,Bitcoin Price Discussion and Predictions,2025-01-28 11:00:00,SYSTEM,0.9
+40008,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:20:00,SYSTEM,1.0
+40009,2,Bitcoin Price Discussion and Predictions,2025-01-28 11:20:00,SYSTEM,0.8
+40010,2,Bitcoin Price Discussion and Predictions,2025-01-28 11:20:00,SYSTEM,0.7
+40011,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:21:00,SYSTEM,1.0
+40012,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:21:00,SYSTEM,1.0
+40013,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:21:00,SYSTEM,1.0
+40014,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:22:00,SYSTEM,1.0
+40015,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:22:00,SYSTEM,1.0
+40016,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:24:00,SYSTEM,0.9
+40017,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:24:00,SYSTEM,0.9
+40018,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:25:00,SYSTEM,0.9
+40019,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:26:00,SYSTEM,0.8
+40020,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:26:00,SYSTEM,0.8
+40021,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:28:00,SYSTEM,0.8
+40022,0,Spam Messages,2025-01-28 11:29:00,SYSTEM,0.9
+40023,0,Spam Messages,2025-01-28 11:29:00,SYSTEM,0.9
+40024,3,NVIDIA AI Hardware Sales Discussion,2025-01-28 11:29:00,SYSTEM,0.7
+40025,0,Spam Messages,2025-01-28 11:30:00,SYSTEM,0.9
+40026,4,Discussion about Crypto Executives,2025-01-28 12:17:00,SYSTEM,0.9
+40027,4,Discussion about Crypto Executives,2025-01-28 12:37:00,SYSTEM,0.9
+40028,4,Discussion about Crypto Executives,2025-01-28 12:38:00,SYSTEM,0.8
+40029,0,Spam Messages,2025-01-28 12:39:00,SYSTEM,0.9
+40030,5,Book Recommendation Discussion,2025-01-28 12:42:00,SYSTEM,1.0
+40051,1,BTC Price Ticker Data,2025-01-28 19:00:00,system,1.0
+40052,0,Spam Messages,2025-01-28 20:08:00,system,0.8
+40053,0,Spam Messages,2025-01-28 20:10:00,system,0.8
+40054,2,Discussion About Satoshi's Identity,2025-01-28 20:11:00,system,0.9
+40055,0,Spam Messages,2025-01-28 20:20:00,system,0.9
+40056,3,Bitcoin Layer 2 and Sidechains Discussion,2025-01-28 20:22:00,system,0.9
+40057,3,Bitcoin Layer 2 and Sidechains Discussion,2025-01-28 20:23:00,system,0.9
+40058,3,Bitcoin Layer 2 and Sidechains Discussion,2025-01-28 20:23:00,system,0.9
+40059,3,Bitcoin Layer 2 and Sidechains Discussion,2025-01-28 20:24:00,system,0.9
+40060,4,Elon Musk X Payment Platform News,2025-01-28 20:25:00,system,1.0
+40061,4,Elon Musk X Payment Platform News,2025-01-28 20:32:00,system,0.7
+40062,5,Crypto.com USDT Delisting News,2025-01-28 20:58:00,system,1.0
+40063,6,Digital Money and Banking Discussion,2025-01-28 21:00:00,system,0.8
+40064,6,Digital Money and Banking Discussion,2025-01-28 21:00:00,system,0.8
+40065,6,Digital Money and Banking Discussion,2025-01-28 21:12:00,system,0.7
+40066,6,Digital Money and Banking Discussion,2025-01-28 21:44:00,system,0.7
+40067,7,Crypto ETF Filings Discussion,2025-01-28 22:22:00,system,0.9
+40068,7,Crypto ETF Filings Discussion,2025-01-28 22:22:00,system,1.0
+40069,7,Crypto ETF Filings Discussion,2025-01-28 22:23:00,system,1.0
+40070,7,Crypto ETF Filings Discussion,2025-01-28 22:37:00,system,1.0
+40071,0,Spam Messages,2025-01-29 00:11:00,system,0.8
+40072,0,Spam Messages,2025-01-29 00:13:00,system,0.8
+40073,8,Crypto Mining Hardware Discussion,2025-01-29 00:35:00,system,0.9
+40074,8,Crypto Mining Hardware Discussion,2025-01-29 00:36:00,system,0.9
+40075,8,Crypto Mining Hardware Discussion,2025-01-29 00:40:00,system,1.0
+40076,8,Crypto Mining Hardware Discussion,2025-01-29 00:41:00,system,0.9
+40077,0,Spam Messages,2025-01-29 03:28:00,system,0.8
+40078,9,Bitfinex Lending Rates Update,2025-01-29 04:00:00,system,1.0
+40079,10,Altcoin Season Discussion,2025-01-29 04:38:00,system,0.9
+40080,1,BTC Price Ticker Data,2025-01-29 07:00:00,system,1.0
+40081,11,Binance Futures Trading Ratio Update,2025-01-29 08:00:00,system,1.0
+40101,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:25:00,system,0.8
+40102,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:25:00,system,0.8
+40103,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:26:00,system,0.8
+40104,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:26:00,system,0.8
+40105,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:26:00,system,0.7
+40106,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:26:00,system,0.7
+40107,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:26:00,system,0.7
+40108,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:27:00,system,0.7
+40109,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:27:00,system,0.8
+40110,1,Discussion about Islamic/Shariah-compliant trading,202rt5-01-29 12:33:00,system,0.8
+40111,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:34:00,system,0.8
+40112,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:37:00,system,0.9
+40113,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:40:00,system,0.9
+40114,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:40:00,system,0.8
+40115,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 12:49:00,system,0.7
+40116,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:18:00,system,0.9
+40117,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:36:00,system,0.8
+40118,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:38:00,system,0.8
+40119,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:38:00,system,0.9
+40120,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:40:00,system,0.9
+40121,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:41:00,system,0.9
+40122,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:44:00,system,0.9
+40123,1,Discussion about Islamic/Shariah-compliant trading,2025-01-29 13:48:00,system,0.9
+40124,2,Trump Media financial news and updates,2025-01-29 14:32:00,system,0.9
+40125,2,Trump Media financial news and updates,2025-01-29 14:33:00,system,0.9
+40126,2,Trump Media financial news and updates,2025-01-29 14:34:00,system,0.9
+40127,2,Trump Media financial news and updates,2025-01-29 14:36:00,system,0.7
+40128,0,Spam Messages,2025-01-29 14:39:00,system,0.8
+40151,1,Mars colonization and workforce demographics,2025-01-29 15:36:00,system,0.9
+40152,1,Mars colonization and workforce demographics,2025-01-29 15:37:00,system,0.9
+40153,1,Mars colonization and workforce demographics,2025-01-29 15:38:00,system,0.9
+40154,2,Cryptocurrency price concerns,2025-01-29 15:38:00,system,0.8
+40155,1,Mars colonization and workforce demographics,2025-01-29 15:38:00,system,0.9
+40156,1,Mars colonization and workforce demographics,2025-01-29 15:38:00,system,0.9
+40157,1,Mars colonization and workforce demographics,2025-01-29 15:39:00,system,0.9
+40158,1,Mars colonization and workforce demographics,2025-01-29 15:39:00,system,0.9
+40159,1,Mars colonization and workforce demographics,2025-01-29 15:40:00,system,0.9
+40160,1,Mars colonization and workforce demographics,2025-01-29 15:41:00,system,0.9
+40161,1,Mars colonization and workforce demographics,2025-01-29 15:41:00,system,0.9
+40162,1,Mars colonization and workforce demographics,2025-01-29 15:41:00,system,0.9
+40163,1,Mars colonization and workforce demographics,2025-01-29 15:42:00,system,0.9

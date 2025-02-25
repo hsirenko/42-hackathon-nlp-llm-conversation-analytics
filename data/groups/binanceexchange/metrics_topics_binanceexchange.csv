@@ -1,0 +1,32 @@
+model,topic,information_density,redundancy,relevance,efficiency,overall
+claude35s,Futures Trading Loss Discussion,8.0,9.0,10.0,8.0,8.75
+claude35s,Trading Advice Discussion,6.0,8.0,5.0,7.0,6.5
+claude35s,Binance Market Research Report,8.0,9.0,9.0,8.0,8.5
+claude35s,Security Warning Message,8.0,9.0,9.0,8.0,8.5
+claude35s,Bitcoin Price Tracking,7.0,8.0,9.0,8.0,8.0
+claude35s,Cryptocurrency Scam Recovery Discussion,8.0,9.0,9.0,8.0,8.5
+claude35s,Dogecoin Market Analysis,8.0,9.0,9.0,8.0,8.5
+claude35s,XP/Reputation System Interaction,8.0,9.0,9.0,8.0,8.5
+claude35s,Spam Messages,4.0,7.0,6.0,5.0,5.5
+claude35s,AVERAGE,7.222222222222222,8.555555555555555,8.333333333333334,7.555555555555555,7.916666666666667
+gpt4o,"""Request for Financial Help""",6.0,8.0,7.0,7.0,7.0
+gpt4o,"""Recovering Scammed Coins""",8.0,9.0,10.0,9.0,9.0
+gpt4o,Bitcoin Price Inquiry,8.0,9.0,9.0,8.0,8.5
+gpt4o,Trading Advice,6.0,8.0,7.0,7.0,7.0
+gpt4o,Advice on Gambling Addiction,8.0,9.0,10.0,9.0,9.0
+gpt4o,"""Online Security Warning""",8.0,9.0,9.0,9.0,8.75
+gpt4o,DOGE Price Analysis,7.0,9.0,9.0,8.0,8.25
+gpt4o,Spam Messages,3.0,7.0,4.0,5.0,4.75
+gpt4o,"""Greeting""",5.0,8.0,9.0,7.0,7.25
+gpt4o,Bitcoin Price Discussion,7.0,8.0,9.0,8.0,8.0
+gpt4o,Trading Advice Response,6.0,7.0,5.0,6.0,6.0
+gpt4o,"""Spam Messages""",4.0,7.0,8.0,6.0,6.25
+gpt4o,"""General Thanks""",6.0,8.0,7.0,7.0,7.0
+gpt4o,"""Rabbits and Advice""",6.0,7.0,8.0,7.0,7.0
+gpt4o,Bitcoin Price Reaction,4.0,7.0,3.0,5.0,4.75
+gpt4o,AVERAGE,6.133333333333334,8.0,7.6,7.2,7.233333333333333
+deepseek,Crypto Price Inquiry,7.0,8.0,8.0,7.0,7.5
+deepseek,Recovering Scammed Coins,8.0,9.0,9.0,8.0,8.5
+deepseek,Spam Messages,4.0,7.0,3.0,5.0,4.75
+deepseek,Financial Loss in Trading,7.0,8.0,9.0,8.0,8.0
+deepseek,AVERAGE,6.5,8.0,7.25,7.0,7.1875

@@ -1,0 +1,100 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+1,0,Spam Messages,2025-02-10T06:30:00Z,1,1.0
+2,1,Bybit Mobile App Deep Linking Inquiry,2025-02-10T06:30:00Z,1,0.95
+3,2,$B3 Launch and Bybit Listing Details,2025-02-10T07:21:00Z,1,0.98
+4,2,$B3 Launch and Bybit Listing Details,2025-02-10T07:21:00Z,1,0.98
+5,3,Bybit Customer Support Information,2025-02-10T07:41:00Z,1,0.99
+6,3,Bybit Customer Support Information,2025-02-10T07:41:00Z,1,0.99
+7,3,Bybit Customer Support Information,2025-02-10T07:41:00Z,1,0.99
+8,3,Bybit Customer Support Information,2025-02-10T07:41:00Z,1,0.99
+9,3,Bybit Customer Support Information,2025-02-10T07:42:00Z,1,0.99
+10,3,Bybit Customer Support Information,2025-02-10T07:42:00Z,1,0.99
+11,3,Bybit Customer Support Information,2025-02-10T07:42:00Z,1,0.99
+12,3,Bybit Customer Support Information,2025-02-10T07:42:00Z,1,0.99
+13,3,Bybit Customer Support Information,2025-02-10T07:42:00Z,1,0.99
+14,3,Bybit Customer Support Information,2025-02-10T07:43:00Z,1,0.99
+15,3,Bybit Customer Support Information,2025-02-10T07:46:00Z,1,0.99
+16,3,Bybit Customer Support Information,2025-02-10T07:46:00Z,1,0.99
+17,3,Bybit Customer Support Information,2025-02-10T07:46:00Z,1,0.99
+18,4,General Greetings,2025-02-10T07:46:00Z,1,0.9
+19,4,General Greetings,2025-02-10T07:48:00Z,1,0.9
+20,4,General Greetings,2025-02-10T07:49:00Z,1,0.9
+21,5,Trading Discussion,2025-02-10T07:49:00Z,1,0.95
+22,5,Trading Discussion,2025-02-10T07:50:00Z,1,0.95
+23,5,Trading Discussion,2025-02-10T07:53:00Z,1,0.95
+24,5,Trading Discussion,2025-02-10T07:53:00Z,1,0.95
+25,4,General Greetings,2025-02-10T08:08:00Z,1,0.9
+26,6,Fiat to USDT Conversion Inquiry,2025-02-10T08:08:00Z,1,0.97
+27,2,$B3 Launch and Bybit Listing Details,2025-02-10T08:12:00Z,1,0.98
+28,6,Fiat to USDT Conversion Inquiry,2025-02-10T08:13:00Z,1,0.97
+29,6,Fiat to USDT Conversion Inquiry,2025-02-10T08:13:00Z,1,0.97
+30,7,Sonic AMA Announcement,2025-02-10T08:19:00Z,1,0.96
+31,7,Sonic AMA Announcement,2025-02-10T08:19:00Z,1,0.96
+32,4,General Greetings,2025-02-10T08:29:00Z,1,0.9
+33,4,General Greetings,2025-02-10T08:31:00Z,1,0.9
+51,1,"""Cryptocurrency AMA Announcements""",2025-02-10T09:13:00Z,1,0.95
+52,2,"""Cryptocurrency Campaigns and Rewards""",2025-02-10T09:13:00Z,1,0.95
+53,1,"""Cryptocurrency AMA Announcements""",2025-02-10T09:13:00Z,1,0.95
+54,3,"""Bybit Affiliate Partnership""",2025-02-10T09:19:00Z,1,0.9
+55,4,"""Bybit Platform Links""",2025-02-10T09:19:00Z,1,0.9
+56,3,"""Bybit Affiliate Partnership""",2025-02-10T09:19:00Z,1,0.9
+57,3,"""Bybit Affiliate Partnership""",2025-02-10T09:20:00Z,1,0.9
+58,0,"""Spam Messages""",2025-02-10T09:20:00Z,1,1.0
+59,3,"""Bybit Affiliate Partnership""",2025-02-10T09:21:00Z,1,0.9
+60,5,"""Bybit P2P Support""",2025-02-10T09:21:00Z,1,0.9
+61,4,"""Bybit Platform Links""",2025-02-10T09:21:00Z,1,0.9
+62,0,"""Spam Messages""",2025-02-10T09:22:00Z,1,1.0
+63,6,"""Bybit Security Notice""",2025-02-10T09:28:00Z,1,0.95
+64,6,"""Bybit Security Notice""",2025-02-10T09:28:00Z,1,0.95
+65,7,"""General Cryptocurrency Discussion""",2025-02-10T09:32:00Z,1,0.85
+66,8,"""Cryptocurrency Rewards Inquiry""",2025-02-10T09:32:00Z,1,0.9
+67,8,"""Cryptocurrency Rewards Inquiry""",2025-02-10T09:33:00Z,1,0.9
+68,9,"""Cryptocurrency Wallet Listing Inquiry""",2025-02-10T09:34:00Z,1,0.9
+69,8,"""Cryptocurrency Rewards Inquiry""",2025-02-10T09:35:00Z,1,0.9
+70,10,"""Bybit Support Clarification""",2025-02-10T09:35:00Z,1,0.95
+71,9,"""Cryptocurrency Wallet Listing Inquiry""",2025-02-10T09:35:00Z,1,0.9
+72,8,"""Cryptocurrency Rewards Inquiry""",2025-02-10T09:37:00Z,1,0.9
+73,8,"""Cryptocurrency Rewards Inquiry""",2025-02-10T09:38:00Z,1,0.9
+74,10,"""Bybit Support Clarification""",2025-02-10T09:38:00Z,1,0.95
+75,10,"""Bybit Support Clarification""",2025-02-10T09:38:00Z,1,0.95
+76,11,"""General Inquiry""",2025-02-10T09:41:00Z,1,0.8
+77,11,"""General Inquiry""",2025-02-10T09:42:00Z,1,0.8
+78,11,"""General Inquiry""",2025-02-10T09:42:00Z,1,0.8
+79,11,"""General Inquiry""",2025-02-10T09:43:00Z,1,0.8
+80,11,"""General Inquiry""",2025-02-10T09:48:00Z,1,0.8
+81,12,"""Cryptocurrency Market Discussion""",2025-02-10T09:54:00Z,1,0.85
+82,12,"""Cryptocurrency Market Discussion""",2025-02-10T09:56:00Z,1,0.85
+83,13,"""Cryptocurrency Trading Signal""",2025-02-10T10:01:00Z,1,0.95
+101,1,Cryptocurrency Speculation,2025-02-10T10:31:00Z,1,0.95
+102,1,Cryptocurrency Speculation,2025-02-10T10:32:00Z,1,0.95
+103,1,Cryptocurrency Speculation,2025-02-10T10:32:00Z,1,0.95
+104,1,Cryptocurrency Speculation,2025-02-10T10:33:00Z,1,0.95
+105,2,Greetings,2025-02-10T10:34:00Z,1,1.0
+106,2,Greetings,2025-02-10T10:35:00Z,1,1.0
+107,3,Cryptocurrency Webinar Missed Announcement,2025-02-10T10:35:00Z,1,0.9
+108,1,Cryptocurrency Speculation,2025-02-10T10:35:00Z,1,0.95
+109,4,General Hello,2025-02-10T10:36:00Z,1,0.8
+110,1,Cryptocurrency Speculation,2025-02-10T10:37:00Z,1,0.95
+111,1,Cryptocurrency Speculation,2025-02-10T10:37:00Z,1,0.95
+112,5,Bybit Bot Support Inquiry,2025-02-10T10:37:00Z,1,0.9
+113,5,Bybit Bot Support Inquiry,2025-02-10T10:38:00Z,1,0.9
+114,6,Cryptocurrency Exchange Command,2025-02-10T10:38:00Z,1,0.9
+115,1,Cryptocurrency Speculation,2025-02-10T10:39:00Z,1,0.95
+116,1,Cryptocurrency Speculation,2025-02-10T10:44:00Z,1,0.95
+117,7,Cryptocurrency DEX Partnership Inquiry,2025-02-10T10:47:00Z,1,0.9
+118,8,Bybit Reddit Growth Campaign,2025-02-10T10:50:00Z,1,0.95
+119,5,Bybit Bot Support Inquiry,2025-02-10T10:53:00Z,1,0.9
+120,5,Bybit Bot Support Inquiry,2025-02-10T10:53:00Z,1,0.9
+121,9,Bybit Service Inquiry,2025-02-10T10:53:00Z,1,0.9
+122,1,Cryptocurrency Speculation,2025-02-10T10:53:00Z,1,0.95
+123,9,Bybit Service Inquiry,2025-02-10T10:53:00Z,1,0.9
+124,9,Bybit Service Inquiry,2025-02-10T10:53:00Z,1,0.9
+125,10,Cryptocurrency $TAO Support,2025-02-10T11:05:00Z,1,0.9
+126,10,Cryptocurrency $TAO Support,2025-02-10T11:05:00Z,1,0.9
+127,4,General Hello,2025-02-10T11:12:00Z,1,0.8
+128,1,Cryptocurrency Speculation,2025-02-10T11:14:00Z,1,0.95
+129,11,Bybit Account and Token Inquiry,2025-02-10T11:16:00Z,1,0.95
+130,1,Cryptocurrency Speculation,2025-02-10T11:16:00Z,1,0.95
+131,11,Bybit Account and Token Inquiry,2025-02-10T11:17:00Z,1,0.95
+132,11,Bybit Account and Token Inquiry,2025-02-10T11:17:00Z,1,0.95
+133,11,Bybit Account and Token Inquiry,2025-02-10T11:18:00Z,1,0.95

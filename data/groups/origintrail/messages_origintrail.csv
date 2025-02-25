@@ -1,0 +1,340 @@
+id,text,timestamp,user_id,username,first_name,last_name
+1,"Does anyone know what the TV ad is all about?",2024-03-05T19:46:00Z,1111111111,chris,chris,
+2,"Isn't that only the case if the actor wants it to be 'right' that they can essentially update it?
+
+Lets compare ChatGPT and ChatDKG. Say there is a ton of data being uploaded on DKG, along with tons of misinformation/false statements. Is there anything preventing ChatDKG from acting like GPT in that it can give false information? I believe DKG always has sources you can verify, but I think in practice it would be like wikipedia where everyone assumes what is written is true.",2024-03-05T23:27:00Z,2222222222,Vincel,Vincel,
+3,"How do you know anything is correct? DKG is not about filtering the content or deciding what is correct or what is not, it's about creating a single repository with knowledge, where surely you will find both truthful and falseful statements, but there are few things to consider:
+
+1. Falseful statements or misinformation is expensive to produce
+2. You can have bunch of sources, which you can always compare
+3. It's you who decides what is more likely to be true for you, same way as anything else in the World. DKG is a tool that makes finding your truth easier via structuring and gathering knowledge in one place",2024-03-05T23:58:00Z,3333333333,Anonymous,Anonymous,
+4,"Thank you for the clarification. The costs of a potential massive misinformation upload I had in my mind isn't something I considered.",2024-03-06T00:03:00Z,2222222222,Vincel,Vincel,
+5,"just as an example, right now if you open media they will tell you that 96% of all studies have confirmed that there is climate change and the science is settled. What they don't tell is that all these 96% were paid to be produced, and if your results didn't confirm climate change, you don't get payment. Now you are screwed, there is no easy way to make up your mind. BUT with the DKG, you can filter out all the papers that were paid by that certain foundation and you will see the independent ones, produced by scientists for the science and not because they will be paid",2024-03-06T00:04:00Z,4444444444,Milian,Milian,
+6,"Example with ChatGPT: How do you know that something ChatGPT generates isn't correct? You probably google it (checking different sources). How do you know Google gives you the correct information? There is no way to tell its correct, you just trust that their algorithm is good enough to give you the most likely to be true information on top of the page",2024-03-06T00:04:00Z,2222222222,Vincel,Vincel,
+7,"Same way it works with the DKG, just that everything is in one massive structure",2024-03-06T00:05:00Z,5555555555,Anonymous2,Anonymous2,
+8,"Thank you for the clarification. The costs of a potential massive misinformation upload I had in my mind isn't something I considered.
+
+And all information requires using a limited supply token that exists across multiple chains and is increasingly getting more and more scarce",2024-03-06T00:05:00Z,6666666666,Bob 2.0,Bob,2.0
+9,"you can easily do that as each study must say if they received money or not and from whom. With the DKG, you just filter out that one entity that subsidized those 96% and then you get results to make your own decision",2024-03-06T00:05:00Z,4444444444,Milian,Milian,
+10,"I happen to be listening to a podcast where Ziga mentions it. It is a producer of food products as others have mentioned.
+
+'They want to feature a product/an application built on the DKG in a TV commercial. You'll be able to scan a code and go to the application which is clearly powered by DKG and ask questions about their products.'
+
+https://youtu.be/gqTemcbnMfM?feature=shared&t=2534",2024-03-06T00:20:00Z,2222222222,Vincel,Vincel,
+11,"Nice dig, it better be my beloved chickens",2024-03-06T00:41:00Z,7777777777,BRX,BRX,
+12,"Arguably he says 'foot products', but let's assume not",2024-03-06T00:51:00Z,2222222222,Vincel,Vincel,
+13,"It would put the Trail in Origintrail",2024-03-06T00:53:00Z,2222222222,Vincel,Vincel,
+14,"Foot products would be a user case not yet made public i believe. They hinted at it at several occasions, for example on the website",2024-03-06T01:05:00Z,8888888888,Diiidipo123,Diiidipo123,
+15,"Shoe manufacturer",2024-03-06T01:05:00Z,9999999999,D,D,
+16,"Or you filter out those 4% that are funded by the fossil fuel industry, the 'think tanks' they pay for, and all those millionaires and billionaires with huge holdings in oil and gas companies",2024-03-06T02:35:00Z,1010101010,Galactic Womble,Galactic,Womble
+17,"indeed! you can do whatever, because the data is there, and you have access to it",2024-03-06T02:47:00Z,4444444444,Milian,Milian,
+18,"Hi there",2024-03-06T04:42:00Z,1111111112,kyle,kyle,
+19,"Hello",2024-03-06T04:50:00Z,6666666666,Bob 2.0,Bob,2.0
+20,"Hello all - would you be able to let me know the best contact for ecosystem partnership discussions?",2024-03-06T09:33:00Z,1111111113,LvlUp,LvlUp,
+21,"Topic includes collaborative builds without a sales angle",2024-03-06T08:36:00Z,1111111113,LvlUp,LvlUp,
+22,"Feel free to send email there: office@origin-trail.com",2024-03-06T08:51:00Z,1111111114,Anonymous3,Anonymous3,
+23,"@tomazlevak we didn't get to hear your favourite real world use case or tool either current or upcoming for OriginTrail in the latest podcast. What is it?",2024-03-06T10:42:00Z,1111111115,Hot To Go,Hot To Go,
+24,"What is real use case ??
+
+What is max supply ??",2024-03-06T11:44:00Z,1111111116,Rational Person,Rational,Person
+25,"I highly recommend you check this to learn more about Trac: https://deepdive.othub.io/",2024-03-06T11:47:00Z,1111111117,K,K,
+26,"ha, good catch! there's quite a competition with all the real-world solutions we saw only in the last few weeks at the GS1 Global Forum in Brussels and at Google offices in Amsterdam. I'll have to give the win to the parnets as a concept, though. I think I never got more high quality ideas pushed my way for heavy-duty DKG use than in the last week since the whitepaper came out. topic-wise it's all the stuff we put down in the whitepaper and much more.",2024-03-06T11:53:00Z,1111111118,Tomaz @ OriginTrail,Tomaz,@ OriginTrail
+27,"Epic.",2024-03-06T11:59:00Z,1111111115,Hot To Go,Hot To Go,
+28,"I read sir",2024-03-06T12:06:00Z,1111111116,Rational Person,Rational,Person
+29,"Max supply plez",2024-03-06T12:06:00Z,1111111116,Rational Person,Rational,Person
+30,"The max supply for Trac will always be capped at 500 million - 98 million of that is in the Dev fund.",2024-03-06T12:08:00Z,1111111117,K,K,
+31,"Is Dan Purtell from BSI still working closely with OT/TraceLabs?",2024-03-06T12:09:00Z,1111111119,dc,dc,
+32,"I don't see OriginTrail in the DEPIN Category on coingecko. I think we need to get OT added to all the relevant ones @martinapoberaj, would that be possible?",2024-03-06T13:23:00Z,4444444444,Milian,Milian,
+33,"DEPIN, RWA, what else am I missing?",2024-03-06T13:24:00Z,4444444444,Milian,Milian,
+34,"Also I propose that we create a new category there called Decentralized Knowledge Graph",2024-03-06T13:28:00Z,4444444444,Milian,Milian,
+35,"and add all the projects using the DKG",2024-03-06T13:28:00Z,4444444444,Milian,Milian,
+36,"Right now we're busy finalizing the white paper that will cover both the DKG and the AI part",2024-03-06T13:44:00Z,1111111120,Žiga Drev - OriginTrail.io,Žiga Drev,OriginTrail.io
+37,"Wait....what I miss? ICO?",2024-03-06T13:44:00Z,1111111121,Deleted Account,Deleted Account,
+38,"Was I taken back to the very beginning of this chat??",2024-03-06T13:44:00Z,1111111121,Deleted Account,Deleted Account,
+39,"Lmao",2024-03-06T13:44:00Z,1111111121,Deleted Account,Deleted Account,
+40,"Nostalgia!",2024-03-06T13:46:00Z,1111111122,Anonymous4,Anonymous4,
+41,"/ca",2024-03-06T13:56:00Z,1111111123,LuKu_$trac,LuKu_$trac,
+42,"Ethereum: 0xaA7a9CA87d3694B5755f213B5D04094b8d0F0A6F
+Origintrail Parachain: 0xFFFFFFf000000000000000000000000000000001
+Moonbeam: 0xed80FEf9E592bB8c0e29cF75BE356E491dd07661",2024-03-06T13:57:00Z,1111111124,othubbot,othubbot,
+43,"haha I checked and I joined 24th of dec 17",2024-03-06T14:13:00Z,4444444444,Milian,Milian,
+44,"saw some videos of Ziga in Hong Kong",2024-03-06T14:13:00Z,4444444444,Milian,Milian,
+45,"Time traveler",2024-03-06T14:22:00Z,1111111125,Anonymous5,Anonymous5,
+46,"/chart",2024-03-06T14:24:00Z,1111111126,Koen,Koen,
+47,"/chart",2024-03-06T14:25:00Z,1111111126,Koen,Koen,
+48,"@zigadre which nodes on the xdai chain are run buy TL? I'm guessing the ones referencing the foundations planets?",2024-03-06T15:03:00Z,1111111127,Lynn,Lynn,
+49,"yeah would be my guess as well",2024-03-06T15:06:00Z,4444444444,Milian,Milian,
+50,"I was like...wtf, did I get pulled into a fake chat and that was fake Žiga account...I immediately thought TLs was getting acquired afterwards when I noticed it was in the official chat! 🤯 😅",2024-03-06T15:48:00Z,4444444444,Milian,Milian,
+51,"Paranets are autonomously operated units, owned by its community in the OriginTrail DKG. In paranets, we find assemblies of Knowledge Assets driving use cases with associated paranet-specific AI services & incentivization model to reward knowledge miners fueling its growth.
+
+Discover more 👇
+https://docs.origintrail.io/decentralized-knowledge-graph/dkg-paranets
+
+Interested to know more about paranets in the OriginTrail DKG, as powerful substrates for AI systems? Join our community discussions on Telegram & Discord.
+
+Discord 👉 https://discord.gg/qYq6GuJ4sJ
+
+https://twitter.com/origin_trail/status/1765378376028618956",2024-03-06T16:20:00Z,1111111128,Anonymous6,Anonymous6,
+52,"Happens to me occasionally. Buggy.",2024-03-06T16:53:00Z,1111111129,Gus Chiggins,Gus,Chiggins
+53,"The Verifiable Internet that drives trusted AI in a spectrum of industries, has seen a steady rise in protocol revenue, surpassing $2.1 million in $TRAC utility tokens. A truly open AI supercharged by crypto and OriginTrail keeps getting stronger!
+
+👉 https://dkg.origintrail.io/staking
+
+⏰ Set your reminders for March 8 to join exciting X spaces featuring OriginTrail team, hosted by Mario Nawfal. During AI Town Hall, you'll learn about the convergence of crypto, Internet, & AI for a Verifiable Internet for AI. Don't miss out!
+
+👉 https://twitter.com/i/spaces/1eaKbqXorYqGX/peek
+
+👉 https://twitter.com/origin_trail/status/1765405664879206417",2024-03-06T16:55:00Z,1111111130,Anonymous7,Anonymous7,
+54,"Roughly $10M/yr extrapolated on last few days of uploads too.",2024-03-06T17:11:00Z,1111111129,Gus Chiggins,Gus,Chiggins
+55,"If only I knew about this project then I would've sold my soul to buy a shit ton",2024-03-06T17:26:00Z,1111111131,Anonymous8,Anonymous8,
+56,"ico was 0.10 trac correct? Then it dipped to like 0.01!! If only I knew then",2024-03-06T17:39:00Z,1111111131,Anonymous8,Anonymous8,
+57,"yes. 10 cents. hodl ever since.",2024-03-06T17:48:00Z,1111111132,kila,kila,
+58,"https://www.nvidia.com/gtc/ this might be an interesting one to plan in the future @zigadre",2024-03-06T17:58:00Z,4444444444,Milian,Milian,
+59,"so cool how did you even hear about trac if you invested ico?",2024-03-06T19:38:00Z,1111111131,Anonymous8,Anonymous8,
+60,"Exploring AI agents, TRAC delegated staking, & more with OriginTrail & Gnosis. Hear from Branimir Rakic, Ziga Drev, Tomaz Levak, & guest Gnosis' Martin Koppelmann in #OnTrack podcast S1E2. Hosted by Jonathan DeYoung.
+
+Now on your fave podcast app 👇
+
+🎧 ontrack.origintrail.io
+
+https://twitter.com/origin_trail/status/1765447107941429599",2024-03-06T19:39:00Z,1111111133,Anonymous9,Anonymous9,
+61,"ico was 0.10 trac correct? Then it dipped to like 0.01!! If only I kne...",2024-03-06T19:41:00Z,4444444444,Milian,Milian,
+62,"there was presale round at $0.08 as well",2024-03-06T19:41:00Z,4444444444,Milian,Milian,
+63,"haha I checked and I joined 24th of dec 17",2024-03-06T19:42:00Z,1111111134,Hendrik,Hendrik,
+64,"How do you check that?",2024-03-06T19:42:00Z,1111111134,Hendrik,Hendrik,
+65,"scrolling down unfortunately, unless there is some way",2024-03-06T19:42:00Z,4444444444,Milian,Milian,
+66,"At ico the price was 0.000078 eth, if you invested enough",2024-03-06T19:43:00Z,1111111134,Hendrik,Hendrik,
+67,"Now it's +- 0.000348 eth",2024-03-06T19:44:00Z,1111111134,Hendrik,Hendrik,
+68,"Eth was hovering around $1000 at the time",2024-03-06T19:45:00Z,1111111134,Hendrik,Hendrik,
+69,"Eth is +- $4000 now, so x4. TRAC is at x4.4 but it swings a lot",2024-03-06T19:46:00Z,1111111134,Hendrik,Hendrik,
+70,"Fun fact; the ticker was supposed to be TRACE but at the launch there was an error in the code or something. So they relaunched it but the ticker was already in use. So it became TRAC",2024-03-06T19:48:00Z,1111111134,Hendrik,Hendrik,
+71,"The ICO wallets all have the TRACE token for the amount they received from the contribution",2024-03-06T19:48:00Z,1111111134,Hendrik,Hendrik,
+72,"Nonsense. How?",2024-03-06T19:49:00Z,1111111134,Hendrik,Hendrik,
+73,"scam 100%",2024-03-06T19:58:00Z,4444444444,Milian,Milian,
+74,"When something is too good to be true = red flag. Good on you to verify here !",2024-03-06T20:04:00Z,7777777777,BRX,BRX,
+75,"Bull market really is back!",2024-03-06T20:09:00Z,1111111135,IslesRoo,IslesRoo,
+76,"so cool how did you even hear about trac if you invested ico?
+
+good tg group which is inactive now. I researched a couple of traceability coins at that time, vet, trac, tefood. dropped out of all except for trac. Really appreciate the team, the idea, the progress.",2024-03-06T20:40:00Z,1111111132,kila,kila,
+77,"👋",2024-03-06T21:43:00Z,7777777777,BRX,BRX,
+78,"Imagine when TRAC is listed in binance, we will get hella nice volume 🤑",2024-03-06T22:20:00Z,1111111136,Papipony,Papipony,
+79,"Reminder; we have a general community group for all price talk
+
+https://t.me/OriginTrailClub",2024-03-06T22:20:00Z,6666666666,Bob 2.0,Bob,2.0
+80,"Hi everyone. I participated in the teleport in September 2022 but it seems like my trac never actually teleported? I have received otp/mneuro but when I try to find the teleported trac nothing seems to work",2024-03-06T22:21:00Z,1111111137,Not so smooth criminal,Not so smooth,criminal
+81,"I also see this. Can I just revoke it?",2024-03-06T22:21:00Z,1111111138,N,N,
+82,"Opaaaa sorry",2024-03-06T22:25:00Z,1111111136,Papipony,Papipony,
+83,"How did Bankless not mention OT here?
+
+https://www.bankless.com/this-is-the-ai-x-crypto-cycle",2024-03-06T23:08:00Z,1111111139,ETA,ETA,
+84,"Hey how do I buy this coin",2024-03-06T23:53:00Z,1111111140,Shak,Shak,
+85,"https://t.me/OriginTrail/598010/598370",2024-03-06T23:54:00Z,1111111141,Anonymous10,Anonymous10,
+86,"Tbh I think Bankless is paid but they hide it",2024-03-06T23:57:00Z,1111111142,sirah,sirah,
+87,"I won't respond to scammers...can anyone tell me if they have been able to move TRAC tokens to ledger live successfully
+
+I have some on kucoin and it will only let me withdraw
+
+ledger live shows Trace(TRAC)
+
+has anyone moved to this and had issues or gone smoothly
+I can't do a test because it wants me to send my full balance upon withdrawal
+
+a bit sketchy hoping anyone has had luck doing this and getting the TRAC back off the ledger to coinbase etc
+prefer not to send to coinbase if possible",2024-03-07T02:51:00Z,1111111143,KTM 300xcw,KTM,300xcw
+88,"You've always been able to move TRAC to your Ledger. I've had TRAC secured by my Ledger since the token first launched.",2024-03-07T03:04:00Z,1111111144,Matt,Matt,
+89,"Have withdrawn or transferred TRAC multiple times as well using my Ledger.",2024-03-07T03:04:00Z,1111111144,Matt,Matt,
+90,"It's just an ERC20 standard token which Ledger has fully supported probably since Ledger's came out",2024-03-07T03:05:00Z,1111111144,Matt,Matt,
+91,"Same as Matt ^. You don't have to withdraw all your tokens at once - I've done part of a stack in the past",2024-03-07T03:05:00Z,1010101010,Galactic Womble,Galactic,Womble
+92,"so the Trace(TRAC) is the correct ledger live erc20 wallet for TRAC? Thanks 🙏 in advance for answering:)",2024-03-07T03:08:00Z,1111111143,KTM 300xcw,KTM,300xcw
+93,"Kucoin saying all my trading etc is not active due to being in the states the only thing it lets me do is withdraw my full trac balance from the trade account and the storage account
+I tried to adjust qtys for a test send and it won't let me
+lots of forehead sweat 😅 ha!
+
+if someone is confident that the token add to receive TRAC on ledger live is Trace(TRAC)...then I will go for it",2024-03-07T03:10:00Z,1111111143,KTM 300xcw,KTM,300xcw
+94,"if someone is confident that the token add to receive TRAC on ledger live is Trace(TRAC)...then I will go for it",2024-03-07T03:12:00Z,1111111143,KTM 300xcw,KTM,300xcw
+95,"Ah yeah that might be the case then. I haven't used Kucoin myself in a while since I'm in the states as well",2024-03-07T03:12:00Z,1111111144,Matt,Matt,
+96,"Do you recall if the token symbol on Ledger was Trace(TRAC)
+it has to be...can't imagine it's anything else
+trace labs  TRAC token
+
+there were some reddit posts back in 2022 that said the token value wasn't accurate in ledger
+
+would hate to have trouble moving it back onto an exchange or uniswap
+
+I am obviously not a genius at this stuff but I was smart enough to by trac years ago:)",2024-03-07T03:16:00Z,1111111143,KTM 300xcw,KTM,300xcw
+97,"Yes. The original token was TRACE however due to an issue, it was locked and reminted as TRAC",2024-03-07T03:23:00Z,6666666666,Bob 2.0,Bob,2.0
+98,"Ok 🙏 🔥 ...I am updated in Ledger Live...sorry but just to confirm....when adding a token to ledger it shows Trace(TRAC)...that's the correct token to move TRAC into to store on the Ledger?  Sorry for being redundant..decent chunk of TRAC",2024-03-07T03:26:00Z,1111111143,KTM 300xcw,KTM,300xcw
+99,"Yep, that ticker / token symbol is correct.",2024-03-07T03:26:00Z,1010101010,Galactic Womble,Galactic,Womble
+100,"I'm just updating my install of Ledger Live to check what price it thinks TRAC is at. It used to be way out so wouldn't be surprised if it still is...",2024-03-07T03:28:00Z,1010101010,Galactic Womble,Galactic,Womble
+101,"Awesome 😎 thanks 🙏 and I guessed that was the case but guessing is dangerous in storing crypto...does yours show the correct current market value or is that still out of whack?",2024-03-07T03:28:00Z,1111111143,KTM 300xcw,KTM,300xcw
+102,"Forwarded from: OriginTrail Official Announcements
+
+Introducing the Initial Paranet Offerings (IPOs) - the launching mechanism for Decentralized AI systems as a collection of Knowledge Assets & incentive structure voted upon by the community.
+
+IPOs bolster OriginTrail DKG growth & the Verifiable Internet for #AI!
+
+👉 https://medium.com/origintrail/the-initial-paranet-offerings-ipos-to-supercharge-the-verifiable-internet-for-ai-33cc6e04d1a7
+
+The interest to launch the first IPOs has already been pre-registered by several institutional entities and builders. If you are interested in launching an IPO, join us in Discord for more info 👇
+
+https://discord.com/invite/QctEuPCMew
+
+https://twitter.com/origin_trail/status/1773389541694419196",2024-03-28T19:06:00Z,1111111145,Martina,Martina,
+103,"Forwarded from: OriginTrail Official Announcements
+
+Exciting times ahead! Our team is on fire, spreading innovation across 3 continents this week! We're pioneering initiatives in #AI, aerospace, & electronics with OriginTrail.
+
+Join the revolution with us in New York 🗽, Hong Kong 🇭🇰, & Seville 🇪🇸.
+
+Notifications on 🔔 & give us a follow on X 👉 https://twitter.com/origin_trail
+
+https://twitter.com/origin_trail/status/1787811483046359192",2024-05-07T13:47:00Z,1111111145,Martina,Martina,
+104,"Forwarded from: 🌟 Marin
+[image_2024-05-09_15-39-50.png]
+65.2 KB - Download
+
+here i see some trac. when i click EVM data",2024-05-09T16:05:00Z,7777777777,BRX,BRX,
+105,"The key to chatanalyst will likely be the analytics and AI tools that it has developed to utilize the information it is publishing to the DKG.  All of the information it is publishing is public data (from financial reports that are easy to find online).  By using the DKG, my belief is that it makes chatanalyst's output fully verifiable, which is important if professionals are going to make investment decisions based upon chatanalyst's tools",2024-08-14T06:20:00Z,1111111146,Kool-Aid Man,Kool-Aid,Man
+106,"Forwarded from: Kool-Aid Man
+The key to chatanalyst will likely be the analytics and AI tools that...",2024-08-14T06:20:00Z,1111111147,Žiga Drev - OriginTrail.io,Žiga Drev,OriginTrail.io
+107,"1*9cZGGaJhFhYTjslaMEMZtw.gif
+11.7 MB - Download
+
+Consider public knowledge published on the DKG as a tip of an iceberg, with incomparably larger amounts of private data indexed publicly, connected to public knowledge, but protected from public viewing. The value of both the public data and private data is thus not merely established by the stand alone utility of each piece of knowledge, but rather a function of connectivity across tens of millions and in the future billions and more knowledge assets, both private and public .",2024-08-14T08:10:00Z,1111111147,Žiga Drev - OriginTrail.io,Žiga Drev,OriginTrail.io
+108,"OriginTrail.wav
+45.8 MB - Download
+
+Deep Dive on OriginTrail
+
+Podcast 16 min long,
+created from OriginTrail
+whitepaper 3 and some
+other official Origin Trail
+sorces",2024-11-05T16:18:00Z,1111111148,drMurtly,drMurtly,
+109,"Screenshot 2024-11-19 at 8.52.17 AM.png
+412.3 KB - Download",2024-12-09T16:14:00Z,1111111149,dkg://FamousAmos,dkg://FamousAmos,
+110,"image_2024-12-19_19-01-34.png
+90.4 KB - Download
+
+So I'm trying to understand the v8 edge node architecture. Can someone confirm if this chart is correct? The diagram currently doesn't have the DRAG or knowledge mining services.
+
+I slammed the documentation into GPT o1 and told it to create a mermaid diagram. Also, ignore the legend box there.",2024-12-19T19:01:00Z,1111111150,tealios switch,tealios,switch
+111,"V8_DKG_is_here_V8_DKG_..._Security_Bounty_Fady.png
+1.1 MB - Download",2024-12-19T19:53:00Z,1111111151,Curt Ain,Curt,Ain
+112,"image_2025-01-21_11-36-03.png
+34.5 KB - Download
+
+@zigadre I appreciate you attempting to address the question. This image shows the spread on Coinbase that I'm referring to. Any decently sizable orders (whether it be a buy or a sell) would have slightly less than 2% of slippage to execute",2025-01-21T11:36:00Z,1111111152,Dan (formerly just 'Dan'),Dan,"(formerly just 'Dan')"
+113,"Is v8 fully live now?",2025-02-10T17:33:00Z,1111111153,Cynna,Cynna,
+114,"Updates to Edge Nodes and paranets going live are supposedly 'days' away, according to Brana, 5 days ago.
+
+Not sure if those updates mark the end of the tuning phase tho...",2025-02-10T18:00:00Z,1111111154,TestAccountPlzIgnore,TestAccountPlzIgnore,
+115,"A lot must be happening in the background again. Victim of success. Nothing unusual 😎",2025-02-10T19:58:00Z,1111111155,angrymob,angrymob,
+116,"8.0.1 is on testnet i suspect next step is then main net",2025-02-10T19:59:00Z,1111111156,A,A,
+117,"I'm sure we'll get a good look into what's been going on in the background tmrw during the podcast",2025-02-10T20:24:00Z,1111111157,Community Shoc,Community,Shoc
+118,"Is v8 fully live now?",2025-02-10T21:24:00Z,1111111153,Cynna,Cynna,
+119,"Yes but updates and further scaling is still rolling out over the next few weeks. We are currently in tuning phase where variables are being optimised",2025-02-10T21:24:00Z,1111111115,Hot To Go,Hot To Go,
+120,"Forwarded from: OriginTrail Official Announcements
+
+The $hift to Human-Centric AI
+Going live in 1 hour!
+
+🔴 bit.ly/3E8YHeQ",2025-02-11T15:03:00Z,1111111158,LN,LN,
+121,"I am good at front-end design and development, writing smart contract on EVM and Solana chain and Web3 integration. Ping me needs my assistance.",2025-02-11T15:10:00Z,1111111159,Bernard,Bernard,
+122,"Bernard
+I am good at front-end design and development, writing smart co...
+
+you should check out docs.origintrail.io then",2025-02-11T15:29:00Z,7777777777,BRX,BRX,Community admin
+123,"Forwarded from: OriginTrail Official Announcements
+
+[The Shift to Human-Centric AI Event Image]
+
+🔴 We are live! 🔴
+
+Tune in now!
+➡️ X: https://x.com/origin_trail/status/1889328611578249633
+➡️ YouTube: https://www.youtube.com/watch?v=q-5lJh0-k
+
+🔥 5",2025-02-11T16:02:00Z,1111111158,LN,LN,
+124,"Good talk. I will let someone else touch on the interesting topics discussed, just wanted to say that hearing investor in developer team mention trac token twice might be the most bullish thing I have ever heard 🐳",2025-02-11T16:46:00Z,1111111160,Martin,Martin,
+125,"Martin
+Good talk. I will let someone else touch on the interesting topics...
+
+mention 'buying TRAC'....",2025-02-11T16:56:00Z,1111111161,CryptoGoku,CryptoGoku,
+126,"[Whale Tail GIF]",2025-02-11T16:56:00Z,1111111162,BanaCheerio,BanaCheerio,
+127,"CryptoGoku
+mention 'buying TRAC'....
+
+Did both mention buying TRAC?",2025-02-11T16:56:00Z,1111111162,BanaCheerio,BanaCheerio,
+128,"Go watch the video. According to 50% of people, there is 10% chance we are going to be annihilated. Maybe we get to buy refurbished porsche before tho",2025-02-11T17:04:00Z,1111111160,Martin,Martin,
+129,"BanaCheerio
+Did both mention buying TRAC?
+
+https://www.youtube.com/watch?v=Uqkz7u1YAGL15KF-TkeebOsdx4PqGS3qpbZa
+
+YouTube
+• Chris Rynning, Managing Partner of AMYP Ventures, a Piëch/Porsche Family Office, is an investor in OriginTrail and holder of $TRAC token
+29 seconds · Clipped by BR X · Original video 'On Trac(k) Special: The Shift to Human-Centric AI' by OriginTrail",2025-02-11T17:18:00Z,1111111123,LuKu_$trac,LuKu_$trac,Community admin
+130,"by the way, for those that are not in the community group, please join - https://t.me/OriginTrailClub
+
+[Telegram Preview Card]
+OriginTrail Community
+OriginTrail (TRAC) Community group for developers, node runners, investors, traders, whales. Unofficial.",2025-02-11T01:17:00Z,4444444444,Milian,Milian,Community admin
+131,"do we have an anticipated end date for the tuning period?",2025-02-11T01:03:33Z,1111111163,JamesQ,James,Q
+132,"James Q
+do we have an anticipated end date for the tuni...
+
+Don't believe so, this was the latest update (Brana posts regularly, so a good follow)
+
+https://x.com/BranaRakic/status/1886880372438245797t=2NidvwYdl_pumSbiH-dAbQ&s=19
+
+X (formerly Twitter)
+Brana Rakic (@BranaRakic) on X
+OriginTrail DKG Development Update
+– New Features Incoming
+
+It's been five weeks since @origin_trail DKG V8.0 launched, and several key updates are on the way. Here's what's coming:
+
+1) DKG Paranets Go Live (V8.0.1) – Just Days A...",2025-02-11T03:36:00Z,1111111164,Bob2.0,Bob,2.0
+133,"I got an issue",2025-02-11T02:05:03Z,1111111165,JuliannaEnrique,Julianna,Enrique
+134,"I need help",2025-02-11T02:05:03Z,1111111165,JuliannaEnrique,Julianna,Enrique
+135,"Julianna Enrique
+I got an issue I need help
+
+What's up?",2025-02-11T05:07:00Z,1111111164,Bob2.0,Bob,2.0
+136,"Is there a staking or yield calc anywhere?",2025-02-11T05:54:00Z,1111111166,binners,binners,
+137,"Easy way to compare which chain offers the best yield",2025-02-11T05:54:00Z,1111111166,binners,binners,
+138,"Bob 2.0
+What's up?
+
+Bot needs to know who to impersonate
+👻 🤖",2025-02-11T05:55:00Z,1111111167,GalacticWomble,Galactic,Womble
+139,"hey whom can I contact regarding Partnership?",2025-02-11T01:07:29Z,1111111168,AmanSagar,Aman,Sagar
+140,"Aman Sagar
+hey whom can I contact regarding Partnership?
+
+https://origintrail.io/contact-us
+
+origintrail.io
+Contact us",2025-02-11T07:39:00Z,1111111164,Bob2.0,Bob,2.0
+141,"Forwarded from: OriginTrail Official Announcements
+
+🇪🇺 We welcome Europe's commitment to mobilize €200 billion for AI investments!
+➡️ https://x.com/EU_Commission/status/1889311115715856309
+
+OriginTrail has been implemented in over a dozen of EU-funded solutions in construction, aerospace, supply chains, privacy protection, etc.
+
+Here are some of the initiatives supported by the EU 🌍
+
+🛫 ✈️ DMaaST is an EU-funded project leveraging OriginTrail's reliable AI to develop the Digital Product Passport (DPP), boosting responsiveness to external and unforeseen events in the electronics and aerospace sectors.
+🔗 More details: https://x.com/origin_trail/status/1786933541809250722
+
+🏗️ 🏢 The European Union supports sustainability of the construction industry with the BUILDCHAIN.
+This initiative harnesses the OriginTrail Decentralized Knowledge Graph to drive trustworthy AI for resilient construction projects across Europe.
+🔗 More details: https://x.com/origin_trail/status/1795462250259526024
+
+🇪🇺 🌐 Supported by the EU Commission, OriginTrail was selected to take part in the European Sandbox Initiative.
+The objective of this initiative is to help identify and communicate best practices in the interest of the wider EU/EEA blockchain community.
+🔗 More details: https://x.com/EuropeanSandbox/status/1801944238885173134
+
+Follow our updates for more EU-supported initiatives: let's make Europe shine at the global AI stage! 🌟",2025-02-11T07:40:00Z,1111111169,LucijaRanda,Lucija Randa,Team member
