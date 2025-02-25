@@ -4,7 +4,7 @@
 - [Step 1: Import the evaluation data](#step-1-import-the-evaluation-data)
 - [Step 2: Run the evaluation](#step-2-run-the-evaluation)
 - [Step 3: Show the results](#step-3-show-the-results)
-- [Step 4: 🎯 Your First Challenge](#step-4-🎯-your-first-challenge)
+- [Step 4: Your First Challenge - Experiment with Different Models](#step-4-your-first-challenge-experiment-with-different-models)
 - [Step 5: Start understanding the modifying the prompts, pre-grouping techniques, models](#step-5-start-understanding-the-modifying-the-prompts-pre-grouping-techniques-models)
 
 # Step 1: Import the evaluation data
@@ -71,9 +71,7 @@ Before running any evaluations, make sure you have the prerequisites and environ
 
 ### Prerequisites
 - Python 3.8+
-- Required API keys:
-  * Anthropic API key (for Claude)
-  * OpenAI API key (for GPT-4)
+- Ollama installed (for running Mistral 7B locally)
 
 ### Setup Instructions
 ```bash
@@ -84,62 +82,39 @@ source venv/bin/activate
 # Install dependencies
 pip install -r requirements.txt
 
-# IMPORTANT: Set up API keys for model access
-# These are required to run any benchmarks with state-of-the-art models
+# Install Ollama
+# macOS or Windows - Download from https://ollama.ai/download
 
-# Option 1: Set environment variables directly
-export OPENAI_API_KEY="your-openai-key"    
-export ANTHROPIC_API_KEY="your-anthropic-key"
+# Linux
+curl https://ollama.ai/install.sh | sh
 
-# Option 2: Use a .env file (recommended)
-# Create a .env file in the llm_benchmarks directory with:
-OPENAI_API_KEY=your-openai-key
-ANTHROPIC_API_KEY=your-anthropic-key
+# Pull the Mistral 7B model
+ollama pull mistral
 ```
 </details>
 
-### Main Task
+### Main Task: Conversation Clustering
 
 <details>
-<summary><strong>B: Running Conversation Clustering Evaluation</strong></summary>
+<summary><strong>Running the Evaluation with Mistral 7B</strong></summary>
 
-The conversation clustering evaluation assesses how well different models group related messages into coherent conversations.
+We'll use Mistral 7B, a powerful open-source model, to perform conversation clustering. This model provides a good balance between performance and resource requirements.
 
 ### Required Files
+- Input data: `data/groups/thisiscere/messages_thisiscere.csv`
 - Ground truth file: `data/groups/thisiscere/GT_conversations_thisiscere.csv`
-- Model prediction files:
-  * GPT-4: `data/groups/thisiscere/labels_20250131_143535_gpt4o_thisiscere.csv`
-  * Claude 3.5: `data/groups/thisiscere/labels_20250131_171944_claude35s_thisiscere.csv`
-  * DeepSeek V3: `data/groups/thisiscere/labels_20250131_185300_deepseekv3_thisiscere.csv`
 
-### Running the Evaluation
+### Running the Model
 ```bash
-python conversation_metrics.py data/groups/thisiscere
+# Start Ollama server (if not already running)
+ollama serve
+
+# Pull the Mistral 7B model (if you haven't already)
+ollama pull mistral
+
+# Run the conversation detection
+python open_source_examples/mistral.py data/groups/thisiscere/messages_thisiscere.csv
 ```
-
-### Output
-The script will generate:
-- Adjusted Rand Index (ARI) scores for clustering performance
-- Number of messages processed by each model
-- Results saved as `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
-
-Example output:
-```csv
-model,label_file,ari,n_messages
-143535,labels_20250131_143535_gpt4o_thisiscere.csv,0.583,49
-185300,labels_20250131_185300_deepseekv3_thisiscere.csv,0.865,67
-171944,labels_20250131_171944_claude35s_thisiscere.csv,0.568,49
-```
-
-Which translates to this more readable table:
-
-| Model | ARI Score (-1 to 1) | Messages Processed | Notes |
-|-------|-------------------|-------------------|-------|
-| GPT-4 | 0.583 | 49 | Moderate conversation grouping accuracy |
-| DeepSeek V3 | 0.865 | 67 | Strong conversation grouping, processed more messages |
-| Claude 3.5 | 0.568 | 49 | Moderate conversation grouping accuracy |
-
-This table shows that DeepSeek V3 achieves notably better conversation grouping accuracy (ARI score) while also processing more messages. GPT-4 and Claude 3.5 show similar performance levels, both processing the same number of messages.
 </details>
 
 ### Additional Tasks
@@ -245,16 +220,151 @@ Which translates to this more readable table:
 This table shows that all models perform well at topic labeling, with GPT-4 achieving the highest scores across all metrics. GPT-4 particularly excels in information density and redundancy reduction, while Claude 3.5 maintains strong performance across all categories. DeepSeek V3 shows good results but has slightly lower scores in information density and efficiency.
 </details>
 
-By following these steps, you'll be able to comprehensively evaluate any LLM's performance across all three core tasks: spam detection, conversation clustering, and topic labeling. The modular nature of the evaluation framework allows you to run assessments individually, making it easy to focus on specific aspects of the analysis. All results are saved in standardized CSV formats, making it simple to compare different models or track improvements over time. Remember to check the output files in your community's directory after each evaluation run for detailed metrics and analysis.
+<br/>
 
 # Step 3: Show the results
 
-After running the evaluations, the results will be stored in the community folder you're evaluating. For example, if you're evaluating the Cere Network community (which we've been using as an example throughout this guide), the results will be in `data/groups/thisiscere/`. For any other community, replace `thisiscere` with your community's name in the paths below.
+### Main Task
+
+<details>
+<summary><strong>Conversation Clustering Results</strong></summary>
+
+<br/>
+
+Results will be stored as `metrics_conversations_[community_name].csv` in your community's folder.
+
+For example, for the Cere Network community: `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
+
+### Model Output Format
+The model generates a CSV file following the naming convention:
+`data/groups/<community_name>/labels_<YYYYMMDD>_<HHMMSS>_mistral7b_<community_name>.csv`
+
+For example, if you're evaluating the Cere Network community (thisiscere) and run the script on February 25, 2025 at 20:22:30, the output file will be:
+`data/groups/thisiscere/labels_20250225_202230_mistral7b_thisiscere.csv`
+
+The file will have the following format (and for readability, we've only included a sample of the data):
+```csv
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36598,1,Token Discussion,2021-07-14T14:26:50Z,mistral7b,0.85
+36635,2,Project Updates,2025-01-15T02:52:44Z,mistral7b,0.82
+36638,0,Spam Message,2025-01-15T04:31:48Z,mistral7b,0.95
+```
+
+Which translates to this more readable table:
+
+| Message ID | Conversation ID | Topic | Timestamp | Labeler ID | Confidence |
+|------------|----------------|--------|-----------|------------|------------|
+| 36598 | 1 | Token Discussion | 2021-07-14T14:26:50Z | mistral7b | 0.85 |
+| 36635 | 2 | Project Updates | 2025-01-15T02:52:44Z | mistral7b | 0.82 |
+| 36638 | 0 | Spam Message | 2025-01-15T04:31:48Z | mistral7b | 0.95 |
+
+### Performance Metrics
+
+| Model | ARI Score (-1 to 1) | Messages Processed | Notes |
+|-------|-------------------|-------------------|-------|
+| GPT-4 | 0.583 | 49 | Moderate conversation grouping accuracy |
+| Mistral 7B | 0.865 | 67 | Strong conversation grouping, processed more messages |
+| Claude 3.5 | 0.568 | 49 | Moderate conversation grouping accuracy |
+
+
+To visualize or further analyze these results, you can:
+1. Load the CSV files into your preferred data analysis tool (Python pandas, Excel, etc.)
+2. Create comparative visualizations of model performance
+3. Analyze trends across different evaluation aspects
+4. Export metrics for integration with other monitoring tools
+
+The standardized CSV format makes it easy to:
+- Compare performance across different models
+- Track improvements over time
+- Identify specific areas where models excel or need improvement
+- Generate custom reports and visualizations
+
+Remember: The examples shown above are from the Cere Network community evaluation. When you run the evaluations on a different community, the file paths and content will reflect that community's name and data.
+
+</details>
+
+### Additional Tasks
+
+<details>
+<summary><strong>Spam Detection Results (Optional ⭐)</strong></summary>
+
+<br/>
+
+Results will be stored as `metrics_spam_detection_[community_name].csv` in your community's folder.
+
+For example, for the Cere Network community: `data/groups/thisiscere/metrics_spam_detection_thisiscere.csv`
+
+This file contains:
+- Accuracy: Overall correctness of spam classification
+- Precision: Proportion of true spam among messages flagged as spam
+- Recall: Proportion of actual spam messages that were caught
+- F1 Score: Balanced measure between precision and recall
+
+Example interpretation from Cere Network results:
+```csv
+model,label_file,accuracy,precision,recall,f1
+143535,labels_20250131_143535_gpt4o_thisiscere.csv,1.0,1.0,1.0,1.0      # Perfect spam detection
+185300,labels_20250131_185300_deepseekv3_thisiscere.csv,0.955,0.842,1.0,0.914  # High recall but some false positives
+171944,labels_20250131_171944_claude35s_thisiscere.csv,0.939,0.800,1.0,0.889    # Good overall but more false positives
+```
+
+Which translates to this more readable table:
+
+| Model | Accuracy | Precision | Recall | F1 Score | Notes |
+|-------|----------|-----------|---------|-----------|-------|
+| GPT-4 | 1.000 | 1.000 | 1.000 | 1.000 | Perfect spam detection |
+| DeepSeek V3 | 0.955 | 0.842 | 1.000 | 0.914 | High recall but some false positives |
+| Claude 3.5 | 0.939 | 0.800 | 1.000 | 0.889 | Good overall but more false positives |
+
+This table shows that while all models achieve perfect recall (catching all spam), GPT-4 stands out with perfect precision, while DeepSeek V3 and Claude 3.5 occasionally flag legitimate messages as spam.
+</details>
+
+<details>
+<summary><strong>Topic Labeling Results (Optional ⭐)</strong></summary>
+
+<br/>
+
+Results will be stored as `metrics_topics_[community_name].csv` in your community's folder.
+
+For example, for the Cere Network community: `data/groups/thisiscere/metrics_topics_thisiscere.csv`
+
+This file contains:
+- Information Density: How well topics capture essential information (1-10)
+- Redundancy: Measure of information efficiency (0-1)
+- Relevance: How well topics match conversation content (0-1)
+- Efficiency: Optimal use of words in labels (0-1)
+- Overall Score: Combined performance metric (0-1)
+
+Example interpretation from Cere Network results:
+```csv
+model,label_file,info_density,redundancy,relevance,efficiency,overall_score
+143535,labels_20250131_143535_gpt4o_thisiscere.csv,8.5,0.95,0.92,0.88,0.91      # Excellent topic labeling
+185300,labels_20250131_185300_deepseekv3_thisiscere.csv,7.8,0.88,0.85,0.82,0.84  # Good topic labeling
+171944,labels_20250131_171944_claude35s_thisiscere.csv,8.2,0.90,0.88,0.85,0.88    # Very good topic labeling
+```
+
+Which translates to this more readable table:
+
+| Model | Info Density (1-10) | Redundancy (0-1) | Relevance (0-1) | Efficiency (0-1) | Overall Score | Notes |
+|-------|-------------------|-----------------|----------------|-----------------|---------------|-------|
+| GPT-4 | 8.5 | 0.95 | 0.92 | 0.88 | 0.91 | Excellent topic labeling |
+| DeepSeek V3 | 7.8 | 0.88 | 0.85 | 0.82 | 0.84 | Good topic labeling |
+| Claude 3.5 | 8.2 | 0.90 | 0.88 | 0.85 | 0.88 | Very good topic labeling |
+
+This table shows that all models perform well at topic labeling, with GPT-4 achieving the highest scores across all metrics. GPT-4 particularly excels in information density and redundancy reduction, while Claude 3.5 maintains strong performance across all categories. DeepSeek V3 shows good results but has slightly lower scores in information density and efficiency.
+</details>
+
+### Useful links
+
+<details>
+<summary><strong>🖥️ Frontend Visualization - Interactive Results Explorer</strong></summary>
+<br/>
+For a more interactive experience with a graphical user interface, you can access the results through our web application:
+- Frontend Application URL: https://conversation-detection.stage.cere.io/
+</details>
 
 <details>
 <summary><strong>📚 Knowledge Base - Theory behind evaluation metrics</strong></summary>
-
-Now that you've seen the data, let's walk through the evaluation process. The module implements a hierarchical evaluation framework with one main task and two additional tasks:
 
 ### Main Task: Conversation Clustering
 The primary focus of our evaluation framework is the accurate clustering of messages into coherent conversations. This is the core challenge that directly impacts the quality of community analytics.
@@ -346,8 +456,7 @@ Labels are scored on a 1-10 scale where:
 ### Example Evaluation
 
 1. **Sample Conversation**:
-   ```
-   User1: "How's Arbitrum's TPS compared to other L2s?"
+   ```   User1: "How's Arbitrum's TPS compared to other L2s?"
    User2: "Currently around 40-50k TPS"
    User3: "Optimism is showing similar numbers"
    User1: "What about transaction costs?"
@@ -451,165 +560,63 @@ The evaluation emphasizes high precision to avoid disrupting legitimate conversa
 </details>
 </details>
 
-Now that we've seen the model outputs that had been pre-processed for you in advance, let's examine how these predictions translate into quantitative performance metrics across our three key evaluation criteria: spam detection, conversation clustering, and topic labeling. Each metric provides unique insights into model capabilities and limitations.
+<br/>
 
-## 📊 Your Metrics for Success
+# Step 4: Your First Challenge - Experiment with Different Models
 
-### Main Task
+Now that you've run the evaluation with Mistral 7B, it's time to experiment with other models! Ollama provides access to various open-source models that you can try.
 
 <details>
-<summary><strong>Conversation Clustering Results</strong></summary>
+<summary><strong>🔧 Practical Guide: How to Experiment with Different Models</strong></summary>
 
-Results will be stored as `metrics_conversations_[community_name].csv` in your community's folder.
+<br/>
 
-For example, for the Cere Network community: `data/groups/thisiscere/metrics_conversations_thisiscere.csv`
-
-This file contains:
-- ARI (Adjusted Rand Index): Measure of clustering accuracy (-1 to 1)
-- n_messages: Number of messages processed by each model
-
-Example interpretation from Cere Network results:
-```csv
-model,label_file,ari,n_messages
-143535,labels_20250131_143535_gpt4o_thisiscere.csv,0.583,49
-185300,labels_20250131_185300_deepseekv3_thisiscere.csv,0.865,67
-171944,labels_20250131_171944_claude35s_thisiscere.csv,0.568,49
+1. First, see what models are available:
+```bash
+ollama list
 ```
 
-Which translates to this more readable table:
+2. Pull additional models you want to try. Here are some suggestions:
+```bash
+# Try the latest Llama2 model
+ollama pull llama2
 
-| Model | ARI Score (-1 to 1) | Messages Processed | Notes |
-|-------|-------------------|-------------------|-------|
-| GPT-4 | 0.583 | 49 | Moderate conversation grouping accuracy |
-| DeepSeek V3 | 0.865 | 67 | Strong conversation grouping, processed more messages |
-| Claude 3.5 | 0.568 | 49 | Moderate conversation grouping accuracy |
+# Or experiment with CodeLlama
+ollama pull codellama
 
-This table shows that DeepSeek V3 achieves notably better conversation grouping accuracy (ARI score) while also processing more messages. GPT-4 and Claude 3.5 show similar performance levels, both processing the same number of messages.
-</details>
-
-### Additional Tasks
-
-<details>
-<summary><strong>Spam Detection Results (Optional ⭐)</strong></summary>
-
-Results will be stored as `metrics_spam_detection_[community_name].csv` in your community's folder.
-
-For example, for the Cere Network community: `data/groups/thisiscere/metrics_spam_detection_thisiscere.csv`
-
-This file contains:
-- Accuracy: Overall correctness of spam classification
-- Precision: Proportion of true spam among messages flagged as spam
-- Recall: Proportion of actual spam messages that were caught
-- F1 Score: Balanced measure between precision and recall
-
-Example interpretation from Cere Network results:
-```csv
-model,label_file,accuracy,precision,recall,f1
-143535,labels_20250131_143535_gpt4o_thisiscere.csv,1.0,1.0,1.0,1.0      # Perfect spam detection
-185300,labels_20250131_185300_deepseekv3_thisiscere.csv,0.955,0.842,1.0,0.914  # High recall but some false positives
-171944,labels_20250131_171944_claude35s_thisiscere.csv,0.939,0.800,1.0,0.889    # Good overall but more false positives
+# Or try Phi-2
+ollama pull phi
 ```
 
-Which translates to this more readable table:
+3. Modify the example script to work with your chosen model:
+- Copy `open_source_examples/mistral.py` to create your own version
+- Update the model name and any model-specific parameters
+- Run your evaluation with the new model
+- Compare the results with Mistral 7B's performance
 
-| Model | Accuracy | Precision | Recall | F1 Score | Notes |
-|-------|----------|-----------|---------|-----------|-------|
-| GPT-4 | 1.000 | 1.000 | 1.000 | 1.000 | Perfect spam detection |
-| DeepSeek V3 | 0.955 | 0.842 | 1.000 | 0.914 | High recall but some false positives |
-| Claude 3.5 | 0.939 | 0.800 | 1.000 | 0.889 | Good overall but more false positives |
+### Research Questions to Explore
 
-This table shows that while all models achieve perfect recall (catching all spam), GPT-4 stands out with perfect precision, while DeepSeek V3 and Claude 3.5 occasionally flag legitimate messages as spam.
+As you experiment with different models, consider these questions:
+- How do different model sizes affect the conversation clustering accuracy?
+- What's the trade-off between model size and performance?
+- Which models are better at specific aspects (topic labeling, spam detection)?
+- Can you find a model that performs better than Mistral 7B for your specific use case?
+
+### Tips for Model Experimentation
+
+- Start with smaller models first to understand the evaluation process
+- Keep track of your results in a systematic way
+- Consider factors like:
+  * Model size vs. performance
+  * Processing speed
+  * Resource requirements
+  * Quality of topic labels
+  * Accuracy of conversation grouping
+
+Remember to check the [Ollama model library](https://ollama.ai/library) for the latest available models and their specific capabilities.
 </details>
 
-<details>
-<summary><strong>Topic Labeling Results (Optional ⭐)</strong></summary>
-
-Results will be stored as `metrics_topics_[community_name].csv` in your community's folder.
-
-For example, for the Cere Network community: `data/groups/thisiscere/metrics_topics_thisiscere.csv`
-
-This file contains:
-- Information Density: How well topics capture essential information (1-10)
-- Redundancy: Measure of information efficiency (0-1)
-- Relevance: How well topics match conversation content (0-1)
-- Efficiency: Optimal use of words in labels (0-1)
-- Overall Score: Combined performance metric (0-1)
-
-Example interpretation from Cere Network results:
-```csv
-model,label_file,info_density,redundancy,relevance,efficiency,overall_score
-143535,labels_20250131_143535_gpt4o_thisiscere.csv,8.5,0.95,0.92,0.88,0.91      # Excellent topic labeling
-185300,labels_20250131_185300_deepseekv3_thisiscere.csv,7.8,0.88,0.85,0.82,0.84  # Good topic labeling
-171944,labels_20250131_171944_claude35s_thisiscere.csv,8.2,0.90,0.88,0.85,0.88    # Very good topic labeling
-```
-
-Which translates to this more readable table:
-
-| Model | Info Density (1-10) | Redundancy (0-1) | Relevance (0-1) | Efficiency (0-1) | Overall Score | Notes |
-|-------|-------------------|-----------------|----------------|-----------------|---------------|-------|
-| GPT-4 | 8.5 | 0.95 | 0.92 | 0.88 | 0.91 | Excellent topic labeling |
-| DeepSeek V3 | 7.8 | 0.88 | 0.85 | 0.82 | 0.84 | Good topic labeling |
-| Claude 3.5 | 8.2 | 0.90 | 0.88 | 0.85 | 0.88 | Very good topic labeling |
-
-This table shows that all models perform well at topic labeling, with GPT-4 achieving the highest scores across all metrics. GPT-4 particularly excels in information density and redundancy reduction, while Claude 3.5 maintains strong performance across all categories. DeepSeek V3 shows good results but has slightly lower scores in information density and efficiency.
-</details>
-
-To visualize or further analyze these results, you can:
-1. Load the CSV files into your preferred data analysis tool (Python pandas, Excel, etc.)
-2. Create comparative visualizations of model performance
-3. Analyze trends across different evaluation aspects
-4. Export metrics for integration with other monitoring tools
-
-The standardized CSV format makes it easy to:
-- Compare performance across different models
-- Track improvements over time
-- Identify specific areas where models excel or need improvement
-- Generate custom reports and visualizations
-
-Remember: The examples shown above are from the Cere Network community evaluation. When you run the evaluations on a different community, the file paths and content will reflect that community's name and data.
-
-### See the results in the Frontend Visualization (Optional)
-
-For a more interactive experience with a graphical user interface, you can access the results through our web application:
-- Frontend Application URL: https://conversation-detection.stage.cere.io/
-<br/><br/>
-
-# Step 4: 🎯 Your First Challenge
-
-## Open Source Examples
-
-For those interested in using open-source, self-hosted models, we provide a detailed guide and example implementations in the `open_source_examples` directory. The guide covers:
-
-<details>
-<summary><strong>1. Ollama Setup & Configuration</strong></summary>
-
-- Complete setup instructions for Ollama
-- Server configuration and management
-- Model installation and deployment
-- Common troubleshooting steps
-</details>
-
-<details>
-<summary><strong>2. Example Implementation: Mistral 7B</strong></summary>
-
-- Full implementation of conversation detection
-- Follows the same evaluation framework
-- Produces compatible output formats
-- Demonstrates best practices for adding new models
-</details>
-
-Check out `open_source_examples/README.md` for:
-- Detailed setup instructions
-- Implementation guidelines
-- Output format specifications
-- Troubleshooting tips
-- Instructions for adding your own models
-
-This allows you to:
-1. Run evaluations with open-source models
-2. Compare results with commercial models
-3. Add support for new models
-4. Contribute your own implementations
+<br/>
 
 # Step 5: Start understanding the modifying the prompts, pre-grouping techniques, models
 
