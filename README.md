@@ -1,25 +1,11 @@
 # Conversation Analysis Tests with LLMs - Test Suite
 
 ## Table of Contents
-- [Overview](#overview)
 - [Step 1: Import the evaluation data](#step-1-import-the-evaluation-data)
 - [Step 2: Run the evaluation](#step-2-run-the-evaluation)
 - [Step 3: Show the results](#step-3-show-the-results)
-- [Step 4: 🎯 Your First Challenge](#step-4-hot-swap-different-models)
+- [Step 4: 🎯 Your First Challenge](#step-4-🎯-your-first-challenge)
 - [Step 5: Start understanding the modifying the prompts, pre-grouping techniques, models](#step-5-start-understanding-the-modifying-the-prompts-pre-grouping-techniques-models)
-
-# Overview
-
-The Conversation Analysis Tests with LLMs module provides a standardized framework for evaluating and comparing different Large Language Models (LLMs) in the context of conversation detection and topic classification. This module currently supports benchmarking of:
-
-- Claude 3.5 Sonnet (Anthropic)
-- GPT-4 (OpenAI)
-- DeepSeek V3 (DeepSeek)
-
-The benchmarking system is designed to evaluate models on three primary tasks:
-1. Conversation Detection: Identifying coherent conversations within a stream of messages
-2. Topic Classification: Assigning accurate and informative topic labels to detected conversations
-3. Spam Detection: Identifying spam messages within a conversation
 
 # Step 1: Import the evaluation data
 
@@ -588,7 +574,7 @@ For a more interactive experience with a graphical user interface, you can acces
 - Frontend Application URL: https://conversation-detection.stage.cere.io/
 <br/><br/>
 
-# Step 4: 🎯 Your First Challenge - Hot swap different models
+# Step 4: 🎯 Your First Challenge
 
 ## Open Source Examples
 

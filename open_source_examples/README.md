@@ -17,10 +17,10 @@ Ollama is a framework that allows you to run open-source language models locally
 
 1. Install Ollama:
    ```bash
-   # macOS or Linux
+   # Linux
    curl https://ollama.ai/install.sh | sh
    
-   # Windows
+   # macOS or Windows
    # Download from https://ollama.ai/download
    ```
 
@@ -99,7 +99,7 @@ This example demonstrates how to implement conversation detection using the Mist
 
 2. Install Python dependencies:
    ```bash
-   pip install requests
+   # From the root directory of the project
    ```
 
 ### Usage
