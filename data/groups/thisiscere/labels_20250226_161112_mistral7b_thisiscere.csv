@@ -1,0 +1,33 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36598,0,Spam Messages,2021-07-14T14:26:50Z,mistral7b,0.99
+36599,1,AirDrop Event Announcement,2021-07-14T14:30:19Z,mistral7b,1.0
+36600,1,Offering Rejection,2021-07-14T13:35:27Z,mistral7b,1.0
+36602,1,AirDrop Event Announcement,2021-07-14T14:26:50Z,mistral7b,1.0
+36603,1,New User Introduction,2021-07-14T14:30:19Z,mistral7b,1.0
+36605,1,AirDrop Event Instructions,2021-07-14T15:55:11Z,mistral7b,1.0
+36634,1,Giveaway,2025-01-14T23:29:28Z,Labeler1,0.9
+36635,1,Giveaway,2025-01-15T02:52:44Z,Labeler1,0.9
+36636,2,Business Inquiry,2025-01-15T04:31:48Z,Labeler2,0.9
+36637,2,Reply to Business Inquiry,2025-01-15T04:32:30Z,Labeler2,0.9
+36638,3,Expectation,2025-01-15T04:31:48Z,Labeler3,0.9
+36639,3,Reply to Expectation,2025-01-15T04:32:30Z,Labeler3,0.9
+36640,3,Contact Information,2025-01-15T04:36:04Z,Labeler3,0.9
+36641,4,Promotion,2025-01-15T06:09:00Z,Labeler4,0.9
+36642,4,Reply to Promotion,2025-01-15T06:09:00Z,Labeler4,0.9
+36644,1,Discussion on price defense strategy,2025-01-15T07:26:01Z,mistral7b,0.9
+36646,1,Volume and price,2025-01-15T07:47:13Z,mistral7b,0.8
+36647,1,Bot interaction detection,2025-01-15T08:16:34Z,mistral7b,0.9
+36648,2,New topic - Not specified,2025-01-15T08:16:58Z,mistral7b,0.5
+36652,1,Follow-up on price defense strategy,2025-01-15T11:38:50Z,mistral7b,0.9
+36653,1,Response to Tem9o9's question,2025-01-15T11:42:31Z,mistral7b,0.9
+36654,1,Confirmation of previous response,2025-01-15T11:43:19Z,mistral7b,0.9
+36655,3,Unrelated topic - Thoughts and prayers,2025-01-15T12:38:55Z,mistral7b,0.7
+36656,1,Follow-up on price defense strategy,2025-01-15T13:15:46Z,mistral7b,0.9
+36657,1,Answer to Tem9o9's question,2025-01-15T13:32:51Z,mistral7b,0.9
+36658,1,Discussion on skepticism and need for boost,2025-01-15T13:41:40Z,mistral7b,0.9
+36659,4,Criticism of the answer,2025-01-15T13:43:43Z,mistral7b,0.8
+36660,5,Reminiscing about past experiences,2025-01-15T13:43:54Z,mistral7b,0.7
+36661,5,Agreement on reminiscing about the past,2025-01-15T13:43:54Z,mistral7b,0.9
+36662,5,Recognition of a long-time user,2025-01-15T13:44:28Z,mistral7b,0.8
+36663,6,Appreciation for the long-time user,2025-01-15T13:57:37Z,mistral7b,0.9
+36664,6,Agreeing with appreciation,2025-01-15T13:59:11Z,mistral7b,0.9

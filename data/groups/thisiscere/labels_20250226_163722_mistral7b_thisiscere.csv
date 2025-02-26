@@ -1,0 +1,30 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36598,0,Spam Messages,2025-01-14T13:30:19Z,mistral7b,0.99
+36599,1,AirDrop Event for X Token,2025-01-14T14:30:19Z,mistral7b,1.0
+36600,1,No need to offer again,2025-01-14T13:35:27Z,mistral7b,1.0
+36602,1,Hello everyone!,2025-01-14T14:26:50Z,mistral7b,1.0
+36603,1,Already passed by,2025-01-14T14:30:19Z,mistral7b,1.0
+36605,1,Empire XBot AirDrop Event,2025-01-14T15:55:11Z,mistral7b,1.0
+36635,1,Giveaway,2025-01-15T02:52:44Z,mistral7b,0.9
+36638,2,Technical Partnership Inquiry,2025-01-15T04:31:48Z,mistral7b,0.9
+36639,2,Response to Technical Partnership Inquiry,2025-01-15T04:32:30Z,mistral7b,0.9
+36640,2,Contact Information for Proposals,2025-01-15T04:36:04Z,mistral7b,0.9
+36641,3,Expectations for Cere,2025-01-15T05:05:31Z,mistral7b,0.8
+36642,3,Agreeing with Expectations for Cere,2025-01-15T06:09:00Z,mistral7b,0.8
+36644,1,Discussion on price defense strategy,2025-01-15T07:26:01Z,mistral7b,0.98
+36646,1,Volume and price discussion,2025-01-15T07:47:13Z,mistral7b,0.9
+36647,1,Bot interaction detection,2025-01-15T08:16:34Z,mistral7b,0.95
+36648,2,New topic introduction,2025-01-15T08:16:58Z,mistral7b,0.9
+36652,1,Request for response from users broersma and nerbke,2025-01-15T11:38:50Z,mistral7b,0.97
+36653,1,Response to request from Tem9o9,2025-01-15T11:42:31Z,mistral7b,0.99
+36654,1,Confirmation of response,2025-01-15T11:43:19Z,mistral7b,0.99
+36655,3,Unrelated discussion - thoughts and prayers,2025-01-15T12:38:55Z,mistral7b,0.7
+36656,1,Follow-up on response from nerbke,2025-01-15T13:15:46Z,mistral7b,0.98
+36657,1,Answer to follow-up from Tem9o9,2025-01-15T13:32:51Z,mistral7b,0.99
+36658,1,Discussion on boosting old holders' confidence,2025-01-15T13:41:40Z,mistral7b,0.95
+36659,4,Skepticism towards the answer,2025-01-15T13:43:43Z,mistral7b,0.85
+36660,5,Reminiscing about past experiences,2025-01-15T13:43:54Z,mistral7b,0.9
+36661,5,Acknowledgement of being present in 2020,2025-01-15T13:43:54Z,mistral7b,0.9
+36662,5,Recognition of Protocol920 as an OG,2025-01-15T13:44:28Z,mistral7b,0.9
+36663,6,Reason for being on the platform,2025-01-15T13:57:37Z,mistral7b,0.8
+36664,6,Agreeing with reason for being on the platform,2025-01-15T13:59:11Z,mistral7b,0.9

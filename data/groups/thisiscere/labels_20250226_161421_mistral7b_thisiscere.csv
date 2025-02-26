@@ -1,0 +1,30 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36598,0,Spam Messages,2021-07-14T12:00:00,mistral7b,1.0
+36599,1,Empire Airdrop Event,2021-07-14T13:33:47,2.0,1.0
+36600,1,Offering for Developer Services,2021-07-14T13:35:27,3.0,1.0
+36602,1,NSYE Opening,2021-07-14T14:26:50,4.0,1.0
+36603,1,Announcement by Devx233,2021-07-14T14:30:19,5.0,1.0
+36605,1,Empire Airdrop Event Details,2021-07-14T15:55:11,6.0,1.0
+36635,1,Giveaway,2025-01-15T02:52:44Z,mistral7b,0.9
+36638,2,Partnership Inquiry,2025-01-15T04:31:48Z,mistral7b,0.9
+36639,2,Response to Partnership Inquiry,2025-01-15T04:32:30Z,mistral7b,0.9
+36640,2,Contact Information for Proposals,2025-01-15T04:36:04Z,mistral7b,0.9
+36641,3,Promotion of Smart Bot,2025-01-15T05:05:31Z,mistral7b,0.8
+36642,3,Reply to Promotion of Smart Bot,2025-01-15T06:09:00Z,mistral7b,0.8
+36644,1,Discussion on team's strategy for price defense,2025-01-15T07:26:01Z,mistral7b,0.98
+36646,1,Comment on low volume and price,2025-01-15T07:47:13Z,mistral7b,0.85
+36647,1,Question about interaction,2025-01-15T08:16:34Z,mistral7b,0.9
+36648,2,Open-ended question,2025-01-15T08:16:58Z,mistral7b,0.7
+36652,1,Request for team members' attention,2025-01-15T11:38:50Z,mistral7b,0.95
+36653,1,Response to request for attention,2025-01-15T11:42:31Z,mistral7b,0.95
+36654,1,Confirmation of response,2025-01-15T11:43:19Z,mistral7b,0.98
+36655,0,Spam Messages,2025-01-15T12:38:55Z,mistral7b,1.0
+36656,1,Follow-up on team's response,2025-01-15T13:15:46Z,mistral7b,0.95
+36657,1,Confirmation of team's answer,2025-01-15T13:32:51Z,mistral7b,0.98
+36658,1,Discussion on skepticism and need for reassurance,2025-01-15T13:41:40Z,mistral7b,0.9
+36659,2,Question about belief in team's answer,2025-01-15T13:43:43Z,mistral7b,0.8
+36660,3,Greeting and reminiscence,2025-01-15T13:43:54Z,mistral7b,0.75
+36661,3,Comment on time elapsed since previous interaction,2025-01-15T13:43:54Z,mistral7b,0.85
+36662,3,Recognition of user as an OG,2025-01-15T13:44:28Z,mistral7b,0.9
+36663,4,Testimonial about the reason for being on the platform,2025-01-15T13:57:37Z,mistral7b,0.8
+36664,4,Agreeing with testimonial,2025-01-15T13:59:11Z,mistral7b,0.9
