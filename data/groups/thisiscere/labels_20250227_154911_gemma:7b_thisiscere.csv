@@ -1,0 +1,8 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36574,1,Spam Messages,2025-01-14T02:05:49,gemma:7b,1.0
+36575,2,Spam Messages,2025-01-14T02:22:38,gemma:7b,1.0
+36576,3,Spam Messages,2025-01-14T02:30:26,gemma:7b,1.0
+36571,4,Technical Support,2025-01-14T01:47:49,gemma:7b,0.95
+36572,5,Product Inquiry,2025-01-14T01:48:18,gemma:7b,0.98
+36573,6,Billing Issues,2025-01-14T01:48:47,gemma:7b,0.99
+...,,,,gemma:7b,

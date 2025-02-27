@@ -1,0 +1,60 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36574,1,Alert about Token Giveaway,20250114020549,gemma:7b,1.0
+36573,2,Alert about Token Giveaway,20250114020049,gemma:7b,1.0
+36572,3,Alert about Token Giveaway,20250114015549,gemma:7b,1.0
+36571,4,Alert about Token Giveaway,20250114015049,gemma:7b,1.0
+36570,5,Spam Messages,20250114014549,gemma:7b,1.0
+36569,6,Spam Messages,20250114014049,gemma:7b,1.0
+36568,7,Spam Messages,20250114013549,gemma:7b,1.0
+36578,1,Mobile Phone Alerts,20250114051733,gemma:7b,1.0
+36580,2,PAWS Festival Giveaway,20250114064659,gemma:7b,1.0
+36582,3,Bull Market Confirmation,20250114092102,gemma:7b,1.0
+36583,3,Froshray,20250114093558,gemma:7b,1.0
+36587,3,Announcement Discussion,20250114094036,gemma:7b,1.0
+36588,3,Crypto Market Analysis,20250114094206,gemma:7b,1.0
+36589,3,Bren's Updates,20250114100349,gemma:7b,1.0
+36590,0,Spam Messages,20250114101101,gemma:7b,1.0
+36592,4,Cryptocurrency Market Analysis,20250114112840,gemma:7b,1.0
+36597,5,Hiring Announcement,20250114132545,gemma:7b,1.0
+36599,1,Informal Chat,20250114000000,gemma:7b,1.0
+36600,2,Product Inquiry,20250114000500,gemma:7b,1.0
+36601,2,Product Inquiry,20250114000800,gemma:7b,1.0
+36611,3,Update Announcement,20250114005900,gemma:7b,1.0
+36613,3,Update Announcement,20250114005925,gemma:7b,1.0
+36613,3,Update Announcement,20250114005925,gemma:7b,1.0
+36615,1,Partnerships,20250114183454,gemma:7b,1.0
+36616,1,Gas fees refund,20250114184909,gemma:7b,1.0
+36617,1,Gas fees refund,20250114184913,gemma:7b,1.0
+36618,1,Multi-chain fees reimbursement,20250114184915,gemma:7b,1.0
+36619,1,Multi-chain fees reimbursement,20250114184917,gemma:7b,1.0
+36620,2,Cere Network x Hyperbridge integration,20250114185127,gemma:7b,1.0
+36621,2,Announcements,20250114185343,gemma:7b,1.0
+36623,3,Financial opportunities,20250114185657,gemma:7b,1.0
+36626,4,Moderation opportunities,20250114212347,gemma:7b,1.0
+36627,5,Financial automation,20250114220201,gemma:7b,1.0
+36628,1,AirDrop Giveaway,20250114220540,gemma:7b,1.0
+36630,0,Spam Messages,20250114235541,gemma:7b,1.0
+36633,2,Dog New Year's Event,20250115012149,gemma:7b,1.0
+36634,3,PAWS Giveaway,20250115015655,gemma:7b,1.0
+36638,4,Partnership Inquiry,20250115043148,gemma:7b,1.0
+36639,4,Partnership Inquiry,20250115043230,gemma:7b,1.0
+36640,4,Expectation Update,20250115043604,gemma:7b,1.0
+36641,4,Expectation Update,20250115050531,gemma:7b,1.0
+36642,0,Spam Messages,20250115060900,gemma:7b,1.0
+36644,1,Price Support,20250115072601,gemma:7b,1.0
+36646,1,Price Support,20250115074713,gemma:7b,1.0
+36647,0,Spam Messages,20250115081634,gemma:7b,1.0
+36648,0,Spam Messages,20250115081658,gemma:7b,1.0
+36652,2,Collaboration,20250115113850,gemma:7b,1.0
+36653,2,Collaboration,20250115114231,gemma:7b,1.0
+36654,2,Collaboration,20250115114319,gemma:7b,1.0
+36655,0,Thoughts and Prayers,20250115123855,gemma:7b,1.0
+36656,2,Collaboration,20250115131546,gemma:7b,1.0
+36657,2,Collaboration,20250115133251,gemma:7b,1.0
+36658,1,Market Sentiment,20250115133905,gemma:7b,1.0
+36659,1,Market Sentiment,20250115134140,gemma:7b,1.0
+36660,2,Remembrance & Timeline,20250115134343,gemma:7b,1.0
+36661,2,Remembrance & Timeline,20250115134354,gemma:7b,1.0
+36662,2,Protocol Recognition,20250115134428,gemma:7b,1.0
+36663,3,Personal Connection,20250115135737,gemma:7b,1.0
+36664,3,Personal Connection,20250115135911,gemma:7b,1.0

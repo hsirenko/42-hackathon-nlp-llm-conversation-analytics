@@ -1,0 +1,33 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36574,1,Alert about Token Giveaway,2025-01-14T02:05:49,gemma:7b,
+36573,2,Alert about Token Giveaway,2025-01-14T02:00:49,gemma:7b,
+36572,3,Alert about Token Giveaway,2025-01-14T01:55:49,gemma:7b,
+36571,4,Alert about Token Giveaway,2025-01-14T01:50:49,gemma:7b,
+36570,5,Spam Messages,2025-01-14T01:45:49,gemma:7b,
+36569,6,Spam Messages,2025-01-14T01:40:49,gemma:7b,
+36568,7,Spam Messages,2025-01-14T01:35:49,gemma:7b,
+...,,,,gemma:7b,
+36578,1,Mobile Phone Alert,2025-01-14T05:17:33Z,gemma:7b,1.0
+36580,2,PAWS Festival Giveaway,2025-01-14T06:46:59Z,gemma:7b,1.0
+36582,3,Confirmation of Bull Run,2025-01-14T09:21:02Z,gemma:7b,1.0
+36583,3,Froshray,2025-01-14T09:35:58Z,gemma:7b,0.95
+36587,3,Announcement Update,2025-01-14T09:40:36Z,gemma:7b,0.9
+36588,3,Concerns Regarding CERE,2025-01-14T09:42:06Z,gemma:7b,0.9
+36589,3,Bren's Potential Updates,2025-01-14T10:03:49Z,gemma:7b,0.9
+36590,0,Spam Messages,2025-01-14T10:11:01Z,gemma:7b,0.0
+36592,4,Crypto Market Analysis,2025-01-14T11:28:40Z,gemma:7b,1.0
+36597,5,Hiring Offer,2025-01-14T13:25:45Z,gemma:7b,0.98
+36599,1,Internal Discussion,2025-01-14 12:00:00,gemma:7b,0.9
+36600,2,Product Announcement,2025-01-14 12:01:00,gemma:7b,0.95
+36611,2,Product Announcement,2025-01-14 12:39:00,gemma:7b,0.9
+36613,2,Product Announcement,2025-01-14 12:47:25,gemma:7b,0.9
+36613,2,Product Announcement,2025-01-14 12:47:25,gemma:7b,0.9
+36615,1,Partnership discussions,2025-01-14T18:34:54Z,gemma:7b,0.95
+36616,2,Gas fees reimbursement,2025-01-14T18:49:09Z,gemma:7b,0.98
+36617,2,Gas fees reimbursement,2025-01-14T18:49:13Z,gemma:7b,0.98
+36618,2,Gas fees reimbursement,2025-01-14T18:49:15Z,gemma:7b,0.98
+36619,2,Gas fees reimbursement,2025-01-14T18:49:17Z,gemma:7b,0.98
+36620,3,Cere Network x Hyperbridge integration,2025-01-14T18:51:27Z,gemma:7b,0.99
+36623,4,Market analysis and predictions,2025-01-14T18:56:57Z,gemma:7b,0.85
+36626,0,Spam Messages,2025-01-14T21:23:47Z,gemma:7b,0.0
+36627,0,Spam Messages,2025-01-14T22:02:01Z,gemma:7b,0.0
