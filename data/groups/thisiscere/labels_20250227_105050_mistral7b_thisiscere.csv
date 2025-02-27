@@ -1,0 +1,33 @@
+message_id,conversation_id,topic,timestamp,labeler_id,confidence
+36598,0,Spam Messages,2021-07-01 14:26:50,mistral7b,0.99
+36599,1,AirDrop Event,2021-07-01 14:30:19,mistral7b,0.98
+36600,1,Offering,2021-07-01 13:35:27,mistral7b,0.95
+36602,1,Announcement,2021-07-01 14:26:50,mistral7b,0.98
+36603,2,New User Introduction,2021-07-01 14:30:19,mistral7b,0.99
+36605,1,AirDrop Event Follow-up,2021-07-01 15:55:11,mistral7b,0.98
+36635,1,Giveaway,2025-01-15T02:52:44Z,mistral7b,0.9
+36638,2,Technical Partnership Inquiry,2025-01-15T04:31:48Z,mistral7b,0.9
+36639,2,Contact Information for Proposals,2025-01-15T04:32:30Z,mistral7b,0.9
+36640,2,Response to Inquiry,2025-01-15T04:36:04Z,mistral7b,0.9
+36641,3,Expected Good Things from Cere,2025-01-15T05:05:31Z,mistral7b,0.8
+36642,3,Agree with Expectations,2025-01-15T06:09:00Z,mistral7b,0.8
+36636,0,Spam Messages,2025-01-15T00:00:00Z,mistral7b,1.0
+36637,0,Spam Messages,2025-01-15T00:48:09Z,mistral7b,1.0
+36643,4,Ethereum Profits with Smart Bot,2025-01-15T07:59:00Z,mistral7b,0.7
+36644,1,Discussion on price defense strategy,2025-01-15T07:26:01Z,mistral7b,0.9
+36646,1,Reaction to previous message,2025-01-15T07:47:13Z,mistral7b,0.8
+36647,1,Expressing dissatisfaction with conversation,2025-01-15T08:16:34Z,mistral7b,0.7
+36648,1,Initiating a new topic,2025-01-15T08:16:58Z,mistral7b,0.6
+36652,2,Request for collaboration,2025-01-15T11:38:50Z,mistral7b,0.95
+36653,2,Confirmation of request,2025-01-15T11:42:31Z,mistral7b,0.95
+36654,2,Acknowledgement,2025-01-15T11:43:19Z,mistral7b,0.95
+36655,3,Expressing concern,2025-01-15T12:38:55Z,mistral7b,0.7
+36656,3,Follow-up on concern,2025-01-15T13:15:46Z,mistral7b,0.9
+36657,3,Response to follow-up,2025-01-15T13:32:51Z,mistral7b,0.9
+36658,3,Discussion on skepticism and boosting morale,2025-01-15T13:39:05Z,mistral7b,0.9
+36659,4,Expressing disbelief,2025-01-15T13:41:40Z,mistral7b,0.8
+36660,5,Recalling past experiences,2025-01-15T13:43:43Z,mistral7b,0.9
+36661,5,Confirming past experience,2025-01-15T13:43:54Z,mistral7b,0.9
+36662,5,Recognizing an OG member,2025-01-15T13:44:28Z,mistral7b,0.8
+36663,6,Expressing gratitude,2025-01-15T13:57:37Z,mistral7b,0.7
+36664,6,Agreeing with gratitude,2025-01-15T13:59:11Z,mistral7b,0.6
